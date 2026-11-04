@@ -1,0 +1,525 @@
+<!doctype html>
+<html lang="zh-Hant-TW">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>人生成就地圖</title>
+<style>
+  :root {
+    --paper: #FBF8F3; --ink: #2A2420; --muted: #8A7F75; --line: #E4DDD3; --accent: #BC5838;
+    --sea: #F3EFE8;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; background: var(--paper); color: var(--ink);
+    font-family: "Noto Sans TC", "Microsoft JhengHei", "PingFang TC", sans-serif; }
+  body { display: grid; grid-template-rows: auto 1fr; }
+  header { display: flex; align-items: center; gap: 24px; padding: 14px 24px; border-bottom: 1px solid var(--line); flex-wrap: wrap; }
+  h1 { font-family: "Noto Serif TC", "PMingLiU", serif; font-size: 22px; margin: 0; letter-spacing: .08em; font-weight: 700; }
+  .toggles { display: flex; gap: 12px; margin-left: auto; flex-wrap: wrap; }
+  .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 4px; overflow: hidden; }
+  .seg button { border: 0; background: transparent; padding: 6px 14px; font: inherit; font-size: 14px; color: var(--muted); cursor: pointer; }
+  .seg button + button { border-left: 1px solid var(--line); }
+  .seg button.on { background: var(--ink); color: var(--paper); }
+  main { display: grid; grid-template-columns: 1fr 340px; min-height: 0; }
+  #mapwrap { position: relative; min-height: 0; background: var(--sea); }
+  #map { width: 100%; height: 100%; display: block; }
+  #map path.area { stroke: #fff; stroke-width: .5; vector-effect: non-scaling-stroke; cursor: pointer; }
+  #map path.area:hover { stroke: var(--ink); stroke-width: 1.2; }
+  #map path.mesh { fill: none; stroke: #9C8F82; stroke-width: .9; vector-effect: non-scaling-stroke; pointer-events: none; }
+  #map path.sphere { fill: #F7F4EE; stroke: var(--line); vector-effect: non-scaling-stroke; }
+  #map circle.city { stroke: #fff; vector-effect: non-scaling-stroke; cursor: pointer; }
+  #map circle.todo { fill: #FBF8F3; stroke: #8A7F75; stroke-width: 1; vector-effect: non-scaling-stroke; cursor: pointer; opacity: .85; }
+  #map circle.todo.whs { stroke: #4F7A74; opacity: .45; }
+  #map circle.poi { stroke: #2A2420; stroke-width: .8; vector-effect: non-scaling-stroke; cursor: pointer; }
+  .recs .sec { margin-bottom: 12px; }
+  .recs .sec b { display: block; font-size: 13px; font-weight: 600; margin-bottom: 4px; }
+  .recs ul { list-style: none; margin: 0; padding: 0; }
+  .recs li { font-size: 14px; padding: 4px 0; cursor: pointer; border-bottom: 1px dashed var(--line); }
+  .recs li:hover { color: var(--accent); }
+  .recs li small { display: block; color: var(--muted); font-size: 12px; }
+  label.chk { font-size: 14px; color: var(--muted); display: inline-flex; align-items: center; gap: 4px; cursor: pointer; }
+  #tip { position: absolute; pointer-events: none; background: var(--ink); color: var(--paper); font-size: 13px;
+    padding: 5px 9px; border-radius: 3px; opacity: 0; transition: opacity .1s; white-space: nowrap; }
+  .hint { position: absolute; left: 14px; bottom: 10px; font-size: 12px; color: var(--muted); }
+  aside { border-left: 1px solid var(--line); overflow-y: auto; padding: 18px 20px 30px; }
+  .scores { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 22px; }
+  .score b { display: block; font-family: "Noto Serif TC", serif; font-size: 38px; line-height: 1.1; font-variant-numeric: tabular-nums; }
+  .score span { font-size: 12px; color: var(--muted); letter-spacing: .05em; }
+  h2 { font-size: 13px; letter-spacing: .12em; color: var(--muted); font-weight: 500; margin: 22px 0 10px; border-bottom: 1px solid var(--line); padding-bottom: 6px; }
+  .set { margin-bottom: 12px; }
+  .set .row { display: flex; justify-content: space-between; font-size: 14px; margin-bottom: 4px; }
+  .set .row em { font-style: normal; color: var(--muted); font-variant-numeric: tabular-nums; }
+  .bar { height: 6px; background: var(--line); border-radius: 3px; overflow: hidden; }
+  .bar i { display: block; height: 100%; background: var(--accent); }
+  .legend { display: grid; gap: 5px; font-size: 13px; }
+  .legend div { display: flex; align-items: center; gap: 8px; }
+  .legend s { width: 14px; height: 14px; border-radius: 2px; display: inline-block; }
+  .legend small { color: var(--muted); }
+  .recent { list-style: none; padding: 0; margin: 0; font-size: 14px; }
+  .recent li { padding: 7px 0; border-bottom: 1px dashed var(--line); cursor: pointer; display: flex; gap: 8px; align-items: baseline; }
+  .recent li:hover { color: var(--accent); }
+  .recent time { color: var(--muted); font-size: 12px; min-width: 62px; font-variant-numeric: tabular-nums; }
+  .note { font-size: 12px; color: var(--muted); margin-top: 18px; line-height: 1.6; }
+  #card { position: absolute; right: 16px; top: 16px; width: 330px; max-height: calc(100% - 32px); overflow-y: auto;
+    background: var(--paper); border: 1px solid var(--line); box-shadow: 0 6px 24px rgba(42,36,32,.12); padding: 18px 20px; display: none; }
+  #card h3 { font-family: "Noto Serif TC", serif; margin: 0 0 4px; font-size: 22px; }
+  #card .sub { color: var(--muted); font-size: 13px; margin-bottom: 12px; }
+  #card .close { position: absolute; right: 12px; top: 8px; border: 0; background: none; font-size: 20px; cursor: pointer; color: var(--muted); }
+  .badge { display: inline-block; font-size: 12px; padding: 2px 8px; border-radius: 10px; color: #fff; margin-right: 6px; }
+  .visit { border-top: 1px solid var(--line); padding: 10px 0; font-size: 14px; line-height: 1.6; }
+  .visit .meta { color: var(--muted); font-size: 12px; }
+  .visit img { width: 100%; margin-top: 6px; border-radius: 2px; }
+  .golink { color: var(--accent); text-decoration: underline; cursor: pointer; }
+  .tag { font-size: 11px; border: 1px solid var(--accent); color: var(--accent); border-radius: 8px; padding: 0 6px; margin-left: 4px; }
+  /* ---- 人生成就分頁 ---- */
+  #ach { display: none; overflow-y: auto; padding: 18px 28px 40px; min-height: 0; }
+  body.tab-ach #ach { display: block; }
+  body.tab-ach main { display: none; }
+  body.tab-ach .toggles { display: none; }
+  #seg-tab { margin-left: 8px; }
+  .preview-bar { background: #FFF3DC; border: 1px solid #EFB676; color: #7F2C27; font-size: 14px; padding: 8px 14px; border-radius: 4px; margin-bottom: 14px; }
+  .ach-top { display: grid; grid-template-columns: minmax(0, 1fr) 400px; gap: 24px; align-items: start; }
+  .tiles { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 12px; }
+  .tile { border: 1px solid var(--line); border-radius: 6px; padding: 12px 14px; cursor: pointer; min-height: 118px;
+    display: flex; flex-direction: column; gap: 3px; transition: box-shadow .12s, transform .12s; }
+  .tile:hover { box-shadow: 0 4px 14px rgba(42,36,32,.15); transform: translateY(-1px); }
+  .tile.sel { outline: 2px solid var(--ink); outline-offset: 1px; }
+  .tile.dark { color: #fff; }
+  .tile .nm { font-family: "Noto Serif TC", serif; font-size: 18px; font-weight: 700; letter-spacing: .06em; }
+  .tile .xp { font-size: 26px; font-variant-numeric: tabular-nums; line-height: 1.15; font-family: "Noto Serif TC", serif; }
+  .tile .xp small { font-size: 12px; opacity: .75; font-family: inherit; margin-left: 4px; }
+  .tile .un { font-size: 13px; opacity: .85; }
+  .tile .lt { font-size: 12px; opacity: .85; margin-top: auto; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  #radar { width: 100%; height: auto; display: block; }
+  #radar text { font-size: 13px; fill: var(--ink); }
+  #radar .ring { fill: none; stroke: var(--line); }
+  #radar .axis { stroke: var(--line); }
+  #radar .shape { fill: rgba(188,88,56,.28); stroke: var(--accent); stroke-width: 2; }
+  .radar-note { font-size: 12px; color: var(--muted); text-align: center; margin: 2px 0 0; }
+  .ach-bar { display: flex; align-items: center; gap: 16px; margin: 22px 0 6px; flex-wrap: wrap; }
+  .ach-bar h2 { margin: 0; border: 0; padding: 0; }
+  .dh { font-family: "Noto Serif TC", serif; font-size: 22px; margin: 6px 0 4px; }
+  .dh small { font-family: inherit; font-size: 13px; color: var(--muted); margin-left: 8px; }
+  .lvdefs { font-size: 12px; color: var(--muted); line-height: 1.8; margin-bottom: 8px; }
+  .lvdefs span { margin-right: 14px; white-space: nowrap; }
+  .setbox { margin: 14px 0 6px; }
+  .setbox .row { display: flex; justify-content: space-between; font-size: 14px; margin-bottom: 4px; max-width: 520px; }
+  .setbox .row em { font-style: normal; color: var(--muted); }
+  .setbox .bar { max-width: 520px; }
+  .cells { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
+  .cell { border: 1px solid var(--line); border-radius: 4px; padding: 6px 12px; font-size: 14px; min-width: 84px; text-align: center; }
+  .cell small { display: block; font-size: 11px; opacity: .85; }
+  .cell.off { background: #EFEBE5; color: #A79D93; border-style: dashed; }
+  .cell.on.dark { color: #fff; }
+  .wall { display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 14px; margin-top: 12px; }
+  .acard { border: 1px solid var(--line); border-left: 5px solid var(--accent); background: #fff; border-radius: 4px; padding: 12px 14px; font-size: 14px; line-height: 1.55; }
+  .acard .top { display: flex; justify-content: space-between; gap: 8px; font-size: 12px; color: var(--muted); }
+  .acard .stars { white-space: nowrap; }
+  .acard .ti { font-family: "Noto Serif TC", serif; font-size: 17px; font-weight: 700; margin: 4px 0 2px; }
+  .acard .dt { font-size: 12px; color: var(--muted); }
+  .acard .mem { border-top: 1px dashed var(--line); margin-top: 8px; padding-top: 8px; }
+  .acard .ft { font-size: 12px; color: var(--muted); margin-top: 6px; word-break: break-all; }
+  .acard.pend { background: #FFFBF2; border-style: dashed; border-left-style: solid; }
+  .yrow { display: grid; grid-template-columns: 70px 1fr; gap: 14px; padding: 14px 0; border-bottom: 1px solid var(--line); }
+  .yrow .yr { font-family: "Noto Serif TC", serif; font-size: 24px; font-variant-numeric: tabular-nums; }
+  .ychips { display: flex; flex-wrap: wrap; gap: 8px; }
+  .ychip { border: 1px solid var(--line); border-left: 4px solid var(--accent); background: #fff; border-radius: 3px; padding: 5px 10px; font-size: 13px; }
+  .ychip small { color: var(--muted); margin-right: 6px; }
+  .empty { color: var(--muted); font-size: 14px; padding: 18px 0; }
+  @media (max-width: 960px) { .ach-top { grid-template-columns: 1fr; } }
+  @media (max-width: 860px) { main { grid-template-columns: 1fr; grid-template-rows: 60vh auto; } aside { border-left: 0; border-top: 1px solid var(--line); } }
+</style>
+</head>
+<body>
+<header>
+  <h1>人生成就地圖</h1>
+  <div class="seg" id="seg-tab" style="display:none"><button data-v="map" class="on">旅遊地圖</button><button data-v="ach">人生成就</button></div>
+  <div class="toggles">
+    <div class="seg" id="seg-view"><button data-v="world" class="on">世界</button><button data-v="taiwan">台灣</button></div>
+    <div class="seg" id="seg-layer" style="display:none"><button data-v="county">縣市</button><button data-v="town" class="on">鄉鎮</button></div>
+    <div class="seg" id="seg-who"><button data-v="me" class="on">我</button><button data-v="together">一起</button></div>
+    <label class="chk"><input type="checkbox" id="chk-todo" checked>顯示待收集</label>
+  </div>
+</header>
+<main>
+  <div id="mapwrap">
+    <svg id="map"></svg>
+    <div id="tip"></div>
+    <div id="card"></div>
+    <div class="hint">滾輪縮放、拖曳移動、點地區看回憶</div>
+  </div>
+  <aside>
+    <div class="scores">
+      <div class="score"><b id="sc-world">0</b><span>世界經驗值</span></div>
+      <div class="score"><b id="sc-taiwan">0</b><span>台灣經驗值</span></div>
+    </div>
+    <h2>下次去哪</h2>
+    <div class="recs" id="recs"></div>
+    <h2>收集進度</h2>
+    <div id="sets"></div>
+    <h2>等級</h2>
+    <div class="legend" id="legend"></div>
+    <h2>最近的足跡</h2>
+    <ul class="recent" id="recent"></ul>
+    <p class="note" id="note"></p>
+  </aside>
+</main>
+<section id="ach">
+  <div id="ach-preview"></div>
+  <div class="ach-top">
+    <div class="tiles" id="ach-tiles"></div>
+    <div><svg id="radar" viewBox="0 0 400 400"></svg><p class="radar-note">七軸＝各領域前幾名代表作的平均等級（0～5），旅遊取國家等級。不做總分、不排名。</p></div>
+  </div>
+  <div class="ach-bar"><h2 id="ach-title">回憶卡牆</h2>
+    <div class="seg" id="seg-amode"><button data-v="domain" class="on">依領域看</button><button data-v="year">依年份看</button></div></div>
+  <div id="ach-detail"></div>
+</section>
+<script>/*__D3__*/</script>
+<script>/*__TOPOJSON__*/</script>
+<script>
+const WORLD = /*__WORLD__*/;
+const TW = /*__TAIWAN__*/;
+const DATA = /*__DATA__*/;
+
+const state = { view: "world", layer: "town", who: "me", todo: true };
+const TAG_LABEL = { national_park: "國家公園", national_nature_park: "國家自然公園", national_scenic_area: "國家風景區",
+  county_highlight: "縣市代表景點", baiyue: "百岳", old_street: "老街", island: "離島",
+  cultural: "世界遺產（文化）", natural: "世界遺產（自然）", mixed: "世界遺產（複合）", curated: "精選城市" };
+const LEVELS = DATA.levels;
+const svg = d3.select("#map");
+const g = svg.append("g");
+const tip = d3.select("#tip");
+let zoomK = 1;
+
+const lvOf = id => (DATA.lv[state.who][id] || 0);
+const color = l => LEVELS[l || 0].color;
+const nameOf = (id, fallback) => (DATA.places[id] && DATA.places[id].n) || fallback || "（未命名地區）";
+const levelName = l => LEVELS[l || 0].name;
+
+const zoom = d3.zoom().scaleExtent([1, 60]).on("zoom", e => {
+  zoomK = e.transform.k;
+  g.attr("transform", e.transform);
+  g.selectAll("circle[data-r]").attr("r", function () { return +this.dataset.r / zoomK; });
+});
+
+// 點狀圖層：去過的依等級上色；沒去過的（待收集）畫空心，可以用「顯示待收集」關掉
+function drawPoints(proj, entries, cls, baseR) {
+  const shown = entries.filter(([id]) => lvOf(id) > 0 || state.todo);
+  const sel = g.selectAll(`circle.pt-${cls}`).data(shown).join("circle")
+    .attr("class", d => `pt-${cls} ` + (lvOf(d[0]) > 0 ? (cls === "poi" ? "poi" : "city") : `todo ${cls}`))
+    .attr("cx", d => proj([d[1].lon, d[1].lat])[0]).attr("cy", d => proj([d[1].lon, d[1].lat])[1])
+    .attr("data-r", d => typeof baseR === "function" ? baseR(d[1]) : baseR)
+    .attr("r", function () { return +this.dataset.r / zoomK; })
+    .attr("fill", d => lvOf(d[0]) > 0 ? color(lvOf(d[0])) : null);
+  bindArea(sel, d => d[0], d => d[1].n);
+}
+const tagsOf = p => (p.t || []);
+svg.call(zoom);
+
+function size() {
+  const r = document.getElementById("mapwrap").getBoundingClientRect();
+  return [r.width, r.height];
+}
+
+function bindArea(sel, idOf, labelOf) {
+  sel.on("mousemove", (e, d) => {
+      const id = idOf(d), l = lvOf(id);
+      const [x, y] = d3.pointer(e, document.getElementById("mapwrap"));
+      tip.style("opacity", 1).style("left", (x + 12) + "px").style("top", (y + 12) + "px")
+        .text(`${labelOf(d)}　${levelName(l)}`);
+    })
+    .on("mouseleave", () => tip.style("opacity", 0))
+    .on("click", (e, d) => { e.stopPropagation(); openCard(idOf(d), labelOf(d)); });
+}
+
+function drawWorld() {
+  const [w, h] = size();
+  const proj = d3.geoNaturalEarth1().fitExtent([[12, 12], [w - 12, h - 12]], { type: "Sphere" });
+  const path = d3.geoPath(proj);
+  g.append("path").attr("class", "sphere").attr("d", path({ type: "Sphere" }));
+  const feats = topojson.feature(WORLD, WORLD.objects.countries).features;
+  const areas = g.selectAll("path.area").data(feats).join("path").attr("class", "area")
+    .attr("d", path).attr("fill", d => color(lvOf(d.id)));
+  bindArea(areas, d => d.id, d => nameOf(d.id, d.properties.name));
+  const entries = Object.entries(DATA.places);
+  drawPoints(proj, entries.filter(([id, p]) => p.k === "whs"), "whs", 1.6);
+  drawPoints(proj, entries.filter(([id, p]) => p.k === "city"), "city", d => tagsOf(d).includes("curated") ? 3.6 : 4);
+}
+
+function drawTaiwan() {
+  const [w, h] = size();
+  // 本島＋澎湖金馬；東沙、南沙太遠，不納入預設視野（縮放仍看得到）
+  const frame = { type: "MultiPoint", coordinates: [[118.15, 21.85], [122.05, 26.40]] };
+  const proj = d3.geoMercator().fitExtent([[20, 20], [w - 20, h - 20]], frame);
+  const path = d3.geoPath(proj);
+  if (state.layer === "county") {
+    const feats = topojson.feature(TW, TW.objects.counties).features;
+    const areas = g.selectAll("path.area").data(feats).join("path").attr("class", "area")
+      .attr("d", path).attr("fill", d => color(lvOf(d.id)));
+    bindArea(areas, d => d.id, d => nameOf(d.id));
+  } else {
+    const feats = topojson.feature(TW, TW.objects.towns).features;
+    const areas = g.selectAll("path.area").data(feats).join("path").attr("class", "area")
+      .attr("d", path)
+      .attr("fill", d => {
+        const l = lvOf(d.id);
+        if (l > 0) return color(l);
+        const county = DATA.places[d.id] && DATA.places[d.id].p;
+        return lvOf(county) > 0 ? color(lvOf(county)) : color(0);
+      })
+      .attr("fill-opacity", d => {
+        if (lvOf(d.id) > 0) return 1;
+        const county = DATA.places[d.id] && DATA.places[d.id].p;
+        return lvOf(county) > 0 ? .3 : 1;
+      });
+    bindArea(areas, d => d.id, d => {
+      const p = DATA.places[d.id];
+      return p ? `${nameOf(p.p)} ${p.n}` : d.id;
+    });
+    g.append("path").attr("class", "mesh")
+      .attr("d", path(topojson.mesh(TW, TW.objects.counties, (a, b) => a !== b)));
+  }
+  drawPoints(proj, Object.entries(DATA.places).filter(([id, p]) => p.k === "tw_poi"), "poi",
+    p => tagsOf(p).includes("tier1") ? 5 : tagsOf(p).includes("tier2") ? 3.4 : 2.6);
+}
+
+function draw() {
+  g.selectAll("*").remove();
+  svg.call(zoom.transform, d3.zoomIdentity);
+  zoomK = 1;
+  if (state.view === "world") drawWorld(); else drawTaiwan();
+  drawSide();
+}
+
+function visitsFor(id) {
+  return DATA.visits.filter(v => (v.pid === id || v.anc.includes(id)) && (state.who === "me" || v.tg))
+    .sort((a, b) => (b.ds || "").localeCompare(a.ds || ""));
+}
+
+function fmtDate(v) {
+  if (!v.ds) return "日期未記";
+  return v.de && v.de !== v.ds ? `${v.ds} ～ ${v.de}` : v.ds;
+}
+
+function esc(s) {
+  return String(s == null ? "" : s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+}
+
+function tripAchLinks(tripId) {  // 這趟旅程對應的人生成就（資料來自 ACH.by_trip），點了去那個領域分頁
+  const list = (tripId && DATA.ach && DATA.ach.by_trip && DATA.ach.by_trip[tripId]) || [];
+  return list.map(a => `<div class="meta"><a href="#" class="golink" data-ach-dom="${esc(a.domain)}">家人成就：${esc(a.title)}</a></div>`).join("");
+}
+
+function openCard(id, label) {
+  const l = lvOf(id), vs = visitsFor(id);
+  const p = DATA.places[id];
+  let parent = p && p.p ? nameOf(p.p) : "";
+  if (p && p.p && DATA.places[p.p] && DATA.places[p.p].p && (p.k === "tw_poi" || p.k === "tw_town")) {
+    parent = `${nameOf(DATA.places[p.p].p)} ${parent}`;
+  }
+  const tags = p ? tagsOf(p).filter(t => TAG_LABEL[t]).map(t => `<span class="tag">${TAG_LABEL[t]}</span>`).join("") : "";
+  let html = `<button class="close" title="關閉">×</button><h3>${esc(label || nameOf(id))}</h3>
+    <div class="sub">${esc(parent)}　<span class="badge" style="background:${l ? color(l) : "#B9AFA4"}">${levelName(l)}</span>${tags}</div>`;
+  if (!vs.length) {
+    html += `<p class="sub">${state.who === "together" ? "還沒一起來過" : "還沒去過"}，加進下次的候選吧。</p>`;
+  }
+  for (const v of vs) {
+    const trip = DATA.trips[v.trip];
+    const here = v.pid === id ? "" : `<b>${esc(nameOf(v.pid))}</b>　`;
+    html += `<div class="visit">${here}<span class="badge" style="background:${color(v.lv)}">${levelName(v.lv)}</span>
+      ${v.tg ? '<span class="tag">一起</span>' : ""}${v.ok ? "" : '<span class="tag">未確認</span>'}
+      <div class="meta">${esc(fmtDate(v))}${trip ? "・" + esc(trip.name) : ""}</div>
+      ${tripAchLinks(v.trip)}
+      ${v.mem ? `<div>${esc(v.mem)}</div>` : ""}
+      ${v.photo ? `<img src="${esc(v.photo)}" alt="" loading="lazy">` : ""}</div>`;
+  }
+  const card = d3.select("#card").style("display", "block").html(html);
+  card.select(".close").on("click", () => card.style("display", "none"));
+}
+svg.on("click", () => d3.select("#card").style("display", "none"));
+
+function drawSide() {
+  const sc = DATA.scores[state.who];
+  d3.select("#sc-world").text(sc.world || 0);
+  d3.select("#sc-taiwan").text(sc.taiwan || 0);
+  const recs = (DATA.recs && DATA.recs[state.who]) || [];
+  d3.select("#recs").html(recs.length ? "" : '<p class="note">去過的地方再多一點，就會出現建議。</p>');
+  const secs = d3.select("#recs").selectAll("div.sec").data(recs).join("div").attr("class", "sec");
+  secs.html(s => `<b>${esc(s.title)}</b><ul></ul>`);
+  secs.select("ul").selectAll("li").data(s => s.items).join("li")
+    .html(i => `${esc(i.name)}<small>${esc(i.why)}</small>`)
+    .on("click", (e, i) => openCard(i.pid, i.name));
+  const sets = DATA.sets[state.who].slice().sort((a, b) => (a.scope === state.view ? -1 : 0) - (b.scope === state.view ? -1 : 0));
+  d3.select("#sets").html(sets.map(s => `<div class="set"><div class="row"><span>${esc(s.name)}</span>
+    <em>${s.done} / ${s.total}</em></div><div class="bar"><i style="width:${s.total ? (100 * s.done / s.total).toFixed(1) : 0}%"></i></div></div>`).join(""));
+  d3.select("#legend").html(LEVELS.map(l => `<div><s style="background:${l.color}"></s>${l.level}　${esc(l.name)}
+    <small>${esc(l.desc)}</small></div>`).join(""));
+  const recent = DATA.visits.filter(v => state.who === "me" || v.tg).slice()
+    .sort((a, b) => (b.ds || "").localeCompare(a.ds || "")).slice(0, 10);
+  const items = d3.select("#recent").selectAll("li").data(recent).join("li")
+    .html(v => `<time>${esc(v.ds ? v.ds.slice(0, 7) : "—")}</time><span>${esc(nameOf(v.pid))}　<small style="color:${color(v.lv)}">${levelName(v.lv)}</small></span>`)
+    .on("click", (e, v) => openCard(v.pid, nameOf(v.pid)));
+  d3.select("#note").html(`「去過」以 ${DATA.minLevel} 級（${levelName(DATA.minLevel)}）以上計算；路過只算經驗值。<br>
+    經驗值＝各地等級總和。產生時間 ${esc(DATA.generated)}${DATA.unconfirmed ? `；還有 ${DATA.unconfirmed} 筆候選足跡待確認` : ""}。<br>
+    資料來源：Natural Earth、內政部國土測繪中心、GeoNames（CC BY 4.0）${DATA.places && Object.values(DATA.places).some(p => p.k === "whs") ? "、UNESCO 世界遺產名錄" : ""}${Object.values(DATA.places).some(p => p.k === "tw_poi") ? "、交通部觀光署與內政部國家公園署" : ""}。`);
+}
+
+function seg(idName, key) {
+  d3.selectAll(`#${idName} button`).on("click", function () {
+    d3.selectAll(`#${idName} button`).classed("on", false);
+    d3.select(this).classed("on", true);
+    state[key] = this.dataset.v;
+    d3.select("#seg-layer").style("display", state.view === "taiwan" ? null : "none");
+    d3.select("#card").style("display", "none");
+    draw();
+  });
+}
+seg("seg-view", "view"); seg("seg-layer", "layer"); seg("seg-who", "who");
+d3.select("#chk-todo").on("change", function () { state.todo = this.checked; draw(); });
+// 網址可帶初始檢視，例如 life-map.html#taiwan/county/together
+for (const part of location.hash.slice(1).split("/")) {
+  for (const [idName, key] of [["seg-view", "view"], ["seg-layer", "layer"], ["seg-who", "who"]]) {
+    const btn = document.querySelector(`#${idName} button[data-v="${part}"]`);
+    if (btn) {
+      state[key] = part;
+      d3.selectAll(`#${idName} button`).classed("on", false);
+      d3.select(btn).classed("on", true);
+    }
+  }
+}
+d3.select("#seg-layer").style("display", state.view === "taiwan" ? null : "none");
+window.addEventListener("resize", () => { if (astate.tab === "map") draw(); });
+draw();
+
+// ---------------- 人生成就分頁 ----------------
+const ACH = DATA.ach || null;
+var astate = { tab: "map", mode: "domain", dom: null };
+const darkLv = l => l >= 4;
+const stars = l => "★".repeat(l) + "☆".repeat(5 - l);
+
+function achTiles() {
+  const all = [ACH.travel, ...ACH.domains];
+  d3.select("#ach-tiles").html(all.map(t => {
+    const l = t.level || 0;
+    const lt = t.latest ? `${esc(t.latest.title)}${t.latest.date ? "（" + esc(t.latest.date) + "）" : ""}` : "還沒有新卡";
+    return `<div class="tile ${darkLv(l) ? "dark" : ""} ${astate.mode === "domain" && astate.dom === t.id ? "sel" : ""}" data-id="${esc(t.id)}"
+      style="background:${color(l)}"><div class="nm">${esc(t.name)}</div>
+      <div class="xp">${esc(t.xp)}<small>經驗值</small></div><div class="un">已解鎖 ${esc(t.unlocked)} 項</div>
+      <div class="lt" title="${lt}">最近：${lt}</div></div>`;
+  }).join(""));
+  d3.selectAll("#ach-tiles .tile").on("click", function () {
+    const id = this.dataset.id;
+    if (id === "travel") { setTab("map"); history.replaceState(null, "", "#"); return; }
+    astate.mode = "domain"; astate.dom = id; achRender();
+    history.replaceState(null, "", "#ach/" + id);
+  });
+}
+
+function achRadar() {
+  const R = ACH.radar, n = R.length, cx = 200, cy = 200, r = 135;
+  const ang = i => -Math.PI / 2 + 2 * Math.PI * i / n;
+  const pt = (i, v) => [cx + r * v / 5 * Math.cos(ang(i)), cy + r * v / 5 * Math.sin(ang(i))];
+  const svgR = d3.select("#radar"); svgR.selectAll("*").remove();
+  for (let k = 1; k <= 5; k++) {
+    svgR.append("polygon").attr("class", "ring").attr("points", R.map((_, i) => pt(i, k).join(",")).join(" "));
+    svgR.append("text").attr("x", cx + 3).attr("y", cy - r * k / 5 + 4).style("font-size", "10px").style("fill", "#8A7F75").text(k);
+  }
+  R.forEach((a, i) => {
+    const [x, y] = pt(i, 5), [lx, ly] = pt(i, 5.75);
+    svgR.append("line").attr("class", "axis").attr("x1", cx).attr("y1", cy).attr("x2", x).attr("y2", y);
+    svgR.append("text").attr("x", lx).attr("y", ly + 4).attr("text-anchor", Math.abs(lx - cx) < 8 ? "middle" : lx > cx ? "start" : "end").text(a.name);
+  });
+  svgR.append("polygon").attr("class", "shape").attr("points", R.map((a, i) => pt(i, a.value).join(",")).join(" "));
+  svgR.selectAll("circle.rp").data(R).join("circle").attr("class", "rp").attr("r", 3.5).attr("fill", "#BC5838")
+    .attr("cx", (a, i) => pt(i, a.value)[0]).attr("cy", (a, i) => pt(i, a.value)[1])
+    .append("title").text(a => `${a.name}　${a.value.toFixed(1)}`);
+}
+
+function fmtCard(c, small) {
+  const dn = esc(c.domain_name || c.domain);
+  if (small) {
+    return `<div class="ychip" style="border-left-color:${color(c.level)}"><small>${dn}｜${esc(c.item)}</small>${esc(c.title)}
+      <small>${stars(c.level)}</small>${c.pending ? '<span class="tag">待確認</span>' : ""}</div>`;
+  }
+  return `<div class="acard ${c.pending ? "pend" : ""}" style="border-left-color:${color(c.level)}">
+    <div class="top"><span>${dn}｜${esc(c.item)}</span><span class="stars">${stars(c.level)} ${c.level} 級</span></div>
+    <div class="ti">${esc(c.title)}${c.pending ? '<span class="tag">待確認</span>' : ""}</div>
+    <div class="dt">${esc(c.date || "日期未記")}</div>
+    ${c.memory ? `<div class="mem">${esc(c.memory)}</div>` : ""}
+    ${c.trip ? `<div class="mem"><a href="#" class="golink" data-go-map="1">旅程：${esc(c.trip.name)}</a></div>` : ""}
+    <div class="ft">出處：${esc(c.source || "—")}　一起：${c.together ? "是" : "—"}</div></div>`;
+}
+
+function achYearsNewestFirst(list) {  // 年份新到舊，「未記日期」永遠在最後
+  const dated = list.filter(y => /^\d/.test(y.year)).sort((a, b) => String(b.year).localeCompare(String(a.year)));
+  return dated.concat(list.filter(y => !/^\d/.test(y.year)));
+}
+
+function achDetail() {
+  const box = d3.select("#ach-detail");
+  if (astate.mode === "year") {
+    d3.select("#ach-title").text("依年份看");
+    box.html(ACH.by_year.length ? achYearsNewestFirst(ACH.by_year).map(y => `<div class="yrow"><div class="yr">${esc(y.year)}</div>
+      <div class="ychips">${y.cards.map(c => fmtCard(c, true)).join("")}</div></div>`).join("")
+      : '<p class="empty">還沒有可以顯示的成就卡。</p>');
+    return;
+  }
+  const d = ACH.domains.find(x => x.id === astate.dom);
+  if (!d) { d3.select("#ach-title").text("回憶卡牆"); box.html('<p class="empty">點上面任一格，看那個領域的格子圖鑑和回憶卡。</p>'); return; }
+  d3.select("#ach-title").text("領域詳情");
+  const defs = Object.entries(d.level_defs).filter(([k]) => +k > 0).map(([k, v]) => `<span>${k} 級　${esc(v)}</span>`).join("");
+  const sets = d.sets.map(s => `<div class="setbox"><div class="row"><span>${esc(s.name)}</span><em>${s.done} / ${s.total}</em></div>
+    <div class="bar"><i style="width:${s.total ? (100 * s.done / s.total).toFixed(1) : 0}%"></i></div>
+    <div class="cells">${s.cells.map(c => c.unlocked
+      ? `<div class="cell on ${darkLv(c.level) ? "dark" : ""}" style="background:${color(c.level)}">${esc(c.item)}<small>${c.level} 級</small></div>`
+      : `<div class="cell off">${esc(c.item)}<small>未解鎖</small></div>`).join("")}</div></div>`).join("");
+  box.html(`<div class="dh">${esc(d.name)}<small>經驗值 ${esc(d.xp)}・已解鎖 ${esc(d.unlocked)} 項・${d.cards.length} 張卡</small></div>
+    <div class="lvdefs">${defs}</div>${sets || '<p class="empty">這個領域還沒有套組。</p>'}
+    <div class="wall">${d.cards.map(c => fmtCard(c, false)).join("") || '<p class="empty">還沒有可以顯示的回憶卡。</p>'}</div>`);
+}
+
+function achRender() {
+  d3.select("#ach-preview").html(ACH.preview ? `<div class="preview-bar">預覽：含待確認候選 ${esc(ACH.pending_count)} 筆，還沒收進主檔</div>` : "");
+  d3.selectAll("#seg-amode button").classed("on", function () { return this.dataset.v === astate.mode; });
+  achTiles(); achRadar(); achDetail();
+}
+
+function setTab(tab) {
+  astate.tab = tab;
+  document.body.classList.toggle("tab-ach", tab === "ach");
+  d3.selectAll("#seg-tab button").classed("on", function () { return this.dataset.v === tab; });
+  if (tab === "ach") achRender(); else draw();
+}
+
+document.addEventListener("click", e => {  // 兩邊互相連結：成就卡 → 旅遊地圖、旅遊地圖彈窗 → 家人成就
+  const a = e.target.closest && e.target.closest(".golink");
+  if (!a) return;
+  e.preventDefault();
+  if (a.dataset.goMap) { setTab("map"); history.replaceState(null, "", "#"); return; }
+  if (a.dataset.achDom && ACH) {
+    astate.mode = "domain"; astate.dom = a.dataset.achDom;
+    d3.selectAll("#seg-amode button").classed("on", function () { return this.dataset.v === "domain"; });
+    setTab("ach"); history.replaceState(null, "", "#ach/" + astate.dom);
+  }
+});
+
+if (ACH) {
+  d3.select("#seg-tab").style("display", null);
+  d3.selectAll("#seg-tab button").on("click", function () {
+    setTab(this.dataset.v); history.replaceState(null, "", this.dataset.v === "ach" ? "#ach" : "#");
+  });
+  d3.selectAll("#seg-amode button").on("click", function () {
+    astate.mode = this.dataset.v;
+    if (astate.mode === "domain" && !astate.dom) astate.dom = ACH.domains[0].id;
+    achRender(); history.replaceState(null, "", astate.mode === "year" ? "#ach/year" : "#ach/" + astate.dom);
+  });
+  const [t, sub] = location.hash.slice(1).split("/");
+  if (t === "ach") {
+    if (sub === "year") astate.mode = "year";
+    else if (sub && ACH.domains.some(x => x.id === sub)) astate.dom = sub;
+    setTab("ach");
+  }
+}
+</script>
+</body>
+</html>

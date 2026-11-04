@@ -1,0 +1,20 @@
+{
+  "levels": [
+    {"level": 0, "name": "沒去過", "color": "#ECE7DF", "desc": ""},
+    {"level": 1, "name": "路過", "color": "#F5D9A8", "desc": "轉機、搭車經過"},
+    {"level": 2, "name": "踏上", "color": "#EFB676", "desc": "短暫停留"},
+    {"level": 3, "name": "遊玩", "color": "#DE8A4F", "desc": "有安排行程玩過"},
+    {"level": 4, "name": "過夜", "color": "#BC5838", "desc": "在當地住了一晚以上"},
+    {"level": 5, "name": "住過", "color": "#7F2C27", "desc": "居住一個月以上"}
+  ],
+  "visited_min_level": 2,
+  "inference": {
+    "pass_max_minutes": 30,
+    "land_max_minutes": 180,
+    "play_min_minutes": 180,
+    "play_min_stops": 2,
+    "overnight_hours": ["02:00", "05:00"],
+    "lived_min_nights": 30,
+    "lived_window_days": 60
+  }
+}

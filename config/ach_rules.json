@@ -1,0 +1,121 @@
+{
+  "noise": {
+    "apply_to_origins": [
+      "kb_note"
+    ],
+    "min_title_chars": 6,
+    "drop_title_patterns": [
+      "^來源[:：]",
+      "^[～~]",
+      "[A-Za-z]:\\\\",
+      "\\\\",
+      "^[（(]"
+    ],
+    "require_signal": true,
+    "signals": [
+      "畢業",
+      "學位",
+      "錄取",
+      "offer",
+      "Offer",
+      "獲頒",
+      "獲獎",
+      "得獎",
+      "獎",
+      "通過",
+      "考取",
+      "檢定",
+      "證照",
+      "發表",
+      "參賽",
+      "入學",
+      "授予",
+      "Distinction",
+      "Award",
+      "Prize",
+      "Scholarship",
+      "Graduat",
+      "Certificate",
+      "IELTS",
+      "TOEFL",
+      "TOEIC",
+      "全民英檢",
+      "JLPT",
+      "論文",
+      "碩論",
+      "課程完成",
+      "完成.{0,12}(訓練|認證|課程|實習)",
+      "證書"
+    ]
+  },
+  "item_rules": [
+    {
+      "pattern": "IELTS|雅思",
+      "item": "IELTS",
+      "domains": [
+        "learning"
+      ]
+    },
+    {
+      "pattern": "TOEFL",
+      "item": "TOEFL",
+      "domains": [
+        "learning"
+      ]
+    },
+    {
+      "pattern": "TOEIC|多益",
+      "item": "TOEIC",
+      "domains": [
+        "learning"
+      ]
+    },
+    {
+      "pattern": "全民英檢",
+      "item": "全民英檢",
+      "domains": [
+        "learning"
+      ]
+    },
+    {
+      "pattern": "JLPT|日檢",
+      "item": "JLPT",
+      "domains": [
+        "learning"
+      ]
+    },
+    {
+      "pattern": "鋼琴|piano|Piano",
+      "item": "鋼琴",
+      "domains": [
+        "learning"
+      ]
+    },
+    {
+      "pattern": "高中|Secondary|secondary|High School",
+      "item": "高中",
+      "domains": [
+        "learning"
+      ]
+    },
+    {
+      "pattern": "碩士|Master|碩論",
+      "item": "碩士",
+      "domains": [
+        "learning"
+      ]
+    },
+    {
+      "pattern": "學士|Bachelor",
+      "item": "學士",
+      "domains": [
+        "learning"
+      ]
+    },
+    {
+      "pattern": "得獎|獲獎|Award|Prize",
+      "item": "得獎",
+      "domains": ["career"]
+    }
+  ]
+}

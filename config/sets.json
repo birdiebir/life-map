@@ -1,0 +1,14 @@
+[
+  {"id": "continents", "name": "七大洲", "kind": "continents", "scope": "world"},
+  {"id": "un_countries", "name": "國家（聯合國 193＋台灣）", "kind": "places", "place_kind": "country", "tag": "un194", "scope": "world"},
+  {"id": "countries", "name": "國家／地區（全部）", "kind": "places", "place_kind": "country", "scope": "world"},
+  {"id": "curated_cities", "name": "精選城市", "kind": "places", "place_kind": "city", "tag": "curated", "scope": "world"},
+  {"id": "whs", "name": "世界遺產", "kind": "places", "place_kind": "whs", "scope": "world"},
+  {"id": "tw_counties", "name": "台灣 22 縣市", "kind": "places", "place_kind": "tw_county", "scope": "taiwan"},
+  {"id": "tw_towns", "name": "台灣 368 鄉鎮市區", "kind": "places", "place_kind": "tw_town", "scope": "taiwan"},
+  {"id": "tw_tier1", "name": "國家公園與國家風景區", "kind": "places", "place_kind": "tw_poi", "tag": "tier1", "scope": "taiwan"},
+  {"id": "tw_tier2", "name": "各縣市代表景點", "kind": "places", "place_kind": "tw_poi", "tag": "tier2", "scope": "taiwan"},
+  {"id": "tw_baiyue", "enabled": false, "name": "台灣百岳", "kind": "places", "place_kind": "tw_poi", "tag": "baiyue", "scope": "taiwan"},
+  {"id": "tw_old_street", "enabled": false, "name": "老街", "kind": "places", "place_kind": "tw_poi", "tag": "old_street", "scope": "taiwan"},
+  {"id": "tw_island", "enabled": false, "name": "離島", "kind": "places", "place_kind": "tw_poi", "tag": "island", "scope": "taiwan"}
+]

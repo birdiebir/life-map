@@ -1,0 +1,71 @@
+{
+  "takeout_zips": [
+    "D:\\path\\to\\takeout.zip"
+  ],
+  "photo_sources": [
+    {
+      "type": "catalog_csv",
+      "label": "雲端照片目錄",
+      "path": "D:\\path\\to\\照片目錄.csv",
+      "gps_col": "gps",
+      "date_col": "date_taken",
+      "precision_col": "date_precision",
+      "說明": "gps 欄格式「緯度,經度」；只收 date_precision 為 day 的列"
+    },
+    {
+      "type": "google_photos_dir",
+      "label": "Google 相簿 Takeout",
+      "path": "E:\\path\\to\\Takeout\\Google 相簿",
+      "enabled": false,
+      "說明": "Takeout 解壓後的資料夾，讀每張照片旁的 .json；用完刪暫存前跑 import_photo_locations.py"
+    }
+  ],
+  "place_event_sources": [
+    {
+      "type": "album_places",
+      "label": "範例資料夾事件",
+      "catalog": "ach_src/範例照片目錄.csv",
+      "context_csv": "ach_src/範例資料夾背景表.csv",
+      "group_by": "folder",
+      "min_photos": 3,
+      "origin": "album",
+      "rules": [
+        {
+          "match": "Japan 2025",
+          "place_id": "C-JPN"
+        },
+        {
+          "match": "老照片",
+          "place_ids": [
+            "C-FRA",
+            "C-ITA"
+          ],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "type": "jsonl_places",
+      "label": "範例信件訂房",
+      "origin": "mail",
+      "files": [
+        "ach_src/範例信件.jsonl"
+      ],
+      "date_field": "date_utc",
+      "text_field": "subject",
+      "include": [
+        "預訂確認"
+      ],
+      "exclude": [
+        "取消"
+      ],
+      "rules": [
+        {
+          "match": "魚池",
+          "place_id": "TW-10008090",
+          "level": 4
+        }
+      ]
+    }
+  ]
+}

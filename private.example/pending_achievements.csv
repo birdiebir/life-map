@@ -1,0 +1,5 @@
+﻿decision,suggest,reason,achievement_id,domain,item,title,level,date,together,memory,photo,source,origin,confidence,confirmed,privacy,suppressed,evidence
+y,y,L3：考到證照,A-ex000001,learning,範例證照A,範例證照 A 考取,3,2025-06,,,,範例筆記.md,kb_note,,false,,,
+,y,L2：完成一門課,A-ex000002,learning,範例項目,範例線上課程完成,2,2025-09,,範例：每天晚上學一小時,,,kb_note,,false,,,
+,n,雜訊,A-ex000003,learning,範例證照B,範例被建議不收的候選,2,2025-01,,,,,kb_note,,false,,,
+,y,,A-ex000004,career,得獎,範例等級未填的候選,,2025-03,,,,,csv,,false,,,

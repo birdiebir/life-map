@@ -1,0 +1,10 @@
+{
+  "noise": {
+    "signals": ["範例關鍵字"],
+    "drop_title_patterns": ["^範例筆記專用的雜訊開頭"]
+  },
+  "item_rules": [
+    {"pattern": "^範例碩士", "item": "碩士", "field": "file", "domains": ["learning"]},
+    {"pattern": "範例公司", "item": "範例公司", "field": "title"}
+  ]
+}

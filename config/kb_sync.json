@@ -1,0 +1,10 @@
+{
+  "說明": "KB 同步的通用預設。個人值（kb_root、note、insert_before_heading，可選覆蓋 commit_message）放 private\\kb_sync.json，同名鍵蓋過這份；範本見 private.example\\kb_sync.json。",
+  "start_marker": "<!-- life-map:auto:start -->",
+  "end_marker": "<!-- life-map:auto:end -->",
+  "heading": "## 收集進度（life-map 自動同步）",
+  "set_ids": ["un_countries", "continents", "curated_cities", "whs", "tw_counties", "tw_towns", "tw_tier1", "tw_tier2"],
+  "max_changed_lines": 40,
+  "commit_message": "life-map：KB 自動同步收集進度",
+  "commit_trailer": "Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>"
+}

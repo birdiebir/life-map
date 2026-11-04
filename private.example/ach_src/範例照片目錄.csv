@@ -1,0 +1,18 @@
+file_id,folder,name,line_album,date_taken,date_precision
+f1,範例/畢業,a.jpg,範例畢業典禮,2016-06-11,day
+f2,範例/畢業,b.jpg,範例畢業典禮,2016-06-11,day
+f3,範例/畢業,c.jpg,範例畢業典禮,2016-06-12,day
+f4,範例/畢業,d.jpg,範例畢業典禮,2016-06-11,day
+f5,範例/畢業,e.jpg,範例畢業典禮,2015-01-01,day
+f6,範例/畢業,f.jpg,範例畢業典禮,2016-06-11,day
+g1,範例/月份,a.jpg,CityA-Mar2024,2024-03-02,day
+g2,範例/月份,b.jpg,CityA-Mar2024,2024-03-09,day
+g3,範例/月份,c.jpg,CityA-Mar2024,2024-03-10,day
+g4,範例/月份,d.jpg,CityA-Mar2024,2024-03-11,day
+g5,範例/月份,e.jpg,CityA-Mar2024,2024-03-12,day
+h1,範例/出遊/Japan 2025,a.jpg,,2025-01-15,day
+h2,範例/出遊/Japan 2025,b.jpg,,2025-01-16,day
+h3,範例/出遊/Japan 2025,c.jpg,,2025-01-19,day
+k1,範例/出遊/老照片,a.jpg,,,none
+k2,範例/出遊/老照片,b.jpg,,,none
+k3,範例/出遊/老照片,c.jpg,,,none

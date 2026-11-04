@@ -1,0 +1,10 @@
+achievement_id,domain,item,title,level,date,together,memory,photo,source,origin,confidence,confirmed,privacy,suppressed
+1,sports,羽球,第一次參加社區羽球賽,4,2025-03,true,範例：和朋友打進八強,,範例筆記.md,manual,high,true,local,false
+2,sports,跑步,第一次跑完 10 公里,3,2024-11-02,false,,,,manual,high,true,local,false
+3,learning,IELTS,範例語言檢定 6.0,3,2023-04-15,false,範例回憶,,範例筆記.md,kb_note,medium,true,kb,false
+4,learning,碩士,範例大學碩士畢業,5,2020-06,true,,,,manual,high,true,kb,false
+5,adventure,獨自旅行,第一次獨自出國,4,2019-07,false,範例：一個人拖著行李走很久,,,manual,medium,true,local,false
+6,social,範例高中同屆,有共同回憶的圈子,3,2012,false,,,,manual,low,true,local,true
+7,family,家族旅遊,範例家族旅遊主導安排,3,2023-02,true,,,,manual,high,true,local,false
+8,career,範例公司,範例公司入職,2,2021-09-06,false,,,範例筆記.md,csv,high,true,kb,false
+9,career,得獎,範例競賽得獎,4,2021-06,false,,,,csv,medium,false,kb,false

@@ -1,0 +1,6 @@
+{
+  "learning": [
+    {"id": "learning_cert", "name": "證照", "items": ["範例證照A", "範例證照B"]},
+    {"id": "learning_example", "name": "範例新套組", "items": ["範例項目"]}
+  ]
+}

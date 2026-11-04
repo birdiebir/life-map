@@ -1,0 +1,194 @@
+country_id,name_en
+C-AFG,Afghanistan
+C-AGO,Angola
+C-ALB,Albania
+C-AND,Andorra
+C-ARE,United Arab Emirates
+C-ARG,Argentina
+C-ARM,Armenia
+C-ATG,Antigua and Barbuda
+C-AUS,Australia
+C-AUT,Austria
+C-AZE,Azerbaijan
+C-BDI,Burundi
+C-BEL,Belgium
+C-BEN,Benin
+C-BFA,Burkina Faso
+C-BGD,Bangladesh
+C-BGR,Bulgaria
+C-BHR,Bahrain
+C-BHS,Bahamas (The)
+C-BIH,Bosnia and Herzegovina
+C-BLR,Belarus
+C-BLZ,Belize
+C-BOL,Bolivia (Plurinational State of)
+C-BRA,Brazil
+C-BRB,Barbados
+C-BRN,Brunei Darussalam
+C-BTN,Bhutan
+C-BWA,Botswana
+C-CAF,Central African Republic
+C-CAN,Canada
+C-CHE,Switzerland
+C-CHL,Chile
+C-CHN,China (the People's Republic of)
+C-CIV,Côte D'Ivoire
+C-CMR,Cameroon
+C-COD,Democratic Republic of the Congo
+C-COG,Congo
+C-COL,Colombia
+C-COM,Comoros
+C-CPV,Cabo Verde
+C-CRI,Costa Rica
+C-CUB,Cuba
+C-CYP,Cyprus
+C-CZE,Czechia
+C-DEU,Germany
+C-DJI,Djibouti
+C-DMA,Dominica
+C-DNK,Denmark
+C-DOM,Dominican Republic
+C-DZA,Algeria
+C-ECU,Ecuador
+C-EGY,Egypt
+C-ERI,Eritrea
+C-ESP,Spain
+C-EST,Estonia
+C-ETH,Ethiopia
+C-FIN,Finland
+C-FJI,Fiji
+C-FRA,France
+C-FSM,Micronesia (Federated States of)
+C-GAB,Gabon
+C-GBR,United Kingdom of Great Britain and Northern Ireland
+C-GEO,Georgia
+C-GHA,Ghana
+C-GIN,Guinea
+C-GMB,Gambia (Republic of The)
+C-GNB,Guinea Bissau
+C-GNQ,Equatorial Guinea
+C-GRC,Greece
+C-GRD,Grenada
+C-GTM,Guatemala
+C-GUY,Guyana
+C-HND,Honduras
+C-HRV,Croatia
+C-HTI,Haiti
+C-HUN,Hungary
+C-IDN,Indonesia
+C-IND,India
+C-IRL,Ireland
+C-IRN,Iran (Islamic Republic of)
+C-IRQ,Iraq
+C-ISL,Iceland
+C-ISR,Israel
+C-ITA,Italy
+C-JAM,Jamaica
+C-JOR,Jordan
+C-JPN,Japan
+C-KAZ,Kazakhstan
+C-KEN,Kenya
+C-KGZ,Kyrgyzstan
+C-KHM,Cambodia
+C-KIR,Kiribati
+C-KNA,Saint Kitts and Nevis
+C-KOR,Republic of Korea
+C-KWT,Kuwait
+C-LAO,Lao People’s Democratic Republic
+C-LBN,Lebanon
+C-LBR,Liberia
+C-LBY,Libya
+C-LCA,Saint Lucia
+C-LIE,Liechtenstein
+C-LKA,Sri Lanka
+C-LSO,Lesotho
+C-LTU,Lithuania
+C-LUX,Luxembourg
+C-LVA,Latvia
+C-MAR,Morocco
+C-MCO,Monaco
+C-MDA,Republic of Moldova
+C-MDG,Madagascar
+C-MDV,Maldives
+C-MEX,Mexico
+C-MHL,Marshall Islands
+C-MKD,North Macedonia
+C-MLI,Mali
+C-MLT,Malta
+C-MMR,Myanmar
+C-MNE,Montenegro
+C-MNG,Mongolia
+C-MOZ,Mozambique
+C-MRT,Mauritania
+C-MUS,Mauritius
+C-MWI,Malawi
+C-MYS,Malaysia
+C-NAM,Namibia
+C-NER,Niger
+C-NGA,Nigeria
+C-NIC,Nicaragua
+C-NLD,Netherlands (Kingdom of the)
+C-NOR,Norway
+C-NPL,Nepal
+C-NRU,Nauru
+C-NZL,New Zealand
+C-OMN,Oman
+C-PAK,Pakistan
+C-PAN,Panama
+C-PER,Peru
+C-PHL,Philippines
+C-PLW,Palau
+C-PNG,Papua New Guinea
+C-POL,Poland
+C-PRK,Democratic People's Republic of Korea
+C-PRT,Portugal
+C-PRY,Paraguay
+C-QAT,Qatar
+C-ROU,Romania
+C-RUS,Russian Federation
+C-RWA,Rwanda
+C-SAU,Saudi Arabia
+C-SDN,Sudan
+C-SEN,Senegal
+C-SGP,Singapore
+C-SLB,Solomon Islands
+C-SLE,Sierra Leone
+C-SLV,El Salvador
+C-SMR,San Marino
+C-SOM,Somalia
+C-SRB,Serbia
+C-SSD,South Sudan
+C-STP,Sao Tome and Principe
+C-SUR,Suriname
+C-SVK,Slovakia
+C-SVN,Slovenia
+C-SWE,Sweden
+C-SWZ,Eswatini
+C-SYC,Seychelles
+C-SYR,Syrian Arab Republic
+C-TCD,Chad
+C-TGO,Togo
+C-THA,Thailand
+C-TJK,Tajikistan
+C-TKM,Turkmenistan
+C-TLS,Timor-Leste
+C-TON,Tonga
+C-TTO,Trinidad and Tobago
+C-TUN,Tunisia
+C-TUR,Türkiye
+C-TUV,Tuvalu
+C-TZA,United Republic of Tanzania
+C-UGA,Uganda
+C-UKR,Ukraine
+C-URY,Uruguay
+C-USA,United States of America
+C-UZB,Uzbekistan
+C-VCT,Saint Vincent and the Grenadines
+C-VEN,"Venezuela, Bolivarian Republic of"
+C-VNM,Viet Nam
+C-VUT,Vanuatu
+C-WSM,Samoa
+C-YEM,Yemen
+C-ZAF,South Africa
+C-ZMB,Zambia
+C-ZWE,Zimbabwe

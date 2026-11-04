@@ -1,0 +1,7 @@
+# 第三方資料：名單比對會誤擋（地名剛好含人名字串），這幾個檔只套內建規則（email、個人路徑）。
+# 一行一個檔案的完整路徑；新增的參考資料檔不會自動豁免，誤擋時再逐檔加進來。
+reference/world/cities.csv
+reference/world/countries.csv
+reference/world/countries-50m.json
+reference/world/un_members.csv
+reference/world/whs.csv

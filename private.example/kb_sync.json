@@ -1,0 +1,7 @@
+{
+  "說明": "複製成 private\\kb_sync.json 後改成自己的筆記庫路徑。note 是相對 kb_root 的筆記路徑。",
+  "kb_root": "/path/to/your/notes",
+  "note": "travel/countries.md",
+  "insert_before_heading": "## Visited",
+  "commit_message": "life-map：KB 自動同步收集進度"
+}

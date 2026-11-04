@@ -1,0 +1,146 @@
+{
+ "schema": "records.fitness-sessions",
+ "schemaVersion": 1,
+ "items": [
+  {
+   "id": "fs-2026-01-05",
+   "type": "fitness-session",
+   "date": "2026-01-05",
+   "status": "done",
+   "archived": false,
+   "categoryRaw": "範例·羽球",
+   "exercises": [
+    {
+     "name": "範例動作",
+     "sets": [
+      {
+       "n": 1,
+       "reps": 10,
+       "weightKg": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fs-2026-01-12",
+   "type": "fitness-session",
+   "date": "2026-01-12",
+   "status": "done",
+   "archived": false,
+   "categoryRaw": "範例·羽球",
+   "exercises": [
+    {
+     "name": "範例動作",
+     "sets": [
+      {
+       "n": 1,
+       "reps": 10,
+       "weightKg": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fs-2026-01-19",
+   "type": "fitness-session",
+   "date": "2026-01-19",
+   "status": "done",
+   "archived": false,
+   "categoryRaw": "範例·羽球",
+   "exercises": [
+    {
+     "name": "範例動作",
+     "sets": [
+      {
+       "n": 1,
+       "reps": 10,
+       "weightKg": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fs-2026-02-02",
+   "type": "fitness-session",
+   "date": "2026-02-02",
+   "status": "done",
+   "archived": false,
+   "categoryRaw": "範例·羽球",
+   "exercises": [
+    {
+     "name": "範例動作",
+     "sets": [
+      {
+       "n": 1,
+       "reps": 10,
+       "weightKg": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fs-2026-04-20",
+   "type": "fitness-session",
+   "date": "2026-04-20",
+   "status": "done",
+   "archived": false,
+   "categoryRaw": "範例·羽球",
+   "exercises": [
+    {
+     "name": "範例動作",
+     "sets": [
+      {
+       "n": 1,
+       "reps": 10,
+       "weightKg": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fs-2026-01-06",
+   "type": "fitness-session",
+   "date": "2026-01-06",
+   "status": "done",
+   "archived": false,
+   "categoryRaw": "範例·胸肩重量",
+   "exercises": [
+    {
+     "name": "範例動作",
+     "sets": [
+      {
+       "n": 1,
+       "reps": 10,
+       "weightKg": 40
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fs-2026-01-13",
+   "type": "fitness-session",
+   "date": "2026-01-13",
+   "status": "done",
+   "archived": false,
+   "categoryRaw": "範例·胸肩重量",
+   "exercises": [
+    {
+     "name": "範例動作",
+     "sets": [
+      {
+       "n": 1,
+       "reps": 10,
+       "weightKg": 40
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

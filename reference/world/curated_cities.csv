@@ -1,0 +1,364 @@
+city_id,name_en,name_zh,country_id,status,euromonitor_rank,eiu_rank,whs_nearby,reasons
+CITY-1609350,Bangkok,,C-THA,include,1,,0,首都；人口 510 萬；Euromonitor 2025 #20；旅客量 2025 #1；旅客量 2018 #2；注意：外交部全國黃色警示；注意：國內有地區橙色警示，請確認這個城市是否在範圍內
+CITY-1819729,Hong Kong,,C-HKG,include,2,44,0,首都；人口 739 萬；Euromonitor 2025 #17；旅客量 2025 #2；旅客量 2018 #1；EIU 宜居 #44
+CITY-3117735,Madrid,,C-ESP,include,2,,1,首都；人口 325 萬；Euromonitor 2025 #2；旅客量 2018 #47；20 km 內世界遺產 1 處
+CITY-2643743,London,,C-GBR,include,3,54,4,首都；人口 896 萬；Euromonitor 2025 #18；旅客量 2025 #3；旅客量 2018 #3；EIU 宜居 #54；20 km 內世界遺產 4 處
+CITY-1850147,Tokyo,,C-JPN,include,3,10,0,首都；人口 973 萬；Euromonitor 2025 #3；旅客量 2018 #17；EIU 宜居 #10
+CITY-1821274,Macau,,C-MAC,include,4,,0,首都；旅客量 2025 #4；旅客量 2018 #4
+CITY-3169070,Rome,,C-ITA,include,4,,1,首都；人口 231 萬；Euromonitor 2025 #4；旅客量 2018 #16；20 km 內世界遺產 1 處
+CITY-745044,Istanbul,,C-TUR,include,5,,1,人口 1570 萬；旅客量 2025 #5；旅客量 2018 #10；20 km 內世界遺產 1 處；注意：外交部全國黃色警示；注意：國內有地區紅色警示，請確認這個城市是否在範圍內
+CITY-3173435,Milan,,C-ITA,include,5,,1,人口 137 萬；Euromonitor 2025 #5；旅客量 2018 #35；20 km 內世界遺產 1 處
+CITY-5128581,New York City,,C-USA,include,6,66,1,人口 880 萬；Euromonitor 2025 #6；旅客量 2018 #8；EIU 宜居 #66；20 km 內世界遺產 1 處
+CITY-2759794,Amsterdam,,C-NLD,include,7,,2,首都；Euromonitor 2025 #7；旅客量 2018 #25；20 km 內世界遺產 2 處
+CITY-323777,Antalya,,C-TUR,include,8,,0,人口 133 萬；旅客量 2025 #8；旅客量 2018 #12；注意：外交部全國黃色警示；注意：國內有地區紅色警示，請確認這個城市是否在範圍內
+CITY-3128760,Barcelona,,C-ESP,include,8,,2,人口 168 萬；Euromonitor 2025 #8；旅客量 2018 #33；20 km 內世界遺產 2 處
+CITY-2988507,Paris,,C-FRA,include,9,,3,首都；人口 213 萬；Euromonitor 2025 #1；旅客量 2025 #9；旅客量 2018 #6；20 km 內世界遺產 3 處
+CITY-1880252,Singapore,,C-SGP,include,9,26,1,首都；人口 563 萬；Euromonitor 2025 #9；旅客量 2018 #5；EIU 宜居 #26；20 km 內世界遺產 1 處
+CITY-1735161,Kuala Lumpur,,C-MYS,include,10,,1,首都；人口 145 萬；旅客量 2025 #10；旅客量 2018 #9；20 km 內世界遺產 1 處
+CITY-1835848,Seoul,,C-KOR,include,10,,2,首都；人口 1034 萬；Euromonitor 2025 #10；旅客量 2018 #24；20 km 內世界遺產 2 處
+CITY-1273294,Delhi,,C-IND,include,11,,3,人口 1103 萬；旅客量 2018 #11；20 km 內世界遺產 3 處；注意：外交部全國黃色警示；注意：國內有地區橙色警示，請確認這個城市是否在範圍內
+CITY-1853909,Osaka,,C-JPN,include,11,7,1,人口 275 萬；Euromonitor 2025 #11；旅客量 2018 #28；EIU 宜居 #7；20 km 內世界遺產 1 處
+CITY-5368361,Los Angeles,,C-USA,include,13,,0,人口 382 萬；Euromonitor 2025 #13；旅客量 2018 #29
+CITY-1795565,Shenzhen,,C-CHN,include,13,,0,人口 1749 萬；旅客量 2018 #13
+CITY-1275339,Mumbai,,C-IND,include,14,,3,人口 1269 萬；旅客量 2018 #14；20 km 內世界遺產 3 處；注意：外交部全國黃色警示；注意：國內有地區橙色警示，請確認這個城市是否在範圍內
+CITY-1151254,Phuket,,C-THA,include,15,,0,旅客量 2018 #15；注意：外交部全國黃色警示；注意：國內有地區橙色警示，請確認這個城市是否在範圍內
+CITY-1668341,Taipei,,C-TWN,include,15,,0,首都；人口 787 萬；Euromonitor 2025 #15；旅客量 2018 #19
+CITY-1614295,Pattaya,,C-THA,include,18,,0,旅客量 2018 #18；注意：外交部全國黃色警示；注意：國內有地區橙色警示，請確認這個城市是否在範圍內
+CITY-1857910,Kyoto,,C-JPN,include,19,,1,人口 146 萬；Euromonitor 2025 #19；旅客量 2018 #67；20 km 內世界遺產 1 處
+CITY-1809858,Guangzhou,,C-CHN,include,21,,0,人口 1867 萬；旅客量 2018 #21
+CITY-3067696,Prague,,C-CZE,include,22,,1,首都；人口 116 萬；旅客量 2018 #22；20 km 內世界遺產 1 處
+CITY-1279259,Agra,,C-IND,include,26,,2,人口 143 萬；旅客量 2018 #26；20 km 內世界遺產 2 處；注意：外交部全國黃色警示；注意：國內有地區橙色警示，請確認這個城市是否在範圍內
+CITY-4164138,Miami,,C-USA,include,27,,0,旅客量 2018 #27
+CITY-1796236,Shanghai,,C-CHN,include,30,,0,人口 2487 萬；旅客量 2018 #30
+CITY-1566083,Ho Chi Minh City,,C-VNM,include,31,,0,人口 1400 萬；旅客量 2018 #31
+CITY-1645528,Denpasar,,C-IDN,include,32,,0,旅客量 2018 #32；注意：外交部全國黃色警示；注意：國內有地區橙色警示，請確認這個城市是否在範圍內
+CITY-5506956,Las Vegas,,C-USA,include,34,,0,旅客量 2018 #34
+CITY-1264527,Chennai,,C-IND,include,36,,0,人口 468 萬；旅客量 2018 #36；注意：外交部全國黃色警示；注意：國內有地區橙色警示，請確認這個城市是否在範圍內
+CITY-2761369,Vienna,,C-AUT,include,37,2,2,首都；人口 169 萬；旅客量 2018 #37；EIU 宜居 #2；20 km 內世界遺產 2 處
+CITY-1732752,Johor Bahru,,C-MYS,include,38,,0,旅客量 2018 #38
+CITY-1269515,Jaipur,,C-IND,include,39,,2,人口 304 萬；旅客量 2018 #39；20 km 內世界遺產 2 處；注意：外交部全國黃色警示；注意：國內有地區橙色警示，請確認這個城市是否在範圍內
+CITY-3531673,Cancún,,C-MEX,include,40,,0,旅客量 2018 #40；注意：外交部全國黃色警示
+CITY-2950159,Berlin,,C-DEU,include,41,,2,首都；人口 342 萬；旅客量 2018 #41；20 km 內世界遺產 2 處
+CITY-264371,Athens,,C-GRC,include,43,,1,首都；旅客量 2018 #43；20 km 內世界遺產 1 處
+CITY-4167147,Orlando,,C-USA,include,44,,0,旅客量 2018 #44
+CITY-3164603,Venice,,C-ITA,include,46,,1,旅客量 2018 #46；20 km 內世界遺產 1 處
+CITY-1580410,Hạ Long,,C-VNM,include,48,,1,旅客量 2018 #48；20 km 內世界遺產 1 處
+CITY-2964574,Dublin,,C-IRL,include,50,,0,首都；人口 102 萬；旅客量 2018 #50
+CITY-3176959,Florence,,C-ITA,include,51,,2,旅客量 2018 #51；20 km 內世界遺產 2 處
+CITY-1581130,Hanoi,,C-VNM,include,52,,1,首都；人口 805 萬；旅客量 2018 #52；20 km 內世界遺產 1 處
+CITY-6167865,Toronto,,C-CAN,include,53,,0,人口 279 萬；旅客量 2018 #53
+CITY-2147714,Sydney,,C-AUS,include,55,4,1,人口 563 萬；旅客量 2018 #55；EIU 宜居 #4；20 km 內世界遺產 1 處
+CITY-2867714,Munich,,C-DEU,include,56,,0,人口 150 萬；旅客量 2018 #56
+CITY-1642911,Jakarta,,C-IDN,include,57,,0,首都；人口 854 萬；旅客量 2018 #57；注意：外交部全國黃色警示；注意：國內有地區橙色警示，請確認這個城市是否在範圍內
+CITY-1816670,Beijing,,C-CHN,include,58,,2,首都；人口 1896 萬；旅客量 2018 #58；20 km 內世界遺產 2 處
+CITY-2800866,Brussels,,C-BEL,include,60,,3,首都；人口 101 萬；旅客量 2018 #60；20 km 內世界遺產 3 處；注意：外交部全國黃色警示
+CITY-281184,Jerusalem,,C-ISR,include,61,,0,旅客量 2018 #61；注意：外交部全國黃色警示；注意：國內有地區紅色警示，請確認這個城市是否在範圍內
+CITY-3054643,Budapest,,C-HUN,include,62,,1,首都；人口 174 萬；旅客量 2018 #62；20 km 內世界遺產 1 處
+CITY-2267057,Lisbon,,C-PRT,include,63,,1,首都；旅客量 2018 #63；20 km 內世界遺產 1 處
+CITY-1735106,George Town,,C-MYS,include,65,,1,旅客量 2018 #65；20 km 內世界遺產 1 處
+CITY-261745,Irákleion,,C-GRC,include,66,,0,旅客量 2018 #66
+CITY-1790437,Zhuhai,,C-CHN,include,68,,1,人口 220 萬；旅客量 2018 #68；20 km 內世界遺產 1 處
+CITY-6173331,Vancouver,,C-CAN,include,69,9,0,旅客量 2018 #69；EIU 宜居 #9
+CITY-1153671,Chiang Mai,,C-THA,include,70,,0,旅客量 2018 #70；注意：外交部全國黃色警示；注意：國內有地區橙色警示，請確認這個城市是否在範圍內
+CITY-2618425,Copenhagen,,C-DNK,include,71,1,0,首都；人口 115 萬；旅客量 2018 #71；EIU 宜居 #1
+CITY-5391959,San Francisco,,C-USA,include,72,,0,旅客量 2018 #72
+CITY-2158177,Melbourne,,C-AUS,include,73,3,1,人口 543 萬；旅客量 2018 #73；EIU 宜居 #3；20 km 內世界遺產 1 處
+CITY-3094802,Kraków,,C-POL,include,74,,2,旅客量 2018 #74；20 km 內世界遺產 2 處
+CITY-1275004,Kolkata,,C-IND,include,76,,0,人口 463 萬；旅客量 2018 #76；注意：外交部全國黃色警示；注意：國內有地區橙色警示，請確認這個城市是否在範圍內
+CITY-1717512,Cebu City,,C-PHL,include,77,,0,旅客量 2018 #77；注意：國內有地區橙色警示，請確認這個城市是否在範圍內
+CITY-2193733,Auckland,,C-NZL,include,78,,0,人口 154 萬；旅客量 2018 #78
+CITY-293397,Tel Aviv,,C-ISR,include,79,,1,旅客量 2018 #79；20 km 內世界遺產 1 處；注意：外交部全國黃色警示；注意：國內有地區紅色警示，請確認這個城市是否在範圍內
+CITY-1809498,Guilin,,C-CHN,include,80,,0,人口 157 萬；旅客量 2018 #80
+CITY-5856195,Honolulu,,C-USA,include,81,,0,旅客量 2018 #81
+CITY-756135,Warsaw,,C-POL,include,83,,1,首都；人口 170 萬；旅客量 2018 #83；20 km 內世界遺產 1 處
+CITY-304184,Muğla,,C-TUR,include,84,,0,旅客量 2018 #84；注意：外交部全國黃色警示；注意：國內有地區紅色警示，請確認這個城市是否在範圍內
+CITY-3435910,Buenos Aires,,C-ARG,include,85,,1,首都；人口 289 萬；旅客量 2018 #85；20 km 內世界遺產 1 處
+CITY-2113015,Chiba,,C-JPN,include,86,,0,旅客量 2018 #86
+CITY-2925533,Frankfurt am Main,,C-DEU,include,87,,0,旅客量 2018 #87
+CITY-2673730,Stockholm,,C-SWE,include,88,,2,首都；人口 151 萬；旅客量 2018 #88；20 km 內世界遺產 2 處；注意：外交部全國黃色警示
+CITY-3936456,Lima,,C-PER,include,89,,1,首都；人口 773 萬；旅客量 2018 #89；20 km 內世界遺產 1 處；注意：外交部全國黃色警示
+CITY-1583992,Da Nang,,C-VNM,include,90,,0,人口 127 萬；旅客量 2018 #90
+CITY-6295587,Batam,,C-IDN,include,91,,0,人口 129 萬；旅客量 2018 #91；注意：外交部全國黃色警示；注意：國內有地區橙色警示，請確認這個城市是否在範圍內
+CITY-2990440,Nice,,C-FRA,include,92,,1,旅客量 2018 #92；20 km 內世界遺產 1 處
+CITY-1863967,Fukuoka,,C-JPN,include,93,,0,人口 161 萬；旅客量 2018 #93
+CITY-1846266,Jeju City,,C-KOR,include,95,,1,旅客量 2018 #95；20 km 內世界遺產 1 處
+CITY-2735943,Porto,,C-PRT,include,96,,1,旅客量 2018 #96；20 km 內世界遺產 1 處
+CITY-400666,Rhodes,,C-GRC,include,97,,1,旅客量 2018 #97；20 km 內世界遺產 1 處
+CITY-1152633,Krabi,,C-THA,include,99,,0,旅客量 2018 #99；注意：外交部全國黃色警示；注意：國內有地區橙色警示，請確認這個城市是否在範圍內
+CITY-1277333,Bengaluru,,C-IND,include,100,,0,人口 849 萬；旅客量 2018 #100；注意：外交部全國黃色警示；注意：國內有地區橙色警示，請確認這個城市是否在範圍內
+CITY-2078025,Adelaide,,C-AUS,include,,8,0,人口 146 萬；EIU 宜居 #8
+CITY-1279233,Ahmedabad,,C-IND,include,,,1,人口 635 萬；20 km 內世界遺產 1 處；注意：外交部全國黃色警示；注意：國內有地區橙色警示，請確認這個城市是否在範圍內
+CITY-3041563,Andorra la Vella,,C-AND,include,,,1,首都；20 km 內世界遺產 1 處
+CITY-1785294,Anyang,,C-CHN,include,,,1,人口 114 萬；20 km 內世界遺產 1 處
+CITY-3947322,Arequipa,,C-PER,include,,,1,人口 119 萬；20 km 內世界遺產 1 處；注意：外交部全國黃色警示
+CITY-162183,Ashgabat,,C-TKM,include,,,1,首都；人口 103 萬；20 km 內世界遺產 1 處；注意：外交部全國黃色警示
+CITY-3575551,Basseterre,,C-KNA,include,,,1,首都；20 km 內世界遺產 1 處
+CITY-2661552,Bern,,C-CHE,include,,,1,首都；20 km 內世界遺產 1 處
+CITY-3060972,Bratislava,,C-SVK,include,,,1,首都；20 km 內世界遺產 1 處
+CITY-3374036,Bridgetown,,C-BRB,include,,,1,首都；20 km 內世界遺產 1 處
+CITY-5110302,Brooklyn,,C-USA,include,,,1,人口 273 萬；20 km 內世界遺產 1 處
+CITY-750269,Bursa,,C-TUR,include,,,1,人口 310 萬；20 km 內世界遺產 1 處；注意：外交部全國黃色警示；注意：國內有地區紅色警示，請確認這個城市是否在範圍內
+CITY-3946083,Callao,,C-PER,include,,,1,人口 122 萬；20 km 內世界遺產 1 處；注意：外交部全國黃色警示
+CITY-1720151,Caloocan,,C-PHL,include,,,1,人口 171 萬；20 km 內世界遺產 1 處；注意：國內有地區橙色警示，請確認這個城市是否在範圍內
+CITY-1846326,Changwon,,C-KOR,include,,,1,人口 102 萬；20 km 內世界遺產 1 處
+CITY-3530589,Ciudad Nezahualcoyotl,,C-MEX,include,,,3,人口 107 萬；20 km 內世界遺產 3 處；注意：外交部全國黃色警示
+CITY-3860259,Córdoba,,C-ARG,include,,,1,人口 210 萬；20 km 內世界遺產 1 處
+CITY-2037799,Datong,,C-CHN,include,,,1,人口 310 萬；20 km 內世界遺產 1 處
+CITY-316541,Diyarbakır,,C-TUR,include,,,1,人口 183 萬；20 km 內世界遺產 1 處；注意：外交部全國黃色警示；注意：國內有地區紅色警示，請確認這個城市是否在範圍內
+CITY-2650225,Edinburgh,,C-GBR,include,,64,2,EIU 宜居 #64；20 km 內世界遺產 2 處
+CITY-1271951,Faridabad,,C-IND,include,,,1,人口 141 萬；20 km 內世界遺產 1 處；注意：外交部全國黃色警示；注意：國內有地區橙色警示，請確認這個城市是否在範圍內
+CITY-2660646,Geneva,,C-CHE,include,,6,0,EIU 宜居 #6
+CITY-1271308,Ghāziābād,,C-IND,include,,,1,人口 119 萬；20 km 內世界遺產 1 處；注意：外交部全國黃色警示；注意：國內有地區橙色警示，請確認這個城市是否在範圍內
+CITY-1842485,Goyang-si,,C-KOR,include,,,2,人口 106 萬；20 km 內世界遺產 2 處
+CITY-4005539,Guadalajara,,C-MEX,include,,,1,人口 138 萬；20 km 內世界遺產 1 處；注意：外交部全國黃色警示
+CITY-3514674,Gustavo Adolfo Madero,,C-MEX,include,,,3,人口 118 萬；20 km 內世界遺產 3 處；注意：外交部全國黃色警示
+CITY-2911298,Hamburg,,C-DEU,include,,,1,人口 197 萬；20 km 內世界遺產 1 處
+CITY-1808926,Hangzhou,,C-CHN,include,,,2,人口 1193 萬；20 km 內世界遺產 2 處
+CITY-658225,Helsinki,,C-FIN,include,,,1,首都；20 km 內世界遺產 1 處
+CITY-1862415,Hiroshima,,C-JPN,include,,,2,人口 120 萬；20 km 內世界遺產 2 處
+CITY-1580240,Huế,,C-VNM,include,,,1,人口 138 萬；20 km 內世界遺產 1 處
+CITY-3526683,Iztapalapa,,C-MEX,include,,,3,人口 183 萬；20 km 內世界遺產 3 處；注意：外交部全國黃色警示
+CITY-1797658,Jinjiang,,C-CHN,include,,,1,人口 141 萬；20 km 內世界遺產 1 處
+CITY-3489854,Kingston,,C-JAM,include,,,1,首都；20 km 內世界遺產 1 處；注意：外交部全國黃色警示
+CITY-2886242,Köln,,C-DEU,include,,,2,人口 102 萬；20 km 內世界遺產 2 處
+CITY-3196359,Ljubljana,,C-SVN,include,,,1,首都；20 km 內世界遺產 1 處
+CITY-1801792,Luoyang,,C-CHN,include,,,1,人口 139 萬；20 km 內世界遺產 1 處
+CITY-2960316,Luxembourg,,C-LUX,include,,,1,首都；20 km 內世界遺產 1 處
+CITY-5125771,Manhattan,,C-USA,include,,,1,人口 148 萬；20 km 內世界遺產 1 處
+CITY-1701668,Manila,,C-PHL,include,,,1,首都；人口 160 萬；20 km 內世界遺產 1 處；注意：國內有地區橙色警示，請確認這個城市是否在範圍內
+CITY-3530597,Mexico City,,C-MEX,include,,,3,首都；人口 1229 萬；20 km 內世界遺產 3 處；注意：外交部全國黃色警示
+CITY-6619347,Navi Mumbai,,C-IND,include,,,1,人口 260 萬；20 km 內世界遺產 1 處；注意：外交部全國黃色警示；注意：國內有地區橙色警示，請確認這個城市是否在範圍內
+CITY-1261481,New Delhi,,C-IND,include,,,3,首都；20 km 內世界遺產 3 處；注意：外交部全國黃色警示；注意：國內有地區橙色警示，請確認這個城市是否在範圍內
+CITY-3383330,Paramaribo,,C-SUR,include,,,1,首都；20 km 內世界遺產 1 處；注意：外交部全國黃色警示
+CITY-3046446,Pest,,C-HUN,include,,,1,人口 100 萬；20 km 內世界遺產 1 處
+CITY-4560349,Philadelphia,,C-USA,include,,,1,人口 157 萬；20 km 內世界遺產 1 處
+CITY-934154,Port Louis,,C-MUS,include,,,1,首都；20 km 內世界遺產 1 處；注意：外交部全國黃色警示
+CITY-2135171,Port-Vila,,C-VUT,include,,,1,首都；20 km 內世界遺產 1 處；注意：外交部全國黃色警示
+CITY-3374333,Praia,,C-CPV,include,,,1,首都；20 km 內世界遺產 1 處；注意：外交部全國黃色警示
+CITY-3521081,Puebla,,C-MEX,include,,,1,人口 169 萬；20 km 內世界遺產 1 處；注意：外交部全國黃色警示
+CITY-5133273,Queens,,C-USA,include,,,1,人口 231 萬；20 km 內世界遺產 1 處
+CITY-1692192,Quezon City,,C-PHL,include,,,1,人口 308 萬；20 km 內世界遺產 1 處；注意：國內有地區橙色警示，請確認這個城市是否在範圍內
+CITY-456172,Riga,,C-LVA,include,,,1,首都；20 km 內世界遺產 1 處
+CITY-3575635,Roseau,,C-DMA,include,,,1,首都；20 km 內世界遺產 1 處
+CITY-3576022,Saint John’s,,C-ATG,include,,,1,首都；20 km 內世界遺產 1 處；注意：外交部全國黃色警示
+CITY-4726206,San Antonio,,C-USA,include,,,1,人口 152 萬；20 km 內世界遺產 1 處
+CITY-3168070,San Marino,,C-SMR,include,,,1,首都；20 km 內世界遺產 1 處
+CITY-3991164,Santiago de Querétaro,,C-MEX,include,,,1,人口 159 萬；20 km 內世界遺產 1 處；注意：外交部全國黃色警示
+CITY-3492908,Santo Domingo,,C-DOM,include,,,1,首都；人口 220 萬；20 km 內世界遺產 1 處；注意：外交部全國黃色警示
+CITY-2034937,Shenyang,,C-CHN,include,,,1,人口 907 萬；20 km 內世界遺產 1 處
+CITY-727011,Sofia,,C-BGR,include,,,1,首都；人口 115 萬；20 km 內世界遺產 1 處
+CITY-1835553,Suwon,,C-KOR,include,,,1,人口 123 萬；20 km 內世界遺產 1 處
+CITY-1886760,Suzhou,,C-CHN,include,,,1,人口 671 萬；20 km 內世界遺產 1 處
+CITY-1684308,Taguig,,C-PHL,include,,,1,人口 130 萬；20 km 內世界遺產 1 處；注意：國內有地區橙色警示，請確認這個城市是否在範圍內
+CITY-1793724,Tai’an,,C-CHN,include,,,1,人口 173 萬；20 km 內世界遺產 1 處
+CITY-588409,Tallinn,,C-EST,include,,,1,首都；20 km 內世界遺產 1 處
+CITY-1512569,Tashkent,,C-UZB,include,,,1,首都；人口 197 萬；20 km 內世界遺產 1 處；注意：外交部全國黃色警示
+CITY-3691175,Trujillo,,C-PER,include,,,1,人口 106 萬；20 km 內世界遺產 1 處；注意：外交部全國黃色警示
+CITY-1833747,Ulsan,,C-KOR,include,,,1,人口 109 萬；20 km 內世界遺產 1 處
+CITY-2562305,Valletta,,C-MLT,include,,,2,首都；20 km 內世界遺產 2 處
+CITY-1253405,Varanasi,,C-IND,include,,,1,人口 116 萬；20 km 內世界遺產 1 處；注意：外交部全國黃色警示；注意：國內有地區橙色警示，請確認這個城市是否在範圍內
+CITY-6691831,Vatican City,,C-VAT,include,,,2,首都；20 km 內世界遺產 2 處
+CITY-593116,Vilnius,,C-LTU,include,,,1,首都；20 km 內世界遺產 1 處
+CITY-1790645,Xiamen,,C-CHN,include,,,1,人口 461 萬；20 km 內世界遺產 1 處
+CITY-1790353,Xianyang,,C-CHN,include,,,1,人口 103 萬；20 km 內世界遺產 1 處
+CITY-1790630,Xi’an,,C-CHN,include,,,1,人口 1295 萬；20 km 內世界遺產 1 處
+CITY-3979770,Zapopan,,C-MEX,include,,,1,人口 147 萬；20 km 內世界遺產 1 處；注意：外交部全國黃色警示
+CITY-2657896,Zürich,,C-CHE,include,,5,0,EIU 宜居 #5
+CITY-292223,Dubai,,C-ARE,exclude,6,,0,人口 379 萬；Euromonitor 2025 #12；旅客量 2025 #6；旅客量 2018 #7；排除：外交部旅遊警示 orange
+CITY-104515,Makkah,,C-SAU,exclude,7,,0,人口 157 萬；旅客量 2025 #7；旅客量 2018 #20；排除：外交部旅遊警示 orange
+CITY-109223,Madinah,,C-SAU,exclude,23,,0,人口 130 萬；旅客量 2018 #23；排除：外交部旅遊警示 orange
+CITY-360630,Cairo,,C-EGY,exclude,42,,2,首都；人口 960 萬；旅客量 2018 #42；20 km 內世界遺產 2 處；排除：外交部旅遊警示 orange
+CITY-524901,Moscow,,C-RUS,exclude,45,,3,首都；人口 1038 萬；旅客量 2018 #45；20 km 內世界遺產 3 處；排除：外交部旅遊警示 red
+CITY-108410,Riyadh,,C-SAU,exclude,49,,1,首都；人口 420 萬；旅客量 2018 #49；20 km 內世界遺產 1 處；排除：外交部旅遊警示 orange
+CITY-993800,Johannesburg,,C-ZAF,exclude,54,108,0,人口 941 萬；旅客量 2018 #54；EIU 宜居 #108；排除：外交部旅遊警示 orange
+CITY-498817,Saint Petersburg,,C-RUS,exclude,59,,1,人口 535 萬；旅客量 2018 #59；20 km 內世界遺產 1 處；排除：外交部旅遊警示 red
+CITY-110336,Dammam,,C-SAU,exclude,64,,0,人口 125 萬；旅客量 2018 #64；排除：外交部旅遊警示 orange
+CITY-2542997,Marrakesh,,C-MAR,exclude,75,,1,旅客量 2018 #75；20 km 內世界遺產 1 處；排除：外交部旅遊警示 orange
+CITY-361291,Hurghada,,C-EGY,exclude,82,,0,旅客量 2018 #82；排除：外交部旅遊警示 orange
+CITY-292968,Abu Dhabi,,C-ARE,exclude,94,,0,首都；人口 180 萬；旅客量 2018 #94；排除：外交部旅遊警示 orange
+CITY-3451190,Rio de Janeiro,,C-BRA,exclude,98,,2,人口 674 萬；旅客量 2018 #98；20 km 內世界遺產 2 處；排除：外交部旅遊警示 orange
+CITY-2353151,Aba,,C-NGA,exclude,,,0,人口 116 萬；排除：外交部旅遊警示 red
+CITY-2352778,Abuja,,C-NGA,exclude,,,0,首都；人口 269 萬；排除：外交部旅遊警示 red
+CITY-2306104,Accra,,C-GHA,exclude,,,0,首都；人口 196 萬；排除：外交部旅遊警示 orange
+CITY-344979,Addis Ababa,,C-ETH,exclude,,,0,首都；人口 386 萬；排除：外交部旅遊警示 red
+CITY-415189,Aden,,C-YEM,exclude,,,0,人口 107 萬；排除：外交部旅遊警示 red
+CITY-99071,Al Mawşil al Jadīdah,,C-IRQ,exclude,,,0,人口 206 萬；排除：外交部旅遊警示 red
+CITY-170063,Aleppo,,C-SYR,exclude,,,1,人口 209 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 red
+CITY-361058,Alexandria,,C-EGY,exclude,,,0,人口 526 萬；排除：外交部旅遊警示 orange
+CITY-2507480,Algiers,,C-DZA,exclude,,,1,首都；人口 236 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 orange
+CITY-250441,Amman,,C-JOR,exclude,,,0,首都；人口 127 萬；排除：外交部旅遊警示 orange
+CITY-1070940,Antananarivo,,C-MDG,exclude,,,1,首都；人口 134 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 orange
+CITY-343300,Asmara,,C-ERI,exclude,,,1,首都；20 km 內世界遺產 1 處；排除：外交部旅遊警示 red
+CITY-98182,Baghdad,,C-IRQ,exclude,,,0,首都；人口 721 萬；排除：外交部旅遊警示 red
+CITY-587084,Baku,,C-AZE,exclude,,,1,首都；人口 235 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 orange
+CITY-2460596,Bamako,,C-MLI,exclude,,,0,首都；人口 422 萬；排除：外交部旅遊警示 red
+CITY-2389853,Bangui,,C-CAF,exclude,,,0,首都；排除：外交部旅遊警示 red
+CITY-2413876,Banjul,,C-GMB,exclude,,,0,首都；排除：外交部旅遊警示 orange
+CITY-1183460,Bannu,,C-PAK,exclude,,,0,人口 135 萬；排除：外交部旅遊警示 red
+CITY-3648522,Barquisimeto,,C-VEN,exclude,,,0,人口 124 萬；排除：外交部旅遊警示 red
+CITY-3689147,Barranquilla,,C-COL,exclude,,,0,人口 120 萬；排除：外交部旅遊警示 orange
+CITY-99532,Basrah,,C-IRQ,exclude,,,0,人口 132 萬；排除：外交部旅遊警示 red
+CITY-276781,Beirut,,C-LBN,exclude,,,0,首都；人口 191 萬；排除：外交部旅遊警示 red
+CITY-3470127,Belo Horizonte,,C-BRA,exclude,,,1,人口 272 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 orange
+CITY-3405870,Belém,,C-BRA,exclude,,,0,人口 149 萬；排除：外交部旅遊警示 orange
+CITY-2347283,Benin City,,C-NGA,exclude,,,0,人口 178 萬；排除：外交部旅遊警示 red
+CITY-2374775,Bissau,,C-GNB,exclude,,,0,首都；排除：外交部旅遊警示 orange
+CITY-3688689,Bogotá,,C-COL,exclude,,,0,首都；人口 767 萬；排除：外交部旅遊警示 orange
+CITY-3469058,Brasília,,C-BRA,exclude,,,1,首都；人口 220 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 orange
+CITY-2260535,Brazzaville,,C-COG,exclude,,,0,首都；人口 198 萬；排除：外交部旅遊警示 red
+CITY-3687925,Cali,,C-COL,exclude,,,0,人口 239 萬；排除：外交部旅遊警示 orange
+CITY-2422488,Camayenne,,C-GIN,exclude,,,0,人口 187 萬；排除：外交部旅遊警示 red
+CITY-3467865,Campinas,,C-BRA,exclude,,,0,人口 103 萬；排除：外交部旅遊警示 orange
+CITY-3369157,Cape Town,,C-ZAF,exclude,,,1,人口 477 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 orange
+CITY-3646738,Caracas,,C-VEN,exclude,,,1,首都；人口 300 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 red
+CITY-2553604,Casablanca,,C-MAR,exclude,,,0,人口 366 萬；排除：外交部旅遊警示 orange
+CITY-1508291,Chelyabinsk,,C-RUS,exclude,,,0,人口 120 萬；排除：外交部旅遊警示 red
+CITY-618426,Chisinau,,C-MDA,exclude,,,0,首都；排除：外交部旅遊警示 orange
+CITY-12226438,Ciudad de la Paz,,C-GNQ,exclude,,,0,首都；排除：外交部旅遊警示 red
+CITY-2422465,Conakry,,C-GIN,exclude,,,0,首都；人口 192 萬；排除：外交部旅遊警示 red
+CITY-3464975,Curitiba,,C-BRA,exclude,,,0,人口 194 萬；排除：外交部旅遊警示 orange
+CITY-2253354,Dakar,,C-SEN,exclude,,,1,首都；人口 264 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 red
+CITY-170654,Damascus,,C-SYR,exclude,,,1,首都；人口 156 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 red
+CITY-160263,Dar es Salaam,,C-TZA,exclude,,,0,人口 538 萬；排除：外交部旅遊警示 orange
+CITY-223817,Djibouti,,C-DJI,exclude,,,0,首都；排除：外交部旅遊警示 red
+CITY-160196,Dodoma,,C-TZA,exclude,,,0,首都；排除：外交部旅遊警示 orange
+CITY-290030,Doha,,C-QAT,exclude,,,0,首都；排除：外交部旅遊警示 orange
+CITY-2232593,Douala,,C-CMR,exclude,,,0,人口 133 萬；排除：外交部旅遊警示 red
+CITY-1007311,Durban,,C-ZAF,exclude,,,0,人口 333 萬；排除：外交部旅遊警示 orange
+CITY-95446,Erbil,,C-IRQ,exclude,,,1,人口 161 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 red
+CITY-1179400,Faisalabad,,C-PAK,exclude,,,0,人口 380 萬；排除：外交部旅遊警示 red
+CITY-2548885,Fes,,C-MAR,exclude,,,1,人口 119 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 orange
+CITY-3399415,Fortaleza,,C-BRA,exclude,,,0,人口 240 萬；排除：外交部旅遊警示 orange
+CITY-2409306,Freetown,,C-SLE,exclude,,,0,首都；排除：外交部旅遊警示 orange
+CITY-933773,Gaborone,,C-BWA,exclude,,,0,首都；排除：外交部旅遊警示 orange
+CITY-3378644,Georgetown,,C-GUY,exclude,,,0,首都；排除：外交部旅遊警示 orange
+CITY-426272,Gitega,,C-BDI,exclude,,,0,首都；排除：外交部旅遊警示 red
+CITY-360995,Giza,,C-EGY,exclude,,,2,人口 436 萬；20 km 內世界遺產 2 處；排除：外交部旅遊警示 orange
+CITY-3462377,Goiânia,,C-BRA,exclude,,,0,人口 153 萬；排除：外交部旅遊警示 orange
+CITY-964420,Gqeberha,,C-ZAF,exclude,,,0,人口 105 萬；排除：外交部旅遊警示 orange
+CITY-3461786,Guarulhos,,C-BRA,exclude,,,0,人口 134 萬；排除：外交部旅遊警示 orange
+CITY-3657509,Guayaquil,,C-ECU,exclude,,,0,人口 272 萬；排除：外交部旅遊警示 orange
+CITY-1177662,Gujranwala,,C-PAK,exclude,,,0,人口 251 萬；排除：外交部旅遊警示 red
+CITY-890299,Harare,,C-ZWE,exclude,,,0,首都；人口 154 萬；排除：外交部旅遊警示 red
+CITY-3553478,Havana,,C-CUB,exclude,,,1,首都；人口 216 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 orange
+CITY-2108502,Honiara,,C-SLB,exclude,,,0,首都；排除：外交部旅遊警示 orange
+CITY-1176734,Hyderabad,,C-PAK,exclude,,,0,人口 192 萬；排除：外交部旅遊警示 red
+CITY-2339354,Ibadan,,C-NGA,exclude,,,0,人口 364 萬；排除：外交部旅遊警示 red
+CITY-2337639,Ilorin,,C-NGA,exclude,,,0,人口 108 萬；排除：外交部旅遊警示 red
+CITY-418863,Isfahan,,C-IRN,exclude,,,2,人口 154 萬；20 km 內世界遺產 2 處；排除：外交部旅遊警示 red
+CITY-1176615,Islamabad,,C-PAK,exclude,,,1,首都；20 km 內世界遺產 1 處；排除：外交部旅遊警示 red
+CITY-105343,Jeddah,,C-SAU,exclude,,,1,人口 469 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 orange
+CITY-2335953,Jos,,C-NGA,exclude,,,0,人口 104 萬；排除：外交部旅遊警示 red
+CITY-373303,Juba,,C-SSD,exclude,,,0,首都；排除：外交部旅遊警示 red
+CITY-1138958,Kabul,,C-AFG,exclude,,,0,首都；人口 443 萬；排除：外交部旅遊警示 red
+CITY-2335727,Kaduna,,C-NGA,exclude,,,0,人口 185 萬；排除：外交部旅遊警示 red
+CITY-195272,Kakamega,,C-KEN,exclude,,,0,人口 186 萬；排除：外交部旅遊警示 orange
+CITY-232422,Kampala,,C-UGA,exclude,,,1,首都；人口 168 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 red
+CITY-214481,Kananga,,C-COD,exclude,,,0,人口 127 萬；排除：外交部旅遊警示 red
+CITY-2335204,Kano,,C-NGA,exclude,,,0,人口 491 萬；排除：外交部旅遊警示 red
+CITY-1174872,Karachi,,C-PAK,exclude,,,0,人口 1162 萬；排除：外交部旅遊警示 red
+CITY-128747,Karaj,,C-IRN,exclude,,,0,人口 144 萬；排除：外交部旅遊警示 red
+CITY-94824,Karbala,,C-IRQ,exclude,,,0,人口 121 萬；排除：外交部旅遊警示 red
+CITY-1283240,Kathmandu,,C-NPL,exclude,,,1,首都；人口 144 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 orange
+CITY-551487,Kazan,,C-RUS,exclude,,,2,人口 124 萬；20 km 內世界遺產 2 處；排除：外交部旅遊警示 red
+CITY-706483,Kharkiv,,C-UKR,exclude,,,0,人口 142 萬；排除：外交部旅遊警示 red
+CITY-379252,Khartoum,,C-SDN,exclude,,,0,首都；人口 197 萬；排除：外交部旅遊警示 red
+CITY-379251,Khartoum North,,C-SDN,exclude,,,0,人口 101 萬；排除：外交部旅遊警示 red
+CITY-202061,Kigali,,C-RWA,exclude,,,0,首都；人口 113 萬；排除：外交部旅遊警示 orange
+CITY-2314302,Kinshasa,,C-COD,exclude,,,0,首都；人口 1600 萬；排除：外交部旅遊警示 red
+CITY-94787,Kirkuk,,C-IRQ,exclude,,,0,人口 103 萬；排除：外交部旅遊警示 red
+CITY-212730,Kisangani,,C-COD,exclude,,,0,人口 160 萬；排除：外交部旅遊警示 red
+CITY-1502026,Krasnoyarsk,,C-RUS,exclude,,,0,人口 109 萬；排除：外交部旅遊警示 red
+CITY-2298890,Kumasi,,C-GHA,exclude,,,0,人口 254 萬；排除：外交部旅遊警示 orange
+CITY-285787,Kuwait City,,C-KWT,exclude,,105,0,首都；EIU 宜居 #105；排除：外交部旅遊警示 orange
+CITY-703448,Kyiv,,C-UKR,exclude,,166,1,首都；人口 295 萬；EIU 宜居 #166；20 km 內世界遺產 1 處；排除：外交部旅遊警示 red
+CITY-3911925,La Paz,,C-BOL,exclude,,,0,人口 200 萬；排除：外交部旅遊警示 orange
+CITY-2332459,Lagos,,C-NGA,exclude,,,0,人口 1538 萬；排除：外交部旅遊警示 red
+CITY-1172451,Lahore,,C-PAK,exclude,,,1,人口 1300 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 red
+CITY-2399697,Libreville,,C-GAB,exclude,,,0,首都；排除：外交部旅遊警示 red
+CITY-927967,Lilongwe,,C-MWI,exclude,,,0,首都；人口 111 萬；排除：外交部旅遊警示 orange
+CITY-2365267,Lomé,,C-TGO,exclude,,,0,首都；人口 218 萬；排除：外交部旅遊警示 red
+CITY-2240449,Luanda,,C-AGO,exclude,,,0,首都；人口 277 萬；排除：外交部旅遊警示 orange
+CITY-922704,Lubumbashi,,C-COD,exclude,,,0,人口 222 萬；排除：外交部旅遊警示 red
+CITY-909137,Lusaka,,C-ZMB,exclude,,,0,首都；人口 221 萬；排除：外交部旅遊警示 orange
+CITY-3395981,Maceió,,C-BRA,exclude,,,0,人口 103 萬；排除：外交部旅遊警示 orange
+CITY-2331447,Maiduguri,,C-NGA,exclude,,,0,人口 111 萬；排除：外交部旅遊警示 red
+CITY-3617763,Managua,,C-NIC,exclude,,,0,首都；排除：外交部旅遊警示 orange
+CITY-290340,Manama,,C-BHR,exclude,,,3,首都；20 km 內世界遺產 3 處；排除：外交部旅遊警示 orange
+CITY-3663517,Manaus,,C-BRA,exclude,,,1,人口 221 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 orange
+CITY-1311874,Mandalay,,C-MMR,exclude,,,0,人口 120 萬；排除：外交部旅遊警示 orange
+CITY-3633009,Maracaibo,,C-VEN,exclude,,,0,人口 175 萬；排除：外交部旅遊警示 red
+CITY-932505,Maseru,,C-LSO,exclude,,,0,首都；排除：外交部旅遊警示 orange
+CITY-124665,Mashhad,,C-IRN,exclude,,,0,人口 230 萬；排除：外交部旅遊警示 red
+CITY-209228,Mbuji-Mayi,,C-COD,exclude,,,0,人口 210 萬；排除：外交部旅遊警示 red
+CITY-3674962,Medellín,,C-COL,exclude,,,0,人口 199 萬；排除：外交部旅遊警示 orange
+CITY-625144,Minsk,,C-BLR,exclude,,,0,首都；人口 174 萬；排除：外交部旅遊警示 red
+CITY-53654,Mogadishu,,C-SOM,exclude,,,0,首都；人口 258 萬；排除：外交部旅遊警示 red
+CITY-186301,Mombasa,,C-KEN,exclude,,,2,人口 120 萬；20 km 內世界遺產 2 處；排除：外交部旅遊警示 orange
+CITY-2274895,Monrovia,,C-LBR,exclude,,,0,首都；人口 154 萬；排除：外交部旅遊警示 orange
+CITY-921772,Moroni,,C-COM,exclude,,,0,首都；排除：外交部旅遊警示 orange
+CITY-99072,Mosul,,C-IRQ,exclude,,,0,人口 168 萬；排除：外交部旅遊警示 red
+CITY-1169825,Multan,,C-PAK,exclude,,,0,人口 216 萬；排除：外交部旅遊警示 red
+CITY-287286,Muscat,,C-OMN,exclude,,123,0,首都；EIU 宜居 #123；排除：外交部旅遊警示 orange
+CITY-152224,Mwanza,,C-TZA,exclude,,,0,人口 110 萬；排除：外交部旅遊警示 orange
+CITY-2427123,N'Djamena,,C-TCD,exclude,,,0,首都；人口 135 萬；排除：外交部旅遊警示 red
+CITY-184745,Nairobi,,C-KEN,exclude,,,0,首都；人口 439 萬；排除：外交部旅遊警示 orange
+CITY-6611854,Nay Pyi Taw,,C-MMR,exclude,,,0,首都；排除：外交部旅遊警示 orange
+CITY-2440485,Niamey,,C-NER,exclude,,,0,首都；人口 132 萬；排除：外交部旅遊警示 red
+CITY-520555,Nizhniy Novgorod,,C-RUS,exclude,,,0,人口 125 萬；排除：外交部旅遊警示 red
+CITY-2377450,Nouakchott,,C-MRT,exclude,,,0,首都；人口 118 萬；排除：外交部旅遊警示 red
+CITY-1496747,Novosibirsk,,C-RUS,exclude,,,0,人口 161 萬；排除：外交部旅遊警示 red
+CITY-698740,Odesa,,C-UKR,exclude,,,1,人口 101 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 red
+CITY-365137,Omdurman,,C-SDN,exclude,,,0,人口 184 萬；排除：外交部旅遊警示 red
+CITY-1496153,Omsk,,C-RUS,exclude,,,0,人口 117 萬；排除：外交部旅遊警示 red
+CITY-2326016,Onitsha,,C-NGA,exclude,,,0,人口 155 萬；排除：外交部旅遊警示 red
+CITY-2357048,Ouagadougou,,C-BFA,exclude,,,0,首都；人口 241 萬；排除：外交部旅遊警示 red
+CITY-1168197,Peshawar,,C-PAK,exclude,,,0,人口 475 萬；排除：外交部旅遊警示 red
+CITY-1821306,Phnom Penh,,C-KHM,exclude,,,0,首都；人口 157 萬；排除：外交部旅遊警示 orange
+CITY-2246678,Pikine,,C-SEN,exclude,,,1,人口 117 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 red
+CITY-2255414,Pointe-Noire,,C-COG,exclude,,,0,人口 103 萬；排除：外交部旅遊警示 red
+CITY-2324774,Port Harcourt,,C-NGA,exclude,,,0,人口 212 萬；排除：外交部旅遊警示 red
+CITY-2088122,Port Moresby,,C-PNG,exclude,,,0,首都；排除：外交部旅遊警示 red
+CITY-3573890,Port of Spain,,C-TTO,exclude,,,0,首都；排除：外交部旅遊警示 orange
+CITY-3718426,Port-au-Prince,,C-HTI,exclude,,,0,首都；人口 123 萬；排除：外交部旅遊警示 red
+CITY-3452925,Porto Alegre,,C-BRA,exclude,,,0,人口 148 萬；排除：外交部旅遊警示 orange
+CITY-2392087,Porto-Novo,,C-BEN,exclude,,,0,首都；排除：外交部旅遊警示 red
+CITY-964137,Pretoria,,C-ZAF,exclude,,,1,首都；人口 211 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 orange
+CITY-1871859,Pyongyang,,C-PRK,exclude,,,0,首都；人口 322 萬；排除：外交部旅遊警示 red
+CITY-1167528,Quetta,,C-PAK,exclude,,,0,人口 156 萬；排除：外交部旅遊警示 red
+CITY-3652462,Quito,,C-ECU,exclude,,,1,首都；人口 278 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 orange
+CITY-2538475,Rabat,,C-MAR,exclude,,,1,首都；人口 165 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 orange
+CITY-1166993,Rawalpindi,,C-PAK,exclude,,,0,人口 335 萬；排除：外交部旅遊警示 red
+CITY-268743,Ra’s Bayrūt,,C-LBN,exclude,,,0,人口 125 萬；排除：外交部旅遊警示 red
+CITY-3390760,Recife,,C-BRA,exclude,,,1,人口 165 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 orange
+CITY-501175,Rostov-on-Don,,C-RUS,exclude,,,0,人口 113 萬；排除：外交部旅遊警示 red
+CITY-7802746,Sadr City,,C-IRQ,exclude,,,0,人口 121 萬；排除：外交部旅遊警示 red
+CITY-3450554,Salvador,,C-BRA,exclude,,,1,人口 271 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 orange
+CITY-499099,Samara,,C-RUS,exclude,,,0,人口 116 萬；排除：外交部旅遊警示 red
+CITY-71137,Sanaa,,C-YEM,exclude,,,1,首都；人口 193 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 red
+CITY-3904906,Santa Cruz de la Sierra,,C-BOL,exclude,,,0,人口 183 萬；排除：外交部旅遊警示 orange
+CITY-292672,Sharjah,,C-ARE,exclude,,,0,人口 180 萬；排除：外交部旅遊警示 orange
+CITY-115019,Shiraz,,C-IRN,exclude,,,0,人口 124 萬；排除：外交部旅遊警示 red
+CITY-349076,Shubrā al Khaymah,,C-EGY,exclude,,,1,人口 124 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 orange
+CITY-2322911,Sokoto,,C-NGA,exclude,,,0,人口 104 萬；排除：外交部旅遊警示 red
+CITY-953781,Soweto,,C-ZAF,exclude,,,0,人口 169 萬；排除：外交部旅遊警示 orange
+CITY-3903987,Sucre,,C-BOL,exclude,,,1,首都；20 km 內世界遺產 1 處；排除：外交部旅遊警示 orange
+CITY-3448439,São Paulo,,C-BRA,exclude,,,0,人口 1240 萬；排除：外交部旅遊警示 orange
+CITY-2410763,São Tomé,,C-STP,exclude,,,0,首都；排除：外交部旅遊警示 orange
+CITY-113646,Tabriz,,C-IRN,exclude,,,1,人口 142 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 red
+CITY-2530335,Tangier,,C-MAR,exclude,,,0,人口 103 萬；排除：外交部旅遊警示 orange
+CITY-611717,Tbilisi,,C-GEO,exclude,,,1,首都；人口 104 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 orange
+CITY-112931,Tehran,,C-IRN,exclude,,164,2,首都；人口 715 萬；EIU 宜居 #164；20 km 內世界遺產 2 處；排除：外交部旅遊警示 red
+CITY-2244322,Touba,,C-SEN,exclude,,,0,人口 112 萬；排除：外交部旅遊警示 red
+CITY-2210247,Tripoli,,C-LBY,exclude,,,0,首都；人口 130 萬；排除：外交部旅遊警示 red
+CITY-2464470,Tunis,,C-TUN,exclude,,,3,首都；20 km 內世界遺產 3 處；排除：外交部旅遊警示 orange
+CITY-479561,Ufa,,C-RUS,exclude,,,0,人口 112 萬；排除：外交部旅遊警示 red
+CITY-3625549,Valencia,,C-VEN,exclude,,,0,人口 161 萬；排除：外交部旅遊警示 red
+CITY-241131,Victoria,,C-SYC,exclude,,,0,首都；排除：外交部旅遊警示 orange
+CITY-1651944,Vientiane,,C-LAO,exclude,,,0,首都；排除：外交部旅遊警示 orange
+CITY-472757,Volgograd,,C-RUS,exclude,,,0,人口 101 萬；排除：外交部旅遊警示 red
+CITY-472045,Voronezh,,C-RUS,exclude,,,0,人口 104 萬；排除：外交部旅遊警示 red
+CITY-1298824,Yangon,,C-MMR,exclude,,,0,人口 447 萬；排除：外交部旅遊警示 orange
+CITY-2220957,Yaoundé,,C-CMR,exclude,,,0,首都；人口 129 萬；排除：外交部旅遊警示 red
+CITY-1486209,Yekaterinburg,,C-RUS,exclude,,,0,人口 149 萬；排除：外交部旅遊警示 red
+CITY-616052,Yerevan,,C-ARM,exclude,,,1,首都；人口 114 萬；20 km 內世界遺產 1 處；排除：外交部旅遊警示 orange

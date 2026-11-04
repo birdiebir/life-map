@@ -1,0 +1,14 @@
+# 個人資料一律放 private\，不進這個 repo
+private/
+.env
+
+__pycache__/
+*.pyc
+.venv/
+
+# 下載的原始資料（重建參考資料用，見 README）
+_downloads/
+# 自己加的城市中文名覆寫（不散布）
+reference/world/city_names_zh.local.csv
+.pytest_cache/
+private.example/output/

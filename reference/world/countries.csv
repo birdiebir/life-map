@@ -1,0 +1,253 @@
+id,iso2,iso3,numeric,name_en,name_zh,continent,population,capital
+C-AND,AD,AND,020,Andorra,安道爾,EU,77006,Andorra la Vella
+C-ARE,AE,ARE,784,United Arab Emirates,阿拉伯聯合大公國,AS,9630959,Abu Dhabi
+C-AFG,AF,AFG,004,Afghanistan,阿富汗,AS,37172386,Kabul
+C-ATG,AG,ATG,028,Antigua and Barbuda,安地卡及巴布達,NA,96286,St. John's
+C-AIA,AI,AIA,660,Anguilla,安奎拉,NA,13254,The Valley
+C-ALB,AL,ALB,008,Albania,阿爾巴尼亞,EU,2866376,Tirana
+C-ARM,AM,ARM,051,Armenia,亞美尼亞,AS,3090500,Yerevan
+C-AGO,AO,AGO,024,Angola,安哥拉,AF,30809762,Luanda
+C-ATA,AQ,ATA,010,Antarctica,南極洲,AN,0,
+C-ARG,AR,ARG,032,Argentina,阿根廷,SA,44494502,Buenos Aires
+C-ASM,AS,ASM,016,American Samoa,美屬薩摩亞,OC,55465,Pago Pago
+C-AUT,AT,AUT,040,Austria,奧地利,EU,8847037,Vienna
+C-AUS,AU,AUS,036,Australia,澳洲,OC,24992369,Canberra
+C-ABW,AW,ABW,533,Aruba,荷屬阿魯巴,NA,105845,Oranjestad
+C-ALA,AX,ALA,248,Aland Islands,奧蘭群島,EU,26711,Mariehamn
+C-AZE,AZ,AZE,031,Azerbaijan,亞塞拜然,AS,10224900,Baku
+C-BIH,BA,BIH,070,Bosnia and Herzegovina,波士尼亞與赫塞哥維納,EU,3323929,Sarajevo
+C-BRB,BB,BRB,052,Barbados,巴貝多,NA,286641,Bridgetown
+C-BGD,BD,BGD,050,Bangladesh,孟加拉,AS,161356039,Dhaka
+C-BEL,BE,BEL,056,Belgium,比利時,EU,11422068,Brussels
+C-BFA,BF,BFA,854,Burkina Faso,布吉納法索,AF,19751535,Ouagadougou
+C-BGR,BG,BGR,100,Bulgaria,保加利亞,EU,7000039,Sofia
+C-BHR,BH,BHR,048,Bahrain,巴林,AS,1569439,Manama
+C-BDI,BI,BDI,108,Burundi,蒲隆地,AF,11175378,Gitega
+C-BEN,BJ,BEN,204,Benin,貝南,AF,11485048,Porto-Novo
+C-BLM,BL,BLM,652,Saint Barthelemy,聖巴瑟米,NA,8450,Gustavia
+C-BMU,BM,BMU,060,Bermuda,百慕達,NA,63968,Hamilton
+C-BRN,BN,BRN,096,Brunei,汶萊,AS,428962,Bandar Seri Begawan
+C-BOL,BO,BOL,068,Bolivia,玻利維亞,SA,11353142,Sucre
+C-BES,BQ,BES,535,"Bonaire, Saint Eustatius and Saba ",荷蘭加勒比區,NA,18012,
+C-BRA,BR,BRA,076,Brazil,巴西,SA,209469333,Brasilia
+C-BHS,BS,BHS,044,Bahamas,巴哈馬,NA,385640,Nassau
+C-BTN,BT,BTN,064,Bhutan,不丹,AS,754394,Thimphu
+C-BVT,BV,BVT,074,Bouvet Island,布威島,AN,0,
+C-BWA,BW,BWA,072,Botswana,波札那,AF,2254126,Gaborone
+C-BLR,BY,BLR,112,Belarus,白俄羅斯,EU,9485386,Minsk
+C-BLZ,BZ,BLZ,084,Belize,貝里斯,NA,383071,Belmopan
+C-CAN,CA,CAN,124,Canada,加拿大,NA,37058856,Ottawa
+C-CCK,CC,CCK,166,Cocos Islands,科克斯（基靈）群島,AS,628,West Island
+C-COD,CD,COD,180,Democratic Republic of the Congo,剛果（金夏沙）,AF,84068091,Kinshasa
+C-CAF,CF,CAF,140,Central African Republic,中非共和國,AF,4666377,Bangui
+C-COG,CG,COG,178,Republic of the Congo,剛果（布拉薩）,AF,5244363,Brazzaville
+C-CHE,CH,CHE,756,Switzerland,瑞士,EU,8516543,Bern
+C-CIV,CI,CIV,384,Ivory Coast,象牙海岸,AF,25069229,Yamoussoukro
+C-COK,CK,COK,184,Cook Islands,庫克群島,OC,21388,Avarua
+C-CHL,CL,CHL,152,Chile,智利,SA,18729160,Santiago
+C-CMR,CM,CMR,120,Cameroon,喀麥隆,AF,25216237,Yaounde
+C-CHN,CN,CHN,156,China,中國,AS,1411778724,Beijing
+C-COL,CO,COL,170,Colombia,哥倫比亞,SA,49648685,Bogota
+C-CRI,CR,CRI,188,Costa Rica,哥斯大黎加,NA,4999441,San Jose
+C-CUB,CU,CUB,192,Cuba,古巴,NA,11338138,Havana
+C-CPV,CV,CPV,132,Cabo Verde,維德角,AF,543767,Praia
+C-CUW,CW,CUW,531,Curacao,庫拉索,NA,159849, Willemstad
+C-CXR,CX,CXR,162,Christmas Island,聖誕島,OC,1500,Flying Fish Cove
+C-CYP,CY,CYP,196,Cyprus,賽普勒斯,EU,1189265,Nicosia
+C-CZE,CZ,CZE,203,Czechia,捷克,EU,10625695,Prague
+C-DEU,DE,DEU,276,Germany,德國,EU,82927922,Berlin
+C-DJI,DJ,DJI,262,Djibouti,吉布地,AF,958920,Djibouti
+C-DNK,DK,DNK,208,Denmark,丹麥,EU,5797446,Copenhagen
+C-DMA,DM,DMA,212,Dominica,多米尼克,NA,71625,Roseau
+C-DOM,DO,DOM,214,Dominican Republic,多明尼加共和國,NA,10627165,Santo Domingo
+C-DZA,DZ,DZA,012,Algeria,阿爾及利亞,AF,42228429,Algiers
+C-ECU,EC,ECU,218,Ecuador,厄瓜多,SA,17084357,Quito
+C-EST,EE,EST,233,Estonia,愛沙尼亞,EU,1320884,Tallinn
+C-EGY,EG,EGY,818,Egypt,埃及,AF,98423595,Cairo
+C-ESH,EH,ESH,732,Western Sahara,西撒哈拉,AF,273008,El-Aaiun
+C-ERI,ER,ERI,232,Eritrea,厄利垂亞,AF,6209262,Asmara
+C-ESP,ES,ESP,724,Spain,西班牙,EU,46723749,Madrid
+C-ETH,ET,ETH,231,Ethiopia,衣索比亞,AF,109224559,Addis Ababa
+C-FIN,FI,FIN,246,Finland,芬蘭,EU,5518050,Helsinki
+C-FJI,FJ,FJI,242,Fiji,斐濟,OC,883483,Suva
+C-FLK,FK,FLK,238,Falkland Islands,福克蘭群島,SA,2638,Stanley
+C-FSM,FM,FSM,583,Micronesia,密克羅尼西亞,OC,112640,Palikir
+C-FRO,FO,FRO,234,Faroe Islands,法羅群島,EU,48497,Torshavn
+C-FRA,FR,FRA,250,France,法國,EU,66987244,Paris
+C-GAB,GA,GAB,266,Gabon,加彭,AF,2119275,Libreville
+C-GBR,GB,GBR,826,United Kingdom,英國,EU,66488991,London
+C-GRD,GD,GRD,308,Grenada,格瑞那達,NA,111454,St. George's
+C-GEO,GE,GEO,268,Georgia,喬治亞,AS,3704500,Tbilisi
+C-GUF,GF,GUF,254,French Guiana,法屬圭亞那,SA,195506,Cayenne
+C-GGY,GG,GGY,831,Guernsey,根息,EU,65228,St Peter Port
+C-GHA,GH,GHA,288,Ghana,迦納,AF,29767108,Accra
+C-GIB,GI,GIB,292,Gibraltar,直布羅陀,EU,33718,Gibraltar
+C-GRL,GL,GRL,304,Greenland,格陵蘭,NA,56025,Nuuk
+C-GMB,GM,GMB,270,Gambia,甘比亞,AF,2280102,Banjul
+C-GIN,GN,GIN,324,Guinea,幾內亞,AF,12414318,Conakry
+C-GLP,GP,GLP,312,Guadeloupe,瓜地洛普,NA,443000,Basse-Terre
+C-GNQ,GQ,GNQ,226,Equatorial Guinea,赤道幾內亞,AF,1308974,Ciudad de la Paz
+C-GRC,GR,GRC,300,Greece,希臘,EU,10727668,Athens
+C-SGS,GS,SGS,239,South Georgia and the South Sandwich Islands,南喬治亞與南三明治群島,AN,30,Grytviken
+C-GTM,GT,GTM,320,Guatemala,瓜地馬拉,NA,17247807,Guatemala City
+C-GUM,GU,GUM,316,Guam,關島,OC,165768,Hagatna
+C-GNB,GW,GNB,624,Guinea-Bissau,幾內亞比索,AF,1874309,Bissau
+C-GUY,GY,GUY,328,Guyana,蓋亞那,SA,779004,Georgetown
+C-HKG,HK,HKG,344,Hong Kong,香港,AS,7396076,Hong Kong
+C-HMD,HM,HMD,334,Heard Island and McDonald Islands,赫德島及麥唐納群島,AN,0,
+C-HND,HN,HND,340,Honduras,宏都拉斯,NA,9587522,Tegucigalpa
+C-HRV,HR,HRV,191,Croatia,克羅埃西亞,EU,3871833,Zagreb
+C-HTI,HT,HTI,332,Haiti,海地,NA,11123176,Port-au-Prince
+C-HUN,HU,HUN,348,Hungary,匈牙利,EU,9768785,Budapest
+C-IDN,ID,IDN,360,Indonesia,印尼,AS,267663435,Jakarta
+C-IRL,IE,IRL,372,Ireland,愛爾蘭,EU,4853506,Dublin
+C-ISR,IL,ISR,376,Israel,以色列,AS,8883800,Jerusalem
+C-IMN,IM,IMN,833,Isle of Man,曼島,EU,84077,Douglas
+C-IND,IN,IND,356,India,印度,AS,1352617328,New Delhi
+C-IOT,IO,IOT,086,British Indian Ocean Territory,英屬印度洋領地,AS,4000,Diego Garcia
+C-IRQ,IQ,IRQ,368,Iraq,伊拉克,AS,38433600,Baghdad
+C-IRN,IR,IRN,364,Iran,伊朗,AS,81800269,Tehran
+C-ISL,IS,ISL,352,Iceland,冰島,EU,353574,Reykjavik
+C-ITA,IT,ITA,380,Italy,義大利,EU,60431283,Rome
+C-JEY,JE,JEY,832,Jersey,澤西島,EU,90812,Saint Helier
+C-JAM,JM,JAM,388,Jamaica,牙買加,NA,2934855,Kingston
+C-JOR,JO,JOR,400,Jordan,約旦,AS,9956011,Amman
+C-JPN,JP,JPN,392,Japan,日本,AS,126529100,Tokyo
+C-KEN,KE,KEN,404,Kenya,肯亞,AF,51393010,Nairobi
+C-KGZ,KG,KGZ,417,Kyrgyzstan,吉爾吉斯,AS,6315800,Bishkek
+C-KHM,KH,KHM,116,Cambodia,柬埔寨,AS,16249798,Phnom Penh
+C-KIR,KI,KIR,296,Kiribati,吉里巴斯,OC,115847,Tarawa
+C-COM,KM,COM,174,Comoros,葛摩,AF,832322,Moroni
+C-KNA,KN,KNA,659,Saint Kitts and Nevis,聖克里斯多福及尼維斯,NA,52441,Basseterre
+C-PRK,KP,PRK,408,North Korea,北韓,AS,25549819,Pyongyang
+C-KOR,KR,KOR,410,South Korea,南韓,AS,51635256,Seoul
+C-XKX,XK,XKX,000,Kosovo,科索沃,EU,1845300,Pristina
+C-KWT,KW,KWT,414,Kuwait,科威特,AS,4137309,Kuwait City
+C-CYM,KY,CYM,136,Cayman Islands,開曼群島,NA,64174,George Town
+C-KAZ,KZ,KAZ,398,Kazakhstan,哈薩克,AS,18276499,Nur-Sultan
+C-LAO,LA,LAO,418,Laos,寮國,AS,7061507,Vientiane
+C-LBN,LB,LBN,422,Lebanon,黎巴嫩,AS,6848925,Beirut
+C-LCA,LC,LCA,662,Saint Lucia,聖露西亞,NA,181889,Castries
+C-LIE,LI,LIE,438,Liechtenstein,列支敦斯登,EU,37910,Vaduz
+C-LKA,LK,LKA,144,Sri Lanka,斯里蘭卡,AS,21670000,Colombo
+C-LBR,LR,LBR,430,Liberia,賴比瑞亞,AF,4818977,Monrovia
+C-LSO,LS,LSO,426,Lesotho,賴索托,AF,2108132,Maseru
+C-LTU,LT,LTU,440,Lithuania,立陶宛,EU,2789533,Vilnius
+C-LUX,LU,LUX,442,Luxembourg,盧森堡,EU,607728,Luxembourg
+C-LVA,LV,LVA,428,Latvia,拉脫維亞,EU,1926542,Riga
+C-LBY,LY,LBY,434,Libya,利比亞,AF,6678567,Tripoli
+C-MAR,MA,MAR,504,Morocco,摩洛哥,AF,36029138,Rabat
+C-MCO,MC,MCO,492,Monaco,摩納哥,EU,38682,Monaco
+C-MDA,MD,MDA,498,Moldova,摩爾多瓦,EU,3545883,Chisinau
+C-MNE,ME,MNE,499,Montenegro,蒙特內哥羅,EU,622345,Podgorica
+C-MAF,MF,MAF,663,Saint Martin,法屬聖馬丁,NA,37264,Marigot
+C-MDG,MG,MDG,450,Madagascar,馬達加斯加,AF,26262368,Antananarivo
+C-MHL,MH,MHL,584,Marshall Islands,馬紹爾群島,OC,58413,Majuro
+C-MKD,MK,MKD,807,North Macedonia,北馬其頓,EU,2082958,Skopje
+C-MLI,ML,MLI,466,Mali,馬利,AF,19077690,Bamako
+C-MMR,MM,MMR,104,Myanmar,緬甸,AS,53708395,Nay Pyi Taw
+C-MNG,MN,MNG,496,Mongolia,蒙古,AS,3170208,Ulaanbaatar
+C-MAC,MO,MAC,446,Macao,澳門,AS,631636,Macao
+C-MNP,MP,MNP,580,Northern Mariana Islands,北馬利安納群島,OC,56882,Saipan
+C-MTQ,MQ,MTQ,474,Martinique,馬丁尼克,NA,432900,Fort-de-France
+C-MRT,MR,MRT,478,Mauritania,茅利塔尼亞,AF,4403319,Nouakchott
+C-MSR,MS,MSR,500,Montserrat,蒙哲臘,NA,9341,Plymouth
+C-MLT,MT,MLT,470,Malta,馬爾他,EU,483530,Valletta
+C-MUS,MU,MUS,480,Mauritius,模里西斯,AF,1265303,Port Louis
+C-MDV,MV,MDV,462,Maldives,馬爾地夫,AS,515696,Male
+C-MWI,MW,MWI,454,Malawi,馬拉威,AF,17563749,Lilongwe
+C-MEX,MX,MEX,484,Mexico,墨西哥,NA,126190788,Mexico City
+C-MYS,MY,MYS,458,Malaysia,馬來西亞,AS,31528585,Kuala Lumpur
+C-MOZ,MZ,MOZ,508,Mozambique,莫三比克,AF,29495962,Maputo
+C-NAM,NA,NAM,516,Namibia,納米比亞,AF,2448255,Windhoek
+C-NCL,NC,NCL,540,New Caledonia,新喀里多尼亞,OC,284060,Noumea
+C-NER,NE,NER,562,Niger,尼日,AF,22442948,Niamey
+C-NFK,NF,NFK,574,Norfolk Island,諾福克島,OC,1828,Kingston
+C-NGA,NG,NGA,566,Nigeria,奈及利亞,AF,195874740,Abuja
+C-NIC,NI,NIC,558,Nicaragua,尼加拉瓜,NA,6465513,Managua
+C-NLD,NL,NLD,528,The Netherlands,荷蘭,EU,17231017,Amsterdam
+C-NOR,NO,NOR,578,Norway,挪威,EU,5314336,Oslo
+C-NPL,NP,NPL,524,Nepal,尼泊爾,AS,28087871,Kathmandu
+C-NRU,NR,NRU,520,Nauru,諾魯,OC,12704,Yaren
+C-NIU,NU,NIU,570,Niue,紐埃島,OC,2166,Alofi
+C-NZL,NZ,NZL,554,New Zealand,紐西蘭,OC,4885500,Wellington
+C-OMN,OM,OMN,512,Oman,阿曼,AS,4829483,Muscat
+C-PAN,PA,PAN,591,Panama,巴拿馬,NA,4176873,Panama City
+C-PER,PE,PER,604,Peru,秘魯,SA,31989256,Lima
+C-PYF,PF,PYF,258,French Polynesia,法屬玻里尼西亞,OC,277679,Papeete
+C-PNG,PG,PNG,598,Papua New Guinea,巴布亞紐幾內亞,OC,8606316,Port Moresby
+C-PHL,PH,PHL,608,Philippines,菲律賓,AS,106651922,Manila
+C-PAK,PK,PAK,586,Pakistan,巴基斯坦,AS,212215030,Islamabad
+C-POL,PL,POL,616,Poland,波蘭,EU,37978548,Warsaw
+C-SPM,PM,SPM,666,Saint Pierre and Miquelon,聖皮埃與密克隆群島,NA,7012,Saint-Pierre
+C-PCN,PN,PCN,612,Pitcairn,皮特肯群島,OC,46,Adamstown
+C-PRI,PR,PRI,630,Puerto Rico,波多黎各,NA,3195153,San Juan
+C-PSE,PS,PSE,275,Palestinian Territory,巴勒斯坦,AS,4569087,East Jerusalem
+C-PRT,PT,PRT,620,Portugal,葡萄牙,EU,10281762,Lisbon
+C-PLW,PW,PLW,585,Palau,帛琉,OC,17907,Melekeok
+C-PRY,PY,PRY,600,Paraguay,巴拉圭,SA,6956071,Asuncion
+C-QAT,QA,QAT,634,Qatar,卡達,AS,2781677,Doha
+C-REU,RE,REU,638,Reunion,留尼旺,AF,776948,Saint-Denis
+C-ROU,RO,ROU,642,Romania,羅馬尼亞,EU,19473936,Bucharest
+C-SRB,RS,SRB,688,Serbia,塞爾維亞,EU,6982084,Belgrade
+C-RUS,RU,RUS,643,Russia,俄羅斯,EU,144478050,Moscow
+C-RWA,RW,RWA,646,Rwanda,盧安達,AF,12301939,Kigali
+C-SAU,SA,SAU,682,Saudi Arabia,沙烏地阿拉伯,AS,33699947,Riyadh
+C-SLB,SB,SLB,090,Solomon Islands,索羅門群島,OC,652858,Honiara
+C-SYC,SC,SYC,690,Seychelles,塞席爾,AF,96762,Victoria
+C-SDN,SD,SDN,729,Sudan,蘇丹,AF,41801533,Khartoum
+C-SSD,SS,SSD,728,South Sudan,南蘇丹,AF,8260490,Juba
+C-SWE,SE,SWE,752,Sweden,瑞典,EU,10183175,Stockholm
+C-SGP,SG,SGP,702,Singapore,新加坡,AS,5638676,Singapore
+C-SHN,SH,SHN,654,Saint Helena,聖赫勒拿島,AF,7460,Jamestown
+C-SVN,SI,SVN,705,Slovenia,斯洛維尼亞,EU,2067372,Ljubljana
+C-SJM,SJ,SJM,744,Svalbard and Jan Mayen,挪威屬斯瓦巴及尖棉,EU,2550,Longyearbyen
+C-SVK,SK,SVK,703,Slovakia,斯洛伐克,EU,5447011,Bratislava
+C-SLE,SL,SLE,694,Sierra Leone,獅子山,AF,7650154,Freetown
+C-SMR,SM,SMR,674,San Marino,聖馬利諾,EU,33785,San Marino
+C-SEN,SN,SEN,686,Senegal,塞內加爾,AF,15854360,Dakar
+C-SOM,SO,SOM,706,Somalia,索馬利亞,AF,15008154,Mogadishu
+C-SUR,SR,SUR,740,Suriname,蘇利南,SA,575991,Paramaribo
+C-STP,ST,STP,678,Sao Tome and Principe,聖多美普林西比,AF,197700,Sao Tome
+C-SLV,SV,SLV,222,El Salvador,薩爾瓦多,NA,6420744,San Salvador
+C-SXM,SX,SXM,534,Sint Maarten,荷屬聖馬丁,NA,40654,Philipsburg
+C-SYR,SY,SYR,760,Syria,敘利亞,AS,16906283,Damascus
+C-SWZ,SZ,SWZ,748,Eswatini,史瓦帝尼,AF,1136191,Mbabane
+C-TCA,TC,TCA,796,Turks and Caicos Islands,土克斯及開科斯群島,NA,37665,Cockburn Town
+C-TCD,TD,TCD,148,Chad,查德,AF,15477751,N'Djamena
+C-ATF,TF,ATF,260,French Southern Territories,法屬南部屬地,AN,140,Port-aux-Francais
+C-TGO,TG,TGO,768,Togo,多哥,AF,7889094,Lome
+C-THA,TH,THA,764,Thailand,泰國,AS,69428524,Bangkok
+C-TJK,TJ,TJK,762,Tajikistan,塔吉克,AS,9100837,Dushanbe
+C-TKL,TK,TKL,772,Tokelau,托克勞群島,OC,1466,
+C-TLS,TL,TLS,626,Timor Leste,東帝汶,OC,1267972,Dili
+C-TKM,TM,TKM,795,Turkmenistan,土庫曼,AS,5850908,Ashgabat
+C-TUN,TN,TUN,788,Tunisia,突尼西亞,AF,11565204,Tunis
+C-TON,TO,TON,776,Tonga,東加,OC,103197,Nuku'alofa
+C-TUR,TR,TUR,792,Turkey,土耳其,AS,82319724,Ankara
+C-TTO,TT,TTO,780,Trinidad and Tobago,千里達及托巴哥,NA,1389858,Port of Spain
+C-TUV,TV,TUV,798,Tuvalu,吐瓦魯,OC,11508,Funafuti
+C-TWN,TW,TWN,158,Taiwan,台灣,AS,23451837,Taipei
+C-TZA,TZ,TZA,834,Tanzania,坦尚尼亞,AF,56318348,Dodoma
+C-UKR,UA,UKR,804,Ukraine,烏克蘭,EU,40000000,Kyiv
+C-UGA,UG,UGA,800,Uganda,烏干達,AF,42723139,Kampala
+C-UMI,UM,UMI,581,United States Minor Outlying Islands,美國本土外小島嶼,OC,0,
+C-USA,US,USA,840,United States,美國,NA,327167434,Washington
+C-URY,UY,URY,858,Uruguay,烏拉圭,SA,3449299,Montevideo
+C-UZB,UZ,UZB,860,Uzbekistan,烏茲別克,AS,32955400,Tashkent
+C-VAT,VA,VAT,336,Vatican,梵蒂岡,EU,921,Vatican City
+C-VCT,VC,VCT,670,Saint Vincent and the Grenadines,聖文森及格瑞那丁,NA,110211,Kingstown
+C-VEN,VE,VEN,862,Venezuela,委內瑞拉,SA,28870195,Caracas
+C-VGB,VG,VGB,092,British Virgin Islands,英屬維京群島,NA,29802,Road Town
+C-VIR,VI,VIR,850,U.S. Virgin Islands,美屬維京群島,NA,106977,Charlotte Amalie
+C-VNM,VN,VNM,704,Vietnam,越南,AS,95540395,Hanoi
+C-VUT,VU,VUT,548,Vanuatu,萬那杜,OC,292680,Port Vila
+C-WLF,WF,WLF,876,Wallis and Futuna,瓦利斯群島和富圖那群島,OC,16025,Mata Utu
+C-WSM,WS,WSM,882,Samoa,薩摩亞,OC,196130,Apia
+C-YEM,YE,YEM,887,Yemen,葉門,AS,28498687,Sanaa
+C-MYT,YT,MYT,175,Mayotte,馬約特島,AF,279471,Mamoudzou
+C-ZAF,ZA,ZAF,710,South Africa,南非,AF,57779622,Pretoria
+C-ZMB,ZM,ZMB,894,Zambia,尚比亞,AF,17351822,Lusaka
+C-ZWE,ZW,ZWE,716,Zimbabwe,辛巴威,AF,16868409,Harare
+C-SCG,CS,SCG,891,Serbia and Montenegro,塞爾維亞,EU,10829175,Belgrade
+C-ANT,AN,ANT,530,Netherlands Antilles,庫拉索,NA,300000,Willemstad

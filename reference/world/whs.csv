@@ -1,0 +1,1274 @@
+id,name_en,name_zh,country_ids,lat,lon,category,year
+WHS-1,Galápagos Islands,加拉巴哥群島,C-ECU,-0.68986,-90.50132,natural,1978
+WHS-2,City of Quito,基多舊城,C-ECU,-0.22,-78.51208,cultural,1978
+WHS-3,Aachen Cathedral,亞琛大教堂,C-DEU,50.77475,6.08392,cultural,1978
+WHS-4,L’Anse aux Meadows National Historic Site,蘭塞奧茲牧草地,C-CAN,51.58472,-55.55,cultural,1978
+WHS-8,Ichkeul National Park,伊其克烏爾國家公園,C-TUN,37.16361,9.67472,natural,1980
+WHS-9,Simien National Park,塞米恩國家公園,C-ETH,13.18333,38.06667,natural,1978
+WHS-10,Lower Valley of the Awash,阿瓦什低谷,C-ETH,11.10006,40.57939,cultural,1980
+WHS-12,Tiya,蒂亞,C-ETH,8.43491,38.6121,cultural,1980
+WHS-13,Melka Kunture and Balchit: Archaeological and Palaeontological Sites in the Highland Area of Ethiopia,梅爾卡·昆圖爾和巴爾奇特考古與古生物遺址,C-ETH,8.70347,38.59908,cultural,2024
+WHS-15,Aksum,阿克蘇姆,C-ETH,14.13019,38.71861,cultural,1980
+WHS-17,Lower Valley of the Omo,奧莫河,C-ETH,4.8,35.96667,cultural,1980
+WHS-18,"Rock-Hewn Churches, Lalibela",拉利貝拉岩石教堂,C-ETH,12.02935,39.04042,cultural,1978
+WHS-19,"Fasil Ghebbi, Gondar Region",法西爾蓋比,C-ETH,12.60791,37.4697,cultural,1979
+WHS-20,Ancient City of Damascus,大馬士革古城,C-SYR,33.51083,36.30972,cultural,1979
+WHS-21,Ancient City of Aleppo,阿勒頗古城,C-SYR,36.19917,37.16278,cultural,1986
+WHS-22,Ancient City of Bosra,布斯拉古城,C-SYR,32.51917,36.48417,cultural,1980
+WHS-23,Site of Palmyra,帕爾米拉古城遺址,C-SYR,34.55417,38.26667,cultural,1980
+WHS-24,Nahanni National Park,納漢尼國家公園,C-CAN,61.54722,-125.58944,natural,1978
+WHS-25,Djoudj National Bird Sanctuary,朱賈國家鳥類保護區,C-SEN,16.4146,-16.23791,natural,1981
+WHS-26,Island of Gorée,格雷島,C-SEN,14.66722,-17.40083,cultural,1978
+WHS-27,Mesa Verde National Park,梅薩維德國家公園,C-USA,37.26167,-108.48556,cultural,1978
+WHS-28,Yellowstone National Park,黃石國家公園,C-USA,44.46056,-110.82778,natural,1978
+WHS-29,Historic Centre of Kraków,克拉科夫歷史中心,C-POL,50.06139,19.93722,cultural,1978
+WHS-30,Historic Centre of Warsaw,華沙老城,C-POL,52.25,21.013,cultural,1980
+WHS-31,Auschwitz Birkenau German Nazi Concentration and Extermination Camp (1940-1945),奧斯威辛 - 比克瑙國家博物館,C-POL,50.03889,19.175,cultural,1979
+WHS-32,Wieliczka and Bochnia Royal Salt Mines,,C-POL,49.97917,20.06389,cultural,1978
+WHS-33,Białowieża Forest,,C-POL;C-BLR,52.7275,23.98111,natural,1979
+WHS-34,"Forts and Castles, Volta, Greater Accra, Central and Western Regions",沃爾特大阿克拉中西部地區的要塞和城堡,C-GHA,5.39103,-0.49361,cultural,1979
+WHS-35,Asante Traditional Buildings,阿散蒂傳統建築,C-GHA,6.40111,-1.62583,cultural,1980
+WHS-36,Medina of Tunis,突尼西亞的阿拉伯人聚居區,C-TUN,36.81667,10.16667,cultural,1979
+WHS-37,Archaeological Site of Carthage,迦太基遺址,C-TUN,36.85278,10.32333,cultural,1979
+WHS-38,Amphitheatre of El Jem,傑姆的圓形競技場,C-TUN,35.29639,10.70694,cultural,1979
+WHS-39,Ngorongoro Conservation Area,恩戈羅恩戈羅自然保護區,C-TZA,-3.18722,35.54083,mixed,1979
+WHS-42,Boyana Church,博雅納教堂,C-BGR,42.64517,23.26553,cultural,1979
+WHS-43,Madara Rider,馬達拉騎士浮雕,C-BGR,43.27742,27.11894,cultural,1979
+WHS-44,Thracian Tomb of Kazanlak,卡贊利克的色雷斯古墓,C-BGR,42.62577,25.39917,cultural,1979
+WHS-45,Rock-Hewn Churches of Ivanovo,伊凡諾沃巖洞教堂,C-BGR,43.69486,25.98789,cultural,1979
+WHS-55,Røros Mining Town and the Circumference,勒羅斯礦城及周邊地區,C-NOR,62.57389,11.38556,cultural,1980
+WHS-58,Urnes Stave Church,烏爾內斯木板教堂,C-NOR,61.29806,7.3225,cultural,1979
+WHS-59,Bryggen,布呂根,C-NOR,60.39722,5.32306,cultural,1979
+WHS-63,Virunga National Park,維龍加國家公園,C-COD,0.91667,29.16667,natural,1979
+WHS-64,Tikal National Park,蒂卡爾國家公園,C-GTM,17.21667,-89.61667,mixed,1979
+WHS-65,Antigua Guatemala,安提瓜瓜地馬拉,C-GTM,14.5565,-90.73381,cultural,1979
+WHS-71,Dinosaur Provincial Park,艾伯塔省恐龍公園,C-CAN,50.76778,-111.49222,natural,1979
+WHS-72,Kluane / Wrangell-St. Elias / Glacier Bay / Tatshenshini-Alsek,克盧恩/蘭格爾-聖伊萊亞斯/冰川灣/塔琴希尼-阿爾塞克,C-CAN;C-USA,61.19758,-140.99197,natural,1979
+WHS-75,Grand Canyon National Park,大峽谷國家公園,C-USA,36.10083,-112.09056,natural,1979
+WHS-76,Everglades National Park,大沼澤地國家公園,C-USA,25.55444,-80.99639,natural,1979
+WHS-78,Independence Hall,美國獨立紀念館,C-USA,39.94861,-75.15,cultural,1979
+WHS-79,Paphos,帕福斯,C-CYP,34.75833,32.40556,cultural,1980
+WHS-80,Mont-Saint-Michel and its Bay,聖米歇爾山及其海灣,C-FRA,48.63556,-1.51056,cultural,1979
+WHS-81,Chartres Cathedral,沙特爾主教座堂,C-FRA,48.4475,1.48722,cultural,1979
+WHS-83,Palace and Park of Versailles,凡爾賽宮,C-FRA,48.805,2.11944,cultural,1979
+WHS-84,"Vézelay, Church and Hill",韋茲萊隱修院,C-FRA,47.46639,3.74833,cultural,1979
+WHS-85,Prehistoric Sites and Decorated Caves of the Vézère Valley,韋澤爾峽谷洞穴群與史前遺蹟,C-FRA,45.0575,1.17,cultural,1979
+WHS-86,Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur,孟菲斯及其墓地金字塔,C-EGY,29.97604,31.13041,cultural,1979
+WHS-87,Ancient Thebes with its Necropolis,底比斯古城及其墓地,C-EGY,25.73333,32.6,cultural,1979
+WHS-88,Nubian Monuments from Abu Simbel to Philae,努比亞遺址,C-EGY,22.33722,31.62581,cultural,1979
+WHS-89,Historic Cairo,開羅伊斯蘭老城,C-EGY,30.05,31.26111,cultural,1979
+WHS-90,Abu Mena,阿布米那基督教遺址,C-EGY,30.83583,29.66667,cultural,1979
+WHS-91,"Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura",羅馬歷史中心，享受治外法權的羅馬教廷建築和繆拉聖保羅弗利,C-ITA;C-VAT,41.89022,12.49231,cultural,1980
+WHS-93,Church and Dominican Convent of Santa Maria delle Grazie with “The Last Supper” by Leonardo da Vinci,恩寵聖母,C-ITA,45.466,9.171,cultural,1980
+WHS-94,Rock Drawings in Valcamonica,梵爾卡莫尼卡谷地巖畫,C-ITA,45.95706,10.29733,cultural,1979
+WHS-95,Old City of Dubrovnik,杜布羅夫尼克古城,C-HRV,42.64142,18.10886,cultural,1979
+WHS-96,Stari Ras and Sopoćani,斯塔里斯和索潑查尼修道院,C-SRB,43.11889,20.42278,cultural,1979
+WHS-97,Historical Complex of Split with the Palace of Diocletian,斯普利特古建築群及戴克裡先宮殿,C-HRV,43.50889,16.43917,cultural,1979
+WHS-98,Plitvice Lakes National Park,普利特維采湖群國家公園,C-HRV,44.87778,15.61444,natural,1979
+WHS-99,Natural and Cultural Heritage of the Ohrid region,奧赫裡德地區自然與文化遺產,C-MKD;C-ALB,40.99183,20.70417,mixed,1979
+WHS-100,Durmitor National Park,杜米托爾國家公園,C-MNE,43.133,19.0166,natural,1980
+WHS-102,Al Qal'a of Beni Hammad,貝尼•哈瑪德的卡拉城,C-DZA,35.81844,4.78684,cultural,1980
+WHS-111,Bale Mountains National Park,巴萊山國家公園,C-ETH,6.79778,39.74889,natural,2023
+WHS-113,Tchogha Zanbil,恰高•佔比爾,C-IRN,32.00857,48.52212,cultural,1979
+WHS-114,Persepolis,波斯波利斯,C-IRN,29.93444,52.89028,cultural,1979
+WHS-115,"Meidan Emam, Esfahan",伊斯法罕王侯廣場,C-IRN,32.65745,51.67778,cultural,1979
+WHS-116,Old Towns of Djenné,傑內古城,C-MLI,13.90639,-4.555,cultural,1988
+WHS-119,Timbuktu,廷巴克圖,C-MLI,16.77333,-2.99944,cultural,1988
+WHS-120,Sagarmatha National Park,薩加瑪塔國家公園,C-NPL,27.96528,86.91306,natural,1979
+WHS-121,Kathmandu Valley,加德滿都谷地,C-NPL,27.70395,85.30858,cultural,1979
+WHS-124,Historic Town of Ouro Preto,歐魯普雷圖歷史名鎮,C-BRA,-20.38889,-43.50556,cultural,1980
+WHS-125,Natural and Culturo-Historical Region of Kotor,科托爾自然保護區和文化歷史區,C-MNE,42.48333,18.7,cultural,1979
+WHS-129,Maya Site of Copan,科潘,C-HND,14.85,-89.13333,cultural,1980
+WHS-130,Ħal Saflieni Hypogeum,哈爾•薩夫列尼地下宮殿,C-MLT,35.86959,14.50688,cultural,1980
+WHS-131,City of Valletta,法勒他,C-MLT,35.90056,14.51444,cultural,1980
+WHS-132,Megalithic Temples of Malta,馬耳他巨石廟,C-MLT,36.04908,14.26947,cultural,1980
+WHS-134,Redwood National and State Parks,紅杉國家公園,C-USA,41.37389,-123.99806,natural,1980
+WHS-135,Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo,巴拿馬加勒比海岸的防禦工事：波託韋洛－聖洛倫索,C-PAN,9.55389,-79.65583,cultural,1980
+WHS-136,Garamba National Park,加蘭巴國家公園,C-COD,4.0,29.25,natural,1980
+WHS-137,Kahuzi-Biega National Park,卡胡茲－別加國家公園,C-COD,-2.33405,28.18074,natural,1980
+WHS-138,Archaeological Ruins at Moenjodaro,摩亨佐達羅考古遺蹟,C-PAK,27.32917,68.13889,cultural,1980
+WHS-139,Taxila,塔克西拉,C-PAK,33.77917,72.8875,cultural,1980
+WHS-140,Buddhist Ruins of Takht-i-Bahi and Neighbouring City Remains at Sahr-i-Bahlol,塔克特依巴依佛教遺址和薩爾依巴赫洛古遺址,C-PAK,34.32083,71.94583,cultural,1980
+WHS-143,"Historical Monuments at Makli, Thatta",塔塔城的歷史建築,C-PAK,24.76667,67.9,cultural,1981
+WHS-144,Ruins of Kilwa Kisiwani and Ruins of Songo Mnara,基爾瓦基斯瓦尼遺址和松戈馬拉遺址,C-TZA,-8.95778,39.52278,cultural,1981
+WHS-145,Los Glaciares National Park,冰川國家公園,C-ARG,-50.0,-73.24944,natural,1981
+WHS-147,Kakadu National Park,卡卡杜國家公園,C-AUS,-12.83333,132.83333,mixed,1981
+WHS-148,Old City of Jerusalem and its Walls,耶路撒冷古城及其城牆,,31.77778,35.23167,cultural,1981
+WHS-149,Archaeological Park and Ruins of Quirigua,基里瓜遺址,C-GTM,15.27059,-89.04025,cultural,1981
+WHS-150,Mammoth Cave National Park,猛獁洞國家公園,C-USA,37.18722,-86.10306,natural,1981
+WHS-151,Olympic National Park,奧林匹克國家公園,C-USA,47.74833,-123.44889,natural,1981
+WHS-153,Niokolo-Koba National Park,尼奧科羅-科巴國家公園,C-SEN,13.011,-13.018,natural,1981
+WHS-154,Great Barrier Reef,大堡礁,C-AUS,-18.28611,147.7,natural,1981
+WHS-155,Mount Nimba Strict Nature Reserve,寧巴山嚴格自然保護區,C-GIN;C-CIV,7.60318,-8.39097,natural,1981
+WHS-156,Serengeti National Park,塞倫蓋提國家公園,C-TZA,-2.33333,34.56667,natural,1981
+WHS-157,SGang Gwaay,安東尼島,C-CAN,52.095,-131.22028,cultural,1981
+WHS-158,Head-Smashed-In Buffalo Jump,美洲野牛澗地帶,C-CAN,49.70841,-113.65205,cultural,1981
+WHS-159,Darien National Park,達連國家公園,C-PAN,7.73611,-77.54722,natural,1981
+WHS-160,Palace and Park of Fontainebleau,楓丹白露宮,C-FRA,48.40194,2.69806,cultural,1981
+WHS-162,Amiens Cathedral,亞眠主教座堂,C-FRA,49.895,2.30167,cultural,1981
+WHS-163,Roman Theatre and its Surroundings and the Triumphal Arch of Orange,奧朗日古羅馬劇場和凱旋門,C-FRA,44.13572,4.80842,cultural,1981
+WHS-164,"Arles, Roman and Romanesque Monuments",阿爾勒城的古羅馬建築,C-FRA,43.67764,4.63069,cultural,1981
+WHS-165,Cistercian Abbey of Fontenay,豐特萊隱修院,C-FRA,47.63944,4.38911,cultural,1981
+WHS-166,Sydney Opera House,悉尼歌劇院,C-AUS,-33.85667,151.21528,cultural,2007
+WHS-167,Willandra Lakes Region,威蘭德拉湖區,C-AUS,-34.0,143.0,mixed,1981
+WHS-168,Speyer Cathedral,施佩耶爾大教堂,C-DEU,49.31722,8.44239,cultural,1981
+WHS-169,Würzburg Residence with the Court Gardens and Residence Square,維爾茨堡官邸,C-DEU,49.79278,9.93889,cultural,1981
+WHS-170,Medina of Fez,非斯的阿拉伯人聚居區,C-MAR,34.06111,-4.97778,cultural,1981
+WHS-171,Fort and Shalamar Gardens in Lahore,拉合爾古堡和夏利瑪爾公園,C-PAK,31.59028,74.30972,cultural,1981
+WHS-173,Stone Town of Zanzibar,桑給巴爾石頭城,C-TZA,-6.16306,39.18917,cultural,2000
+WHS-174,Historic Centre of Florence,佛羅倫薩歷史中心,C-ITA,43.77306,11.25611,cultural,1982
+WHS-175,Medici Villas and Gardens in Tuscany,,C-ITA,43.85778,11.30417,cultural,2013
+WHS-179,Tassili n'Ajjer,阿杰爾的塔西利,C-DZA,25.5,9.0,mixed,1982
+WHS-180,"National History Park – Citadel, Sans Souci, Ramiers",國家歷史公園：城堡、聖蘇西宮、拉米爾斯堡壘,C-HTI,19.57303,-72.23427,cultural,1982
+WHS-181,Tasmanian Wilderness,塔斯馬尼亞荒原,C-AUS,-43.11847,146.23056,mixed,1982
+WHS-183,Archaeological Site of Leptis Magna,大萊普提斯,C-LBY,32.63833,14.29306,cultural,1982
+WHS-184,Archaeological Site of Sabratha,薩布拉塔考古遺址,C-LBY,32.80528,12.485,cultural,1982
+WHS-185,Aldabra Atoll,阿爾達布拉環礁,C-SYC,-9.41667,46.41667,natural,1982
+WHS-186,Lord Howe Island Group,豪勳爵群島,C-AUS,-31.56556,159.08833,natural,1982
+WHS-187,St Mary's Cathedral and St Michael's Church at Hildesheim,希爾德斯海姆的聖瑪麗大教堂和聖米迦爾教堂,C-DEU,52.15278,9.94389,cultural,1985
+WHS-188,M'Zab Valley,姆扎卜山谷,C-DZA,32.48333,3.68333,cultural,1982
+WHS-189,Historic Centre of the Town of Olinda,奧林達歷史中心,C-BRA,-8.01333,-34.845,cultural,1982
+WHS-190,Archaeological Site of Cyrene,昔蘭尼考古遺址,C-LBY,32.825,21.85833,cultural,1982
+WHS-191,Djémila,傑米拉,C-DZA,36.32056,5.73667,cultural,1982
+WHS-192,Old Walled City of Shibam,希巴姆,C-YEM,15.92694,48.62667,cultural,1982
+WHS-193,Tipasa,提帕薩,C-DZA,36.55,2.38333,cultural,1982
+WHS-194,Timgad,提姆加德,C-DZA,35.48417,6.46886,cultural,1982
+WHS-195,Taï National Park,塔伊國家公園,C-CIV,5.64889,-7.09528,natural,1982
+WHS-196,Río Plátano Biosphere Reserve,雷奧普拉塔諾生物圈保留地,C-HND,15.74444,-84.675,natural,1982
+WHS-198,Cahokia Mounds State Historic Site,卡俄基亞土丘歷史遺址,C-USA,38.65861,-90.06139,cultural,1982
+WHS-199,Selous Game Reserve,塞盧斯禁獵區,C-TZA,-9.0,37.4,natural,1982
+WHS-200,Sacred City of Anuradhapura,阿努拉德普勒聖城,C-LKA,8.33333,80.38333,cultural,1982
+WHS-201,Ancient City of Polonnaruwa,波隆納魯沃古城,C-LKA,7.91583,81.00056,cultural,1982
+WHS-202,Ancient City of Sigiriya,錫吉里耶,C-LKA,7.95,80.75,cultural,1982
+WHS-203,"From the Great Saltworks of Salins-les-Bains to the Royal Saltworks of Arc-et-Senans, the Production of Open-pan Salt",,C-FRA,46.9375,5.87639,cultural,1982
+WHS-204,Old Havana and its Fortification System,哈瓦那舊城及其工事體系,C-CUB,23.13333,-82.35,cultural,1982
+WHS-205,Talamanca Range-La Amistad Reserves / La Amistad National Park,塔拉曼卡仰芝－拉阿米斯泰德保護區,C-PAN;C-CRI,9.40708,-82.93881,natural,1983
+WHS-206,Central Zone of the Town of Angra do Heroismo in the Azores,亞速爾群島英雄港中心區,C-PRT,38.655,-27.22,cultural,1983
+WHS-208,Cultural Landscape and Archaeological Remains of the Bamiyan Valley,巴米揚山谷的文化景觀和考古遺蹟,C-AFG,34.84694,67.82525,cultural,2003
+WHS-211,Minaret and Archaeological Remains of Jam,查姆回教寺院尖塔和考古遺址,C-AFG,34.39642,64.51589,cultural,2002
+WHS-216,Rila Monastery,里拉修道院,C-BGR,42.1333,23.34019,cultural,1983
+WHS-217,Ancient City of Nessebar,內塞巴爾古城,C-BGR,42.65611,27.73,cultural,1983
+WHS-219,Srebarna Nature Reserve,斯雷伯爾納自然保護區,C-BGR,44.11444,27.07806,natural,1983
+WHS-225,Pirin National Park,皮林國家公園,C-BGR,41.74272,23.43047,natural,1983
+WHS-227,Comoé National Park,科莫埃國家公園,C-CIV,9.0,-4.0,natural,1983
+WHS-228,"Historic Centre of Avignon: Papal Palace, Episcopal Ensemble and Avignon Bridge",阿維尼翁歷史中心：教皇宮、主教聖堂和阿維尼翁橋,C-FRA,43.95278,4.80611,cultural,1995
+WHS-229,"Place Stanislas, Place de la Carrière and Place d'Alliance in Nancy",南錫的斯坦尼斯拉斯廣場、卡里埃勒廣場和阿萊昂斯廣場,C-FRA,48.69361,6.18333,cultural,1983
+WHS-230,Abbey Church of Saint-Savin sur Gartempe,聖薩萬,C-FRA,46.56472,0.86611,cultural,1983
+WHS-231,Red Fort Complex,德里紅堡群,C-IND,28.65556,77.24083,cultural,2007
+WHS-232,"Humayun's Tomb, Delhi",胡馬雍陵,C-IND,28.59333,77.25056,cultural,1993
+WHS-233,"Qutb Minar and its Monuments, Delhi",顧特卜塔古建築群,C-IND,28.52583,77.18528,cultural,1993
+WHS-234,Churches and Convents of Goa,果阿的教堂和修道院,C-IND,15.50222,73.91167,cultural,1986
+WHS-239,Group of Monuments at Pattadakal,帕塔達卡爾建築群,C-IND,15.94833,75.81667,cultural,1987
+WHS-240,Khajuraho Group of Monuments,克久拉霍古蹟,C-IND,24.85222,79.92222,cultural,1986
+WHS-241,Group of Monuments at Hampi,漢皮古蹟群,C-IND,15.31444,76.47167,cultural,1986
+WHS-242,Ajanta Caves,阿旃陀石窟,C-IND,20.55311,75.70025,cultural,1983
+WHS-243,Ellora Caves,埃洛拉石窟,C-IND,20.02639,75.17917,cultural,1983
+WHS-244,Elephanta Caves,埃勒凡塔石窟（象島石窟）,C-IND,18.96667,72.93583,cultural,1987
+WHS-246,"Sun Temple, Konârak",科納爾克,C-IND,19.8875,86.09472,cultural,1984
+WHS-247,Hill Forts of Rajasthan,,C-IND,24.88333,74.64611,cultural,2013
+WHS-249,Group of Monuments at Mahabalipuram,默哈伯利布勒姆古蹟群,C-IND,12.61667,80.19167,cultural,1984
+WHS-250,Great Living Chola Temples,朱羅王朝現存的神廟,C-IND,10.78306,79.1325,cultural,1987
+WHS-251,Agra Fort,阿格拉堡,C-IND,27.17981,78.02153,cultural,1983
+WHS-252,Taj Mahal,泰姬陵,C-IND,27.17417,78.04222,cultural,1983
+WHS-255,Fatehpur Sikri,法泰赫普爾西克里,C-IND,27.09753,77.6665,cultural,1986
+WHS-256,Wood Buffalo National Park,木水牛國家公園,C-CAN,59.35833,-112.29333,natural,1983
+WHS-258,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",波爾託灣：皮亞納－卡蘭切斯、基羅拉塔灣、斯康多拉保護區,C-FRA,42.32519,8.62883,natural,1983
+WHS-259,Great Smoky Mountains National Park,大煙山國家公園,C-USA,35.59306,-83.43556,natural,1983
+WHS-260,Sangay National Park,桑蓋國家公園,C-ECU,-1.83333,-78.33333,natural,1983
+WHS-261,Vallée de Mai Nature Reserve,馬埃谷地自然保護區,C-SYC,-4.331,55.738,natural,1983
+WHS-262,Sanganeb Marine National Park and Dungonab Bay – Mukkawar Island Marine National Park,Sanganeb國家海洋公園和Dungonab海灣—Mukkawar島國家海洋公園,C-SDN,19.73611,37.44306,natural,2016
+WHS-263,Monastery of the Hieronymites and Tower of Belém in Lisbon,哲羅姆派修道院和里斯本貝萊姆塔,C-PRT,38.69194,-9.21583,cultural,1983
+WHS-264,Monastery of Batalha,巴塔利亞修道院,C-PRT,39.65778,-8.82694,cultural,1983
+WHS-265,Convent of Christ in Tomar,托馬爾的基督會院,C-PRT,39.60472,-8.4175,cultural,1983
+WHS-266,La Fortaleza and San Juan National Historic Site in Puerto Rico,波多黎各的古堡與聖胡安歷史遺址,C-USA,18.46667,-66.125,cultural,1983
+WHS-267,Old City of Berne,伯爾尼古城,C-CHE,46.94806,7.45028,cultural,1983
+WHS-268,Abbey of St Gall,聖加侖修道院,C-CHE,47.42333,9.37778,cultural,1983
+WHS-269,Benedictine Convent of St John at Müstair,米茲泰爾的木篤會聖約翰女修道院,C-CHE,46.62945,10.44765,cultural,1983
+WHS-271,Pilgrimage Church of Wies,維斯朝聖教堂,C-DEU,47.68128,10.90014,cultural,1983
+WHS-272,Hanseatic City of Lübeck,呂貝克的漢西梯克城,C-DEU,53.86667,10.69167,cultural,1987
+WHS-273,City of Cuzco,科斯科古城,C-PER,-13.51728,-71.98,cultural,1983
+WHS-274,Historic Sanctuary of Machu Picchu,馬丘比丘古神廟,C-PER,-13.18493,-72.53344,mixed,1983
+WHS-275,"Jesuit Missions of the Guaranis: San Ignacio Mini, Santa Ana, Nuestra Señora de Loreto and Santa Maria Mayor (Argentina), Ruins of Sao Miguel das Missoes (Brazil)",瓜拉尼人聚居地的耶穌會傳教區：阿根廷的聖伊格納西奧米尼、聖安娜、羅雷託聖母村和聖母瑪利亞艾爾馬約爾村遺蹟以及巴西的聖米格爾杜斯米索納斯遺蹟,C-BRA;C-ARG,-28.54333,-54.26583,cultural,1983
+WHS-276,Samarra Archaeological City,薩邁拉,C-IRQ,34.34099,43.82354,cultural,2007
+WHS-277,Hatra,哈特拉,C-IRQ,35.58806,42.71833,cultural,1985
+WHS-278,Babylon,巴比倫,C-IRQ,32.54197,44.42083,cultural,2019
+WHS-280,Salonga National Park,薩隆加國家公園,C-COD,-2.0,21.0,natural,1984
+WHS-284,Chitwan National Park,奇特旺皇家國家公園,C-NPL,27.5,84.33333,natural,1984
+WHS-285,"Port, Fortresses and Group of Monuments, Cartagena",卡塔赫納港口、要塞和古蹟群,C-COL,10.41667,-75.53333,cultural,1984
+WHS-286,Vatican City,梵蒂岡,C-VAT,41.90216,12.45736,cultural,1984
+WHS-287,Rock-Art Sites of Tadrart Acacus,塔德拉爾特阿卡庫斯,C-LBY,24.83333,10.33333,cultural,1985
+WHS-288,Castles of Augustusburg and Falkenlust at Brühl,奧古斯都堡與獵趣園,C-DEU,50.82503,6.90978,cultural,1984
+WHS-289,Lake Malawi National Park,馬拉威湖國家公園,C-MWI,-14.03333,34.88333,natural,1984
+WHS-292,Cologne Cathedral,科隆大教堂,C-DEU,50.94111,6.95722,cultural,1996
+WHS-293,Anjar,安傑爾,C-LBN,33.73194,35.93333,cultural,1984
+WHS-294,Baalbek,巴勒貝克,C-LBN,34.00667,36.20417,cultural,1984
+WHS-295,Byblos,朱拜勒,C-LBN,34.11917,35.64556,cultural,1984
+WHS-299,Tyre,提爾城,C-LBN,33.26917,35.19583,cultural,1984
+WHS-300,Historic District of Old Québec,魁北克歷史城區,C-CAN,46.80944,-71.21056,cultural,1985
+WHS-302,"Mana Pools National Park, Sapi and Chewore Safari Areas",馬納波爾斯國家公園、薩比和切俄雷自然保護區,C-ZWE,-15.81944,29.40806,natural,1984
+WHS-303,Iguazu National Park,伊瓜蘇國家公園,C-ARG,-25.57736,-54.28607,natural,1984
+WHS-304,Canadian Rocky Mountain Parks,加拿大落基山公園,C-CAN,51.42472,-116.47972,natural,1984
+WHS-306,Matobo Hills,馬託博山,C-ZWE,-20.5,28.5,cultural,2003
+WHS-307,Statue of Liberty,自由島,C-USA,40.68944,-74.04472,cultural,1984
+WHS-308,Yosemite National Park,優勝美地國家公園,C-USA,37.74611,-119.59667,natural,1984
+WHS-309,Historic Centre of Salvador de Bahia,巴伊亞州的薩爾瓦多歷史中心,C-BRA,-12.97292,-38.51298,cultural,1985
+WHS-310,Cave of Altamira and Paleolithic Cave Art of Northern Spain,阿爾塔米拉洞,C-ESP,43.38253,-4.11617,cultural,1985
+WHS-311,Old Town of Segovia and its Aqueduct,塞哥維亞古城及其輸水道,C-ESP,40.94847,-4.11675,cultural,1985
+WHS-312,Monuments of Oviedo and the Kingdom of the Asturias,奧維耶多古建築和阿斯圖里亞斯王國,C-ESP,43.36262,-5.84303,cultural,1985
+WHS-313,Historic Centre of Cordoba,科爾多瓦歷史中心,C-ESP,37.87919,-4.77972,cultural,1984
+WHS-314,"Alhambra, Generalife and Albayzín, Granada",阿爾罕布拉宮,C-ESP,37.17678,-3.58992,cultural,1984
+WHS-316,Burgos Cathedral,布林戈斯大教堂,C-ESP,42.34073,-3.70401,cultural,1984
+WHS-318,"Monastery and Site of the Escurial, Madrid",德里埃斯科里亞爾修道院和遺址,C-ESP,40.58911,-4.14775,cultural,1984
+WHS-320,Works of Antoni Gaudí,安東尼•高迪的建築作品,C-ESP,41.41338,2.15297,cultural,1984
+WHS-321,Historic Mosque City of Bagerhat,巴凱爾哈特清真寺歷史名城,C-BGD,22.66667,89.8,cultural,1985
+WHS-322,Ruins of the Buddhist Vihara at Paharpur,帕哈爾普爾的佛教毗訶羅遺址,C-BGD,25.03333,88.98333,cultural,1985
+WHS-323,Royal Palaces of Abomey,阿波美皇宮,C-BEN,7.18333,1.98333,cultural,1985
+WHS-326,Petra,佩特拉,C-JOR,30.33056,35.44333,cultural,1985
+WHS-327,Quseir Amra,庫塞爾阿姆拉,C-JOR,31.80181,36.58731,cultural,1985
+WHS-330,Chavin (Archaeological Site),查文德萬塔爾,C-PER,-9.59277,-77.17845,cultural,1985
+WHS-331,Medina of Marrakesh,馬拉柯什的阿拉伯人聚居區,C-MAR,31.63139,-7.98667,cultural,1985
+WHS-332,Punic Town of Kerkuane and its Necropolis,科克瓦尼布尼城及其陵園,C-TUN,36.94639,11.09917,cultural,1985
+WHS-333,Huascarán National Park,瓦斯卡蘭國家公園,C-PER,-9.33333,-77.4,natural,1985
+WHS-334,Sanctuary of Bom Jesus do Congonhas,孔戈尼亞斯的仁慈耶穌聖殿,C-BRA,-20.5082,-43.86081,cultural,1985
+WHS-335,Nanda Devi and Valley of Flowers National Parks,楠達戴維山國家公園和花谷國家公園,C-IND,30.71667,79.66667,natural,1988
+WHS-337,Kaziranga National Park,加濟蘭加國家公園,C-IND,26.66667,93.41667,natural,1985
+WHS-338,Manas Wildlife Sanctuary,馬納斯國家公園,C-IND,26.725,91.03056,natural,1985
+WHS-340,Keoladeo National Park,凱奧拉德奧國家公園,C-IND,27.15889,77.50861,natural,1985
+WHS-344,Pont du Gard (Roman Aqueduct),加爾橋,C-FRA,43.94722,4.53528,cultural,1985
+WHS-345,Historic Fortified City of Carcassonne,卡爾卡松歷史城牆要塞,C-FRA,43.20706,2.36366,cultural,1997
+WHS-347,Santiago de Compostela (Old Town),聖地亞哥–德孔波斯特拉古城,C-ESP,42.88076,-8.54468,cultural,1985
+WHS-348,Old Town of Ávila with its Extra-Muros Churches,阿維拉古城及城外教堂,C-ESP,40.65645,-4.70012,cultural,1985
+WHS-351,Painted Churches in the Troodos Region,特羅多斯地區的彩繪教堂,C-CYP,34.92028,33.09583,cultural,1985
+WHS-352,Rock Art of Alta,阿爾塔巖畫,C-NOR,69.94694,23.18778,cultural,1985
+WHS-353,Chaco Culture,查科文化國家歷史公園,C-USA,36.06378,-107.97083,cultural,1987
+WHS-354,Waterton Glacier International Peace Park,沃特頓冰川國際和平公園,C-CAN;C-USA,48.99606,-113.90417,natural,1995
+WHS-355,Iguaçu National Park,伊瓜蘇國家公園,C-BRA,-25.44815,-53.80014,natural,1986
+WHS-356,Historic Areas of Istanbul,伊斯坦布林歷史城區,C-TUR,41.00847,28.97993,cultural,1985
+WHS-357,Göreme National Park and the Rock Sites of Cappadocia,希拉波利斯和帕姆卡萊,C-TUR,38.66667,34.85,mixed,1985
+WHS-358,Great Mosque and Hospital of Divriği,迪夫里伊的大清真寺和醫院,C-TUR,39.37127,38.12183,cultural,1985
+WHS-359,Thracian Tomb of Sveshtari,斯韋什塔里的色雷斯人墓,C-BGR,43.74492,26.76653,cultural,1985
+WHS-361,Historic Centre of Évora,埃武拉歷史中心,C-PRT,38.57306,-7.90778,cultural,1986
+WHS-362,Old Town of Ghadamès,古達米斯,C-LBY,30.13333,9.5,cultural,1986
+WHS-364,Great Zimbabwe National Monument,大辛巴威,C-ZWE,-20.27117,30.93327,cultural,1986
+WHS-365,Khami Ruins National Monument,卡米,C-ZWE,-20.15833,28.37667,cultural,1986
+WHS-366,Chan Chan Archaeological Zone,昌昌,C-PER,-8.10784,-79.07474,cultural,1986
+WHS-367,"Roman Monuments, Cathedral of St Peter and Church of Our Lady in Trier",特里爾的古羅馬建築、主教教堂和聖母教堂,C-DEU,49.75,6.63333,cultural,1986
+WHS-368,Gondwana Rainforests of Australia,中東部雨林保護區,C-AUS,-28.25,150.05,natural,1986
+WHS-369,Giant's Causeway and Causeway Coast,巨人堤道,C-GBR,55.24083,-6.51167,natural,1986
+WHS-370,Durham Castle and Cathedral,達勒姆大教堂和城堡,C-GBR,54.77472,-1.57611,cultural,1986
+WHS-371,Ironbridge Gorge,鐵橋谷,C-GBR,52.62639,-2.47278,cultural,1986
+WHS-372,Studley Royal Park including the Ruins of Fountains Abbey,斯塔德利皇家公園和噴泉修道院遺址,C-GBR,54.11611,-1.57306,cultural,1986
+WHS-373,"Stonehenge, Avebury and Associated Sites",“巨石陣”、埃夫伯里及周圍的巨石遺蹟,C-GBR,51.17889,-1.82528,cultural,1986
+WHS-374,Castles and Town Walls of King Edward in Gwynedd,圭內斯郡愛德華國王城堡和城牆,C-GBR,53.13972,-4.27694,cultural,1986
+WHS-377,Hattusha: the Hittite Capital,哈圖莎：希泰首都,C-TUR,40.01389,34.62056,cultural,1986
+WHS-378,Mudejar Architecture of Aragon,阿拉貢的穆德哈爾式建築,C-ESP,40.34389,-1.10722,cultural,1986
+WHS-379,Historic City of Toledo,歷史名城托萊多,C-ESP,39.85694,-4.02444,cultural,1986
+WHS-380,Garajonay National Park,加拉霍艾國家公園,C-ESP,28.12625,-17.23722,natural,1986
+WHS-381,Old City of Salamanca,薩拉曼卡古城,C-ESP,40.96525,-5.6645,cultural,1988
+WHS-383,"Cathedral, Alcázar and Archivo de Indias in Seville",,C-ESP,37.38384,-5.99155,cultural,1987
+WHS-384,Old Town of Cáceres,卡塞雷斯古城,C-ESP,39.47444,-6.37,cultural,1986
+WHS-385,Old City of Sana'a,薩那古城,C-YEM,15.35556,44.20806,cultural,1986
+WHS-387,St Kilda,聖基爾達島,C-GBR,57.81722,-8.57667,mixed,1986
+WHS-389,Studenica Monastery,斯圖德尼察修道院,C-SRB,43.48653,20.53167,cultural,1986
+WHS-390,Škocjan Caves,斯科契揚溶洞,C-SVN,45.66667,14.0,natural,1986
+WHS-392,Temple of Apollo Epicurius at Bassae,巴賽的阿波羅•伊壁鳩魯神廟,C-GRC,37.43498,21.89694,cultural,1986
+WHS-393,Archaeological Site of Delphi,德爾斐考古遺址,C-GRC,38.48149,22.49617,cultural,1987
+WHS-394,Venice and its Lagoon,威尼斯,C-ITA,45.43431,12.33894,cultural,1987
+WHS-395,"Piazza del Duomo, Pisa",奇蹟廣場,C-ITA,43.72306,10.39639,cultural,1987
+WHS-398,Castel del Monte,蒙特城堡,C-ITA,41.08481,16.27094,cultural,1996
+WHS-400,"Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue",布達佩斯（多瑙河兩岸、布達城堡區和安德拉什大街）,C-HUN,47.48242,19.07067,cultural,1987
+WHS-401,Old Village of Hollókő and its Surroundings,霍爾洛克,C-HUN,47.99444,19.52917,cultural,1987
+WHS-402,Manú National Park,馬努國家公園,C-PER,-12.25,-71.75,natural,1987
+WHS-403,Kilimanjaro National Park,吉力馬札羅國家公園,C-TZA,-3.06667,37.36667,natural,1987
+WHS-404,"Acropolis, Athens",雅典衛城,C-GRC,37.97087,23.72618,cultural,1987
+WHS-405,Sinharaja Forest Reserve,辛哈拉加森林保護區,C-LKA,6.41667,80.5,natural,1988
+WHS-407,Dja Faunal Reserve,德賈動物保護區,C-CMR,3.125,12.983,natural,1987
+WHS-409,Hawaii Volcanoes National Park,夏威夷火山國家公園,C-USA,19.40083,-155.12361,natural,1987
+WHS-410,Sian Ka'an,聖卡安,C-MEX,19.38333,-87.79167,natural,1987
+WHS-411,Pre-Hispanic City and National Park of Palenque,帕倫克,C-MEX,17.48333,-92.05,cultural,1987
+WHS-412,Historic Centre of Mexico City and Xochimilco,墨西哥城與赫霍奇米爾科歷史中心,C-MEX,19.41833,-99.13278,cultural,1987
+WHS-414,Pre-Hispanic City of Teotihuacan,特奧蒂瓦坎,C-MEX,19.69167,-98.84167,cultural,1987
+WHS-415,Historic Centre of Oaxaca and Archaeological Site of Monte Albán,瓦哈卡歷史中心與阿爾班山考古遺址,C-MEX,17.06158,-96.72589,cultural,1987
+WHS-416,Historic Centre of Puebla,普埃布拉歷史中心,C-MEX,19.04597,-98.19777,cultural,1987
+WHS-417,"Ibiza, Biodiversity and Culture",伊比薩島,C-ESP,38.91114,1.43519,mixed,1999
+WHS-419,Gros Morne National Park,格羅斯莫訥國家公園,C-CAN,49.6125,-57.53139,natural,1987
+WHS-420,City of Potosí,波托西,C-BOL,-19.59911,-65.74981,cultural,1987
+WHS-421,Tongariro National Park,湯加里羅國家公園,C-NZL,-39.29083,175.56222,mixed,1990
+WHS-422,The English Lake District,,C-GBR,54.47661,-3.08242,cultural,2017
+WHS-425,Blenheim Palace,布萊尼姆宮,C-GBR,51.84194,-1.36139,cultural,1987
+WHS-426,Palace of Westminster and Westminster Abbey including Saint Margaret’s Church,威斯敏斯特宮殿和教堂以及聖瑪格麗特教堂,C-GBR,51.499,-0.127,cultural,1987
+WHS-428,City of Bath,巴斯,C-GBR,51.38131,-2.35906,cultural,1987
+WHS-429,New Lanark,新拉納克,C-GBR,55.66333,-3.78306,cultural,2001
+WHS-430,Frontiers of the Roman Empire,,C-GBR;C-DEU,54.99261,-2.601,cultural,1987
+WHS-433,Bahla Fort,巴赫萊要塞,C-OMN,22.96417,57.30111,cultural,1987
+WHS-434,"Archaeological Sites of Bat, Al-Khutm and Al-Ayn",巴特•庫特姆和艾因考古遺址,C-OMN,23.26986,56.745,cultural,1988
+WHS-437,Mount Taishan,泰山,C-CHN,36.26667,117.1,mixed,1987
+WHS-438,The Great Wall,長城,C-CHN,40.41667,116.08333,cultural,1987
+WHS-439,Imperial Palaces of the Ming and Qing Dynasties in Beijing and Shenyang,北京及瀋陽的明清皇家宮殿,C-CHN,41.79417,123.44694,cultural,1987
+WHS-440,Mogao Caves,莫高窟,C-CHN,40.13333,94.81667,cultural,1987
+WHS-441,Mausoleum of the First Qin Emperor,秦始皇陵,C-CHN,34.38131,109.25995,cultural,1987
+WHS-442,Monticello and the University of Virginia in Charlottesville,夏洛茨維爾的蒙蒂塞洛和弗吉尼亞大學,C-USA,38.03278,-78.50389,cultural,1987
+WHS-444,Ksar of Ait-Ben-Haddou,艾本哈杜,C-MAR,31.04722,-7.12889,cultural,1987
+WHS-445,Brasilia,巴西利亞,C-BRA,-15.78333,-47.9,cultural,1987
+WHS-447,Uluru-Kata Tjuta National Park,烏盧魯－卡塔曲塔國家公園,C-AUS,-25.33333,131.0,mixed,1987
+WHS-448,Nemrut Dağ,內姆魯特山,C-TUR,38.03661,38.76369,cultural,1987
+WHS-449,Peking Man Site at Zhoukoudian,周口店北京人遺址,C-CHN,39.68945,115.9227,cultural,1987
+WHS-450,Sacred City of Kandy,康提,C-LKA,7.29361,80.64028,cultural,1988
+WHS-451,Old Town of Galle and its Fortifications,加勒老城及其堡壘,C-LKA,6.02805,80.21635,cultural,1988
+WHS-452,Sundarbans National Park,孫德爾本斯國家公園,C-IND,21.945,88.89583,natural,1987
+WHS-454,Mount Athos,阿索斯山,C-GRC,40.26667,24.21667,mixed,1988
+WHS-455,Meteora,曼代奧拉,C-GRC,39.71667,21.63333,mixed,1988
+WHS-456,Paleochristian and Byzantine Monuments of Thessalonika,塞薩洛尼基的古基督教和拜占庭遺址,C-GRC,40.63833,22.965,cultural,1988
+WHS-460,Trinidad and the Valley de los Ingenios,特立尼達和洛斯因赫尼奧斯山谷,C-CUB,21.80306,-79.98444,cultural,1988
+WHS-474,Hortobágy National Park - the Puszta,霍爾託巴吉國家公園,C-HUN,47.59458,21.15678,cultural,1999
+WHS-475,Manovo-Gounda St Floris National Park,馬諾沃-貢達聖弗洛里斯國家公園,C-CAF,9.0,21.5,natural,1988
+WHS-476,Chongoni Rock-Art Area,瓊戈尼岩石藝術區,C-MWI,-14.21852,34.20707,cultural,2006
+WHS-479,Town of Luang Prabang,琅勃拉邦,C-LAO,19.88889,102.13333,cultural,1995
+WHS-481,Vat Phou and Associated Ancient Settlements within the Champasak Cultural Landscape,占巴塞文化景觀內的瓦普廟與相關古民居,C-LAO,14.84833,105.82222,cultural,2001
+WHS-482,Historic Town of Guanajuato and Adjacent Mines,瓜納華托,C-MEX,21.01694,-101.25556,cultural,1988
+WHS-483,Pre-Hispanic City of Chichen-Itza,奇琴伊察古城,C-MEX,20.68274,-88.56865,cultural,1988
+WHS-484,Xanthos-Letoon,桑索斯和萊頓,C-TUR,36.335,29.32028,cultural,1988
+WHS-485,Hierapolis-Pamukkale,赫拉波利斯和帕穆克卡萊,C-TUR,37.92389,29.12333,mixed,1988
+WHS-486,Wet Tropics of Queensland,昆士蘭溼熱帶地區,C-AUS,-15.65,144.96667,natural,1988
+WHS-487,Henderson Island,亨德森島,C-GBR,-24.36667,-128.33333,natural,1988
+WHS-488,Tower of London,倫敦塔,C-GBR,51.50806,-0.07611,cultural,1988
+WHS-491,Sanctuary of Asklepios at Epidaurus,埃皮達魯斯考古遺址,C-GRC,37.6,23.08056,cultural,1988
+WHS-492,Taos Pueblo,陶斯印第安村,C-USA,36.438,-105.546,cultural,1992
+WHS-493,Medieval City of Rhodes,羅得中世紀古城,C-GRC,36.44722,28.22778,cultural,1988
+WHS-494,Andrefana Dry Forests,黥基·德·貝馬拉哈自然保護區,C-MDG,-18.66158,44.76739,natural,1990
+WHS-495,"Strasbourg, Grande-Île and Neustadt",,C-FRA,48.58444,7.74889,cultural,1988
+WHS-496,"Canterbury Cathedral, St Augustine's Abbey, and St Martin's Church",坎特伯雷大教堂、聖奧古斯丁修道院和聖馬丁教堂,C-GBR,51.28,1.08333,cultural,1988
+WHS-498,Medina of Sousse,,C-TUN,35.82778,10.63861,cultural,1988
+WHS-499,Kairouan,凱魯萬,C-TUN,35.68167,10.10389,cultural,1988
+WHS-500,Historic Centre of Lima,利馬歷史中心,C-PER,-12.04654,-77.0304,cultural,1988
+WHS-502,Historic City of Vigan,美岸,C-PHL,17.575,120.3875,cultural,1999
+WHS-505,Monastery of Alcobaça,阿爾科巴薩修道院,C-PRT,39.55,-8.97667,cultural,1989
+WHS-506,Banc d'Arguin National Park,阿爾金岩石礁國家公園,C-MRT,20.23472,-16.10889,natural,1989
+WHS-509,Mosi-oa-Tunya / Victoria Falls,莫西奧圖尼亞瀑布（維多利亞瀑布）,C-ZMB;C-ZWE,-17.92453,25.85539,natural,1989
+WHS-511,Archaeological Site of Mystras,米斯特拉斯考古遺址,C-GRC,37.08056,22.36667,cultural,1989
+WHS-514,Heart of Neolithic Orkney,奧克尼新石器時代遺址,C-GBR,58.99606,-3.18867,cultural,1999
+WHS-515,Abbey and Altenmünster of Lorsch,洛爾施隱修院,C-DEU,49.65369,8.56858,cultural,1991
+WHS-516,Cliff of Bandiagara (Land of the Dogons),邦賈加拉懸崖,C-MLI,14.33333,-3.41667,mixed,1989
+WHS-517,Archaeological Site of Olympia,奧林匹亞考古遺址,C-GRC,37.64,21.634,cultural,1989
+WHS-518,Poblet Monastery,波夫萊特修道院,C-ESP,41.38083,1.0825,cultural,1991
+WHS-522,Renaissance Monumental Ensembles of Úbeda and Baeza,烏韋達和巴埃薩城文藝復興時期的建築群,C-ESP,38.01131,-3.37122,cultural,2003
+WHS-524,Buddhist Monuments at Sanchi,桑吉,C-IND,23.47944,77.73972,cultural,1989
+WHS-526,Colonial City of Santo Domingo,聖多明各的殖民城,C-DOM,18.47239,-69.88584,cultural,1990
+WHS-527,"Kyiv: Saint-Sophia Cathedral and Related Monastic Buildings, Kyiv-Pechersk Lavra",基輔：聖•索菲婭教堂和佩喬爾斯克修道院,C-UKR,50.45258,30.51686,cultural,1990
+WHS-529,Jesuit Missions of the Chiquitos,奇基托斯耶穌傳教區,C-BOL,-16.0,-60.5,cultural,1990
+WHS-530,Delos,提洛島,C-GRC,37.4,25.26667,cultural,1990
+WHS-532,Palaces and Parks of Potsdam and Berlin,波茲坦與柏林的宮殿與庭園,C-DEU,52.4,13.03333,cultural,1990
+WHS-534,Garden Kingdom of Dessau-Wörlitz,德紹-沃利茨園林王國,C-DEU,51.8425,12.42083,cultural,2000
+WHS-535,"Collegiate Church, Castle and Old Town of Quedlinburg",奎德林堡神學院、城堡和古城,C-DEU,51.78333,11.15,cultural,1994
+WHS-537,"Monasteries of Daphni, Hosios Loukas and Nea Moni of Chios",達夫尼修道院、俄西俄斯羅卡斯修道院和希俄斯新修道院,C-GRC,38.39528,22.74667,cultural,1990
+WHS-540,Historic Centre of Saint Petersburg and Related Groups of Monuments,聖彼得堡歷史中心及其相關古蹟群,C-RUS,59.95,30.31833,cultural,1990
+WHS-541,Vilnius Historic Centre,維爾紐斯舊城,C-LTU,54.68667,25.29306,cultural,1994
+WHS-543,Itchan Kala,伊欽•卡拉內城,C-UZB,41.37809,60.36025,cultural,1990
+WHS-544,Kizhi Pogost,基日島的木結構教堂,C-RUS,62.06758,35.22436,cultural,1990
+WHS-545,"Kremlin and Red Square, Moscow",莫斯科克里姆林宮和紅場,C-RUS,55.75403,37.62042,cultural,1990
+WHS-546,Maulbronn Monastery Complex,毛爾布龍隱修院,C-DEU,49.00083,8.81306,cultural,1993
+WHS-547,Mount Huangshan,黃山,C-CHN,30.14533,118.15508,mixed,1990
+WHS-548,Río Abiseo National Park,阿比賽歐河國家公園,C-PER,-7.75,-77.25,mixed,1990
+WHS-549,"18th-Century Royal Palace at Caserta with the Park, the Aqueduct of Vanvitelli, and the San Leucio Complex",卡塞塔的18世紀花園皇宮、凡韋特里水渠和聖萊烏西建築群,C-ITA,41.07333,14.32639,cultural,1997
+WHS-550,Historic Centre of San Gimignano,聖吉米尼亞諾歷史中心,C-ITA,43.46806,11.04167,cultural,1990
+WHS-551,Te Wahipounamu – South West New Zealand,蒂瓦希普納穆-紐西蘭西南部地區,C-NZL,-45.03603,167.31961,natural,1990
+WHS-554,Whale Sanctuary of El Vizcaino,埃爾比斯開諾鯨魚禁漁區,C-MEX,27.79222,-114.22778,natural,1993
+WHS-555,Birka and Hovgården,比爾卡和霍夫加登,C-SWE,59.33514,17.54264,cultural,1993
+WHS-556,Engelsberg Ironworks,恩厄爾斯貝里鐵工廠,C-SWE,59.97,16.01,cultural,1993
+WHS-557,Rock Carvings in Tanum,塔努姆的巖刻畫,C-SWE,58.70111,11.34111,cultural,1994
+WHS-558,Skogskyrkogården,林地公墓,C-SWE,59.27556,18.09944,cultural,1994
+WHS-559,Royal Domain of Drottningholm,卓寧霍姆宮,C-SWE,59.32306,17.88333,cultural,1991
+WHS-560,"Archaeological Zone of Paquimé, Casas Grandes",大卡薩斯的帕魁姆考古區,C-MEX,30.36713,-107.94812,cultural,1998
+WHS-561,Rangiri Dambulla Cave Temple,丹布勒金寺,C-LKA,7.85667,80.64917,cultural,1991
+WHS-564,Old City of Zamość,扎莫希奇古城,C-POL,50.71694,23.25278,cultural,1992
+WHS-565,Kasbah of Algiers,阿爾及爾城堡,C-DZA,36.78333,3.06028,cultural,1992
+WHS-566,Historic City of Sucre,蘇克雷古城,C-BOL,-19.04799,-65.25959,cultural,1991
+WHS-567,Tiwanaku: Spiritual and Political Centre of the Tiwanaku Culture,蒂亞瓦納科,C-BOL,-16.555,-68.67328,cultural,2000
+WHS-569,Historic Centres of Berat and Gjirokastra,吉諾卡斯特和培拉特歷史中心,C-ALB,40.07417,20.14083,cultural,2005
+WHS-570,Butrint,布特林特,C-ALB,39.74573,20.02095,cultural,1992
+WHS-573,Air and Ténéré Natural Reserves,阿德爾和泰內雷自然保護區,C-NER,19.07619,9.662,natural,1991
+WHS-574,Historic Town of Sukhothai and Associated Historic Towns,素可泰歷史城鎮及相關歷史城鎮,C-THA,17.00722,99.78972,cultural,1991
+WHS-575,Ban Chiang Archaeological Site,班清,C-THA,17.40777,103.23759,cultural,1992
+WHS-576,Historic City of Ayutthaya,阿育他亞(大城)歷史城及相關城鎮,C-THA,14.34778,100.56056,cultural,1991
+WHS-577,Heard and McDonald Islands,赫德島和麥克唐納群島,C-AUS,-53.1,73.5,natural,1997
+WHS-578,"Shark Bay, Western Australia",西澳大利亞鯊魚灣,C-AUS,-25.48611,113.43611,natural,1991
+WHS-579,Bronze Age Burial Site of Sammallahdenmäki,塞姆奧拉德恩青銅時代墓地遺址,C-FIN,61.12056,21.7775,cultural,1999
+WHS-582,Old Rauma,勞馬古城,C-FIN,61.12806,21.51167,cultural,1991
+WHS-583,Fortress of Suomenlinna,芬蘭堡,C-FIN,60.14722,24.98722,cultural,1991
+WHS-584,Petäjävesi Old Church,佩泰耶韋西老教堂,C-FIN,62.25,25.18333,cultural,1994
+WHS-585,Historic Centre of Morelia,莫雷利亞城歷史中心,C-MEX,19.70093,-101.19038,cultural,1991
+WHS-586,Rohtas Fort,羅赫達斯要塞,C-PAK,32.9625,73.58889,cultural,1997
+WHS-588,Danube Delta,多瑙河三角洲,C-ROU,45.08333,29.5,natural,1991
+WHS-590,Dong Phayayen-Khao Yai Forest Complex,東巴耶延山－考愛山森林保護區,C-THA,14.33,102.05,natural,2005
+WHS-591,Thungyai-Huai Kha Khaeng Wildlife Sanctuaries,通艾納黎萱野生動物保護區,C-THA,15.33333,98.91667,natural,1991
+WHS-592,Borobudur Temple Compounds,婆羅浮屠寺廟群,C-IDN,-7.60778,110.20361,cultural,1991
+WHS-593,Sangiran Early Man Site,桑義蘭,C-IDN,-7.4,110.81667,cultural,1996
+WHS-595,Pythagoreion and Heraion of Samos,薩莫斯島的畢達哥利翁及赫拉神殿,C-GRC,37.69083,26.94333,cultural,1992
+WHS-596,Villages with Fortified Churches in Transylvania,特蘭西瓦尼亞村落及其設防的教堂,C-ROU,46.13583,24.77306,cultural,1993
+WHS-597,Hurezi Monastery,霍雷祖修道院,C-ROU,45.16972,24.00722,cultural,1993
+WHS-598,Churches of Moldavia,蘇切維察修道院的復活教堂,C-ROU,47.77833,25.71278,cultural,1993
+WHS-599,Island of Mozambique,莫三比克島,C-MOZ,-15.03417,40.73583,cultural,1991
+WHS-600,"Paris, Banks of the Seine",巴黎塞納河畔,C-FRA,48.8655,2.32114,cultural,1991
+WHS-601,"Cathedral of Notre-Dame, Former Abbey of Saint-Rémi and Palace of Tau, Reims",蘭斯聖母大教堂、聖雷米修道院和聖安東尼宮殿,C-FRA,49.25333,4.03278,cultural,1991
+WHS-602,Historic Centre of Bukhara,布哈拉歷史中心,C-UZB,39.77472,64.42861,cultural,1993
+WHS-603,Samarkand – Crossroad of Cultures,處在文化十字路口的撒馬爾罕城,C-UZB,39.66861,67.0,cultural,2001
+WHS-604,Historic Monuments of Novgorod and Surroundings,諾夫哥羅德及其周圍的歷史古蹟,C-RUS,58.53333,31.28333,cultural,1992
+WHS-606,Serra da Capivara National Park,卡皮瓦拉山國家公園,C-BRA,-8.71863,-42.65244,cultural,1991
+WHS-608,Ujung Kulon National Park,馬戎格庫龍國家公園,C-IDN,-6.75,105.33333,natural,1991
+WHS-609,Komodo National Park,科莫多國家公園,C-IDN,-8.54333,119.48944,natural,1991
+WHS-611,Historic Town of Zabid,宰比德,C-YEM,14.19533,43.31553,cultural,1993
+WHS-613,Ruins of León Viejo,萊昂•別霍遺址,C-NIC,12.40047,-86.61634,cultural,2000
+WHS-614,City of Safranbolu,薩夫蘭博盧城,C-TUR,41.26,32.68972,cultural,1994
+WHS-616,Historic Centre of Prague,布拉格歷史中心,C-CZE,50.08972,14.41944,cultural,1992
+WHS-617,Historic Centre of Český Krumlov,克魯姆洛夫歷史中心,C-CZE,48.81069,14.31503,cultural,1992
+WHS-618,Historic Town of Banská Štiavnica and the Technical Monuments in its Vicinity,歷史名城班斯卡－什佳夫尼察及其工程建築區,C-SVK,48.46111,18.9,cultural,1993
+WHS-620,"Levoča, Spišský Hrad and the Associated Cultural Monuments",萊沃恰，斯皮什城堡及相關文化古蹟群,C-SVK,48.99944,20.7675,cultural,1993
+WHS-621,Historic Centre of Telč,泰爾奇歷史中心,C-CZE,49.18414,15.45397,cultural,1992
+WHS-622,Vlkolínec,伏爾考林耐克,C-SVK,49.03917,19.27833,cultural,1993
+WHS-623,"Mines of Rammelsberg, Historic Town of Goslar and Upper Harz Water Management System",上哈爾茨山的水資源管理系統,C-DEU,51.82,10.34,cultural,1992
+WHS-624,Town of Bamberg,班貝格城,C-DEU,49.89167,10.88889,cultural,1993
+WHS-625,Mir Castle Complex,米爾城堡群,C-BLR,53.45108,26.47272,cultural,2000
+WHS-629,Macquarie Island,麥誇裡島,C-AUS,-54.59472,158.89556,natural,1997
+WHS-630,K’gari,弗雷澤島,C-AUS,-25.21667,153.13333,natural,1992
+WHS-631,"El Tajin, Pre-Hispanic City",埃爾塔津古城,C-MEX,20.44609,-97.37764,cultural,1992
+WHS-632,Cultural and Historic Ensemble of the Solovetsky Islands,索洛韋茨基群島,C-RUS,65.08333,35.66667,cultural,1992
+WHS-633,White Monuments of Vladimir and Suzdal,弗拉基米爾和蘇茲達爾歷史遺蹟,C-RUS,56.15,40.41667,cultural,1992
+WHS-634,"Church of the Ascension, Kolomenskoye",科羅緬斯克的耶穌昇天教堂,C-RUS,55.65556,37.67389,cultural,1994
+WHS-635,Bourges Cathedral,布爾日主教座堂,C-FRA,47.08222,2.39833,cultural,1992
+WHS-637,Jiuzhaigou Valley Scenic and Historic Interest Area,九寨溝風景名勝區,C-CHN,33.08333,103.91667,natural,1992
+WHS-638,Huanglong Scenic and Historic Interest Area,黃龍風景名勝區,C-CHN,32.75417,103.82222,natural,1992
+WHS-640,Wulingyuan Scenic and Historic Interest Area,武陵源,C-CHN,29.33333,110.5,natural,1992
+WHS-642,Prambanan Temple Compounds,巴蘭班南,C-IDN,-7.75222,110.49167,cultural,1991
+WHS-648,Jesuit Missions of La Santísima Trinidad de Paraná and Jesús de Tavarangue,塔瓦蘭格的耶穌和巴拉那的桑蒂西莫－特立尼達耶穌會傳教區,C-PRY,-27.13161,-55.70267,cultural,1993
+WHS-652,Puerto-Princesa Subterranean River National Park,普林塞薩港地下河國家公園,C-PHL,10.16667,118.91667,natural,1999
+WHS-653,Tubbataha Reefs Natural Park,圖巴塔哈群礁,C-PHL,8.95333,119.8675,natural,1993
+WHS-657,Architectural Ensemble of the Trinity Sergius Lavra in Sergiev Posad,謝爾蓋聖三一修道院,C-RUS,56.31035,38.1312,cultural,1993
+WHS-658,Coro and its Port,科羅及其港口,C-VEN,11.40979,-69.67923,cultural,1993
+WHS-659,Brú na Bóinne - Archaeological Ensemble of the Bend of the Boyne,博因宮,C-IRL,53.69469,-6.4755,cultural,1993
+WHS-660,Buddhist Monuments in the Horyu-ji Area,法隆寺地區的佛教古跡,C-JPN,34.61667,135.73333,cultural,1993
+WHS-661,Himeji-jo,姬路城,C-JPN,34.83333,134.7,cultural,1993
+WHS-662,Yakushima,屋久島,C-JPN,30.315,130.50861,natural,1993
+WHS-663,Shirakami-Sanchi,白神山地,C-JPN,40.4525,140.11556,natural,1993
+WHS-664,Archaeological Ensemble of Mérida,梅里達考古群,C-ESP,38.91611,-6.33778,cultural,1993
+WHS-665,Royal Monastery of Santa María de Guadalupe,王家瓜達露佩聖母修道院,C-ESP,39.45285,-5.3275,cultural,1993
+WHS-666,"Lumbini, the Birthplace of the Lord Buddha",佛祖誕生地蘭毗尼,C-NPL,27.46889,83.27611,cultural,1997
+WHS-668,Angkor,吳哥窟,C-KHM,13.43333,103.83333,cultural,1992
+WHS-669,Routes of Santiago de Compostela: Camino Francés and Routes of Northern Spain,聖地亞哥康波斯特拉之路：法蘭西之路和北西班牙之路,C-ESP,43.335,-6.41472,cultural,1993
+WHS-670,The Sassi and the Park of the Rupestrian Churches of Matera,馬泰拉的石窟民居和石頭教堂花園,C-ITA,40.66639,16.61028,cultural,1993
+WHS-672,Ha Long Bay - Cat Ba Archipelago,下龍灣,C-VNM,20.83278,107.16111,natural,1994
+WHS-675,Joya de Cerén Archaeological Site,霍亞－德賽倫考古遺址,C-SLV,13.8275,-89.36917,cultural,1993
+WHS-676,Historic Centre of Zacatecas,薩卡特卡斯歷史中心,C-MEX,22.77548,-102.57353,cultural,1993
+WHS-677,Baroque Churches of the Philippines,菲律賓的巴洛克教堂,C-PHL,14.59,120.97,cultural,1993
+WHS-678,Complex of Hué Monuments,順化皇城,C-VNM,16.46944,107.57778,cultural,1993
+WHS-682,Bwindi Impenetrable National Park,布恩迪難以穿越的國家公園,C-UGA,-1.047,29.692,natural,1994
+WHS-684,Rwenzori Mountains National Park,魯文佐里山國家公園,C-UGA,0.22361,29.92417,natural,1994
+WHS-685,Doñana National Park,多南那國家公園,C-ESP,36.9477,-6.35886,natural,1994
+WHS-686,Miguasha National Park,米瓜莎公園,C-CAN,48.105,-66.35306,natural,1999
+WHS-687,Völklingen Ironworks,弗爾克林根鋼鐵廠,C-DEU,49.24872,6.84422,cultural,1994
+WHS-688,"Historic Monuments of Ancient Kyoto (Kyoto, Uji and Otsu Cities)",古都京都的文化財,C-JPN,34.98056,135.76944,cultural,1994
+WHS-689,As-Salt - The Place of Tolerance and Urban Hospitality,阿薩爾特——包容之地與好客之城,C-JOR,32.04261,35.72831,cultural,2021
+WHS-690,Pilgrimage Church of St John of Nepomuk at Zelená Hora,澤萊納山的內波穆克聖約翰朝聖教堂,C-CZE,49.5802,15.94206,cultural,1994
+WHS-692,Forest Massif of Odzala-Kokoua,奧扎拉-科科阿森林高地,C-COG,1.33556,14.86028,natural,2023
+WHS-695,Roskilde Cathedral,羅斯基勒主教座堂,C-DNK,55.64267,12.0799,cultural,1995
+WHS-696,Kronborg Castle,克倫堡,C-DNK,56.03889,12.62083,cultural,2000
+WHS-697,"Jelling Mounds, Runic Stones and Church",耶靈墓地、古北歐石刻和教堂,C-DNK,55.75639,9.42,cultural,1994
+WHS-698,Australian Fossil Mammal Sites (Riversleigh / Naracoorte),澳大利亞哺乳動物化石地點群,C-AUS,-19.08333,138.71667,natural,1994
+WHS-699,City of Luxembourg: its Old Quarters and Fortifications,盧森堡市、要塞及老城區,C-LUX,49.61,6.13333,cultural,1994
+WHS-700,Lines and Geoglyphs of Nasca and Palpa,納斯卡和朱馬納草原的線條圖,C-PER,-14.72583,-75.14861,cultural,1994
+WHS-701,Canaima National Park,加奈馬國家公園,C-VEN,5.33799,-62.03788,natural,1994
+WHS-702,Earliest 16th-Century Monasteries on the Slopes of Popocatepetl,波波卡特佩山坡上最早的16世紀修道院,C-MEX,18.93472,-98.89778,cultural,1994
+WHS-703,"Mountain Resort and its Outlying Temples, Chengde",承德避暑山莊和外八廟,C-CHN,40.98694,117.93833,cultural,1994
+WHS-704,Temple and Cemetery of Confucius and the Kong Family Mansion in Qufu,曲阜的孔廟、孔林、孔府,C-CHN,35.61321,116.99456,cultural,1994
+WHS-705,Ancient Building Complex in the Wudang Mountains,武當山古建築群,C-CHN,32.46667,111.0,cultural,1994
+WHS-707,"Historic Ensemble of the Potala Palace, Lhasa",布達拉宮,C-CHN,29.65792,91.11717,cultural,1994
+WHS-708,Historical Monuments of Mtskheta,姆茨赫塔古城,C-GEO,41.84228,44.72103,cultural,1994
+WHS-709,Upper Svaneti,上斯瓦涅季,C-GEO,42.914,43.009,cultural,1996
+WHS-710,Gelati Monastery,,C-GEO,42.29472,42.76833,cultural,1994
+WHS-711,Los Katíos National Park,洛斯卡蒂奧斯國家公園,C-COL,7.80398,-77.14627,natural,1994
+WHS-712,City of Vicenza and the Palladian Villas of the Veneto,維琴察城和威尼托的帕拉第奧式別墅,C-ITA,45.54917,11.54944,cultural,1994
+WHS-714,Rock Paintings of the Sierra de San Francisco,聖弗蘭西斯科山脈巖畫,C-MEX,27.62696,-113.02043,cultural,1993
+WHS-715,Rapa Nui National Park,拉帕努伊國家公園,C-CHL,-27.0744,-109.36568,cultural,1995
+WHS-717,Historic Centre of Siena,錫耶納歷史中心,C-ITA,43.31861,11.33167,cultural,1995
+WHS-718,Okapi Wildlife Reserve,㺢㹢狓野生生物保護區,C-COD,2.0,28.5,natural,1996
+WHS-719,Virgin Komi Forests,科米原始森林,C-RUS,63.62583,58.9525,natural,1995
+WHS-720,Messel Pit Fossil Site,麥塞爾化石坑世界自然遺產,C-DEU,49.918,8.757,natural,1995
+WHS-721,Carlsbad Caverns National Park,卡爾斯巴德洞窟國家公園,C-USA,32.16667,-104.38333,natural,1995
+WHS-722,Rice Terraces of the Philippine Cordilleras,菲律賓科迪勒拉山的水稻梯田,C-PHL,16.93389,121.13667,cultural,1995
+WHS-723,Cultural Landscape of Sintra,辛特拉文化景觀,C-PRT,38.78333,-9.41667,cultural,1995
+WHS-724,Medieval Monuments in Kosovo,科索沃中世紀古蹟群,C-SRB,42.66111,20.26556,cultural,2004
+WHS-725,Caves of Aggtelek Karst and Slovak Karst,阿格泰列克洞穴和斯洛伐克喀斯特地貌,C-HUN;C-SVK,48.47573,20.48687,natural,1995
+WHS-726,Historic Centre of Naples,那不勒斯歷史中心,C-ITA,40.85139,14.26278,cultural,1995
+WHS-728,Old and New Towns of Edinburgh,愛丁堡的新鎮、老鎮,C-GBR,55.95,-3.21667,cultural,1995
+WHS-729,"Bauhaus and its Sites in Weimar, Dessau and Bernau",,C-DEU,50.97478,11.3295,cultural,1996
+WHS-730,Crespi d'Adda,阿達的克里斯匹,C-ITA,45.59333,9.53833,cultural,1995
+WHS-731,Hanseatic Town of Visby,漢薩同盟城市維斯比,C-SWE,57.64167,18.29583,cultural,1995
+WHS-732,Kutná Hora: Historical Town Centre with the Church of St Barbara and the Cathedral of Our Lady at Sedlec,庫特納霍拉歷史名城中心的聖巴拉巴教堂及塞德萊茨的聖母瑪利亞大教堂,C-CZE,49.95,15.26667,cultural,1995
+WHS-733,"Ferrara, City of the Renaissance, and its Po Delta",文藝復興城市費拉拉城以及波河三角洲,C-ITA,44.83778,11.61944,cultural,1995
+WHS-734,Historic Villages of Shirakawa-go and Gokayama,白川鄉與五箇山的合掌造聚落,C-JPN,36.4,136.88333,cultural,1995
+WHS-736,Seokguram Grotto and Bulguksa Temple,石窟庵和佛國寺,C-KOR,35.7915,129.34903,cultural,1995
+WHS-737,"Haeinsa Temple Janggyeong Panjeon, the Depositories for the Tripitaka Koreana Woodblocks",海印寺及八萬大藏經藏經處,C-KOR,35.80167,128.09871,cultural,1995
+WHS-738,Jongmyo Shrine,宗廟,C-KOR,37.57472,126.99361,cultural,1995
+WHS-739,Schokland and Surroundings,斯霍克蘭及其周圍地區,C-NLD,52.63861,5.77167,cultural,1995
+WHS-740,Gough and Inaccessible Islands,戈夫島和伊納克塞瑟布林島,C-GBR,-40.32472,-9.92861,natural,1995
+WHS-741,Old Town Lunenburg,盧嫩堡舊城,C-CAN,44.37611,-64.30917,cultural,1995
+WHS-742,Historic Centre of Santa Cruz de Mompox,蒙波斯的聖克魯斯歷史中心,C-COL,9.24049,-74.42308,cultural,1995
+WHS-743,National Archeological Park of Tierradentro,鐵拉登特羅,C-COL,2.58333,-76.03333,cultural,1995
+WHS-744,San Agustín Archaeological Park,聖奧古斯丁考古公園,C-COL,1.91667,-76.23333,cultural,1995
+WHS-747,Historic Quarter of the City of Colonia del Sacramento,薩拉門多移民鎮的歷史區,C-URY,-34.47119,-57.8499,cultural,1995
+WHS-749,W-Arly-Pendjari Complex,W-阿爾利-彭賈里跨國聯合公園,C-BEN;C-NER;C-BFA,11.53,2.29,natural,1996
+WHS-750,"Ancient Ksour of Ouadane, Chinguetti, Tichitt and Oualata",瓦丹、欣蓋提、提希特和瓦拉塔古鎮,C-MRT,20.92889,-11.62361,cultural,1996
+WHS-751,Verla Groundwood and Board Mill,韋爾拉磨木紙板廠,C-FIN,61.06194,26.64083,cultural,1996
+WHS-753,Medina of Essaouira (formerly Mogador),索維拉城（原摩加多爾）,C-MAR,31.51411,-9.77031,cultural,2001
+WHS-754,Lake Baikal,貝加爾湖,C-RUS,53.17361,107.6625,natural,1996
+WHS-755,"Historic Centre of Oporto, Luiz I Bridge and Monastery of Serra do Pilar",波爾圖歷史中心,C-PRT,41.14167,-8.61667,cultural,1996
+WHS-757,Sceilg Mhichíl,斯凱利格·麥可島,C-IRL,51.77194,-10.53861,cultural,1996
+WHS-758,Millenary Benedictine Abbey of Pannonhalma and its Natural Environment,潘諾恩哈爾姆千年修道院及其自然環境,C-HUN,47.55889,17.78444,cultural,1996
+WHS-759,Dutch Water Defence Lines,荷蘭水防線,C-NLD,52.555,4.79139,cultural,1996
+WHS-761,Kunta Kinteh Island and Related Sites,詹姆斯島及附近區域,C-GMB,13.31617,-16.35719,cultural,2003
+WHS-762,"Church Town of Gammelstad, Luleå",加默爾斯塔德教堂鎮,C-SWE,65.64611,22.02861,cultural,1996
+WHS-763,Lednice-Valtice Cultural Landscape,萊德尼采－瓦爾季採文化景觀,C-CZE,48.74112,16.75579,cultural,1996
+WHS-764,Belize Barrier Reef Reserve System,貝里斯堡礁保護區,C-BLZ,17.19055,-87.84621,natural,1996
+WHS-765,Volcanoes of Kamchatka,勘察加火山,C-RUS,56.33333,158.5,natural,1996
+WHS-766,Central Sikhote-Alin,,C-RUS,46.68333,136.66111,natural,2001
+WHS-768,Golden Mountains of Altai,金山-阿爾泰山,C-RUS,50.46667,86.0,natural,1998
+WHS-769,Uvs Nuur Basin,烏布蘇盆地,C-MNG;C-RUS,50.275,92.71972,natural,2003
+WHS-770,Canal du Midi,米迪運河,C-FRA,43.61139,1.41639,cultural,1996
+WHS-772,Fertö / Neusiedlersee Cultural Landscape,新錫德爾湖與費爾特湖地區文化景觀,C-AUT;C-HUN,47.71928,16.72272,cultural,2001
+WHS-773,Pyrénées - Mont Perdu,比利牛斯——珀杜山,C-ESP;C-FRA,42.68542,-0.0005,mixed,1997
+WHS-774,Laponian Area,拉普蘭地區,C-SWE,67.33333,17.58333,mixed,1996
+WHS-775,Hiroshima Peace Memorial (Genbaku Dome),原子彈爆炸圓頂屋,C-JPN,34.39556,132.45361,cultural,1996
+WHS-776,Itsukushima Shinto Shrine,嚴島神社,C-JPN,34.29442,132.32464,cultural,1996
+WHS-777,Monasteries of Haghpat and Sanahin,哈格帕特修道院和薩那欣修道院,C-ARM,41.095,44.71028,cultural,1996
+WHS-778,Lushan National Park,廬山國家公園,C-CHN,29.43333,115.86667,cultural,1996
+WHS-779,"Mount Emei Scenic Area, including Leshan Giant Buddha Scenic Area",峨眉山—樂山大佛,C-CHN,29.5449,103.76925,mixed,1996
+WHS-780,Archaeological Site of Aigai (modern name Vergina),韋爾吉納的考古遺址,C-GRC,40.47139,22.31833,cultural,1996
+WHS-781,Historic Walled Town of Cuenca,城牆圍繞的歷史名城昆卡,C-ESP,40.07662,-2.13174,cultural,1996
+WHS-782,La Lonja de la Seda de Valencia,瓦倫西亞絲綢交易廳,C-ESP,39.47442,-0.37844,cultural,1996
+WHS-783,Luther Memorials in Eisleben and Wittenberg,埃斯萊本和維騰貝格的路德紀念館建築群,C-DEU,51.86472,12.65278,cultural,1996
+WHS-784,Historic Centre of the City of Salzburg,薩爾茨堡市歷史中心,C-AUT,47.80056,13.04333,cultural,1996
+WHS-785,Semmering Railway,塞默靈鐵路,C-AUT,47.64878,15.82797,cultural,1998
+WHS-786,Palace and Gardens of Schönbrunn,申布倫宮殿和花園,C-AUT,48.18667,16.31333,cultural,1996
+WHS-787,The Trulli of Alberobello,阿爾貝羅貝洛的圓頂石屋,C-ITA,40.7825,17.23694,cultural,1996
+WHS-788,Early Christian Monuments of Ravenna,拉文納早期基督教名勝,C-ITA,44.42042,12.19625,cultural,1996
+WHS-789,Historic Centre of the City of Pienza,皮恩扎歷史中心,C-ITA,43.07694,11.67861,cultural,1996
+WHS-791,Pre-Hispanic Town of Uxmal,烏斯馬爾古鎮,C-MEX,20.36167,-89.77028,cultural,1996
+WHS-792,Historic Monuments Zone of Querétaro,克雷塔羅歷史遺蹟區,C-MEX,20.59329,-100.39213,cultural,1996
+WHS-793,Historic City of Meknes,歷史名城梅克內斯,C-MAR,33.88333,-5.55833,cultural,1996
+WHS-794,Dougga / Thugga,沙格鎮,C-TUN,36.42361,9.22028,cultural,1997
+WHS-795,Maritime Greenwich,格林威治海岸地區,C-GBR,51.48117,-0.00378,cultural,1997
+WHS-797,City of Verona,維洛那,C-ITA,45.43861,10.99389,cultural,2000
+WHS-798,The Sundarbans,孫德爾本斯國家公園,C-BGD,21.95,89.18333,natural,1997
+WHS-800,Mount Kenya National Park/Natural Forest,肯亞山國家公園,C-KEN,-0.155,37.31556,natural,1997
+WHS-801,Lake Turkana National Parks,圖爾卡納湖國家公園,C-KEN,3.05131,36.50367,natural,1997
+WHS-803,Las Médulas,拉斯梅德拉斯,C-ESP,42.46939,-6.77075,cultural,1997
+WHS-804,"Palau de la Música Catalana and Hospital de Sant Pau, Barcelona",巴塞羅那的帛琉音樂廳及聖保羅醫院,C-ESP,41.38778,2.175,cultural,1997
+WHS-805,San Millán Yuso and Suso Monasteries,聖米延尤索和素索修道院,C-ESP,42.32586,-2.86496,cultural,1997
+WHS-806,Hallstatt-Dachstein / Salzkammergut Cultural Landscape,哈爾施塔特－達特施泰因薩爾茨卡默古特文化景觀,C-AUT,47.55944,13.64639,cultural,1997
+WHS-809,Episcopal Complex of the Euphrasian Basilica in the Historic Centre of Poreč,尤弗拉西蘇斯聖殿,C-HRV,45.22858,13.59333,cultural,1997
+WHS-810,Historic City of Trogir,歷史名城特羅吉爾,C-HRV,43.51708,16.25136,cultural,1997
+WHS-811,Old Town of Lijiang,麗江古城,C-CHN,26.86667,100.23333,cultural,1997
+WHS-812,Ancient City of Ping Yao,平遙古城,C-CHN,37.20139,112.15444,cultural,1997
+WHS-813,Classical Gardens of Suzhou,蘇州園林,C-CHN,31.31667,120.45,cultural,1997
+WHS-814,Morne Trois Pitons National Park,三峰山國家公園,C-DMA,15.33111,-61.30661,natural,1997
+WHS-815,"Hospicio Cabañas, Guadalajara",卡瓦尼亞斯救濟所,C-MEX,20.67689,-103.3378,cultural,1997
+WHS-816,Changdeokgung Palace Complex,昌德宮,C-KOR,37.57889,126.99111,cultural,1997
+WHS-817,Hwaseong Fortress,華城,C-KOR,37.27222,127.00833,cultural,1997
+WHS-818,Mill Network at Kinderdijk-Elshout,金德代克-埃爾斯豪特的風車,C-NLD,51.8825,4.64944,cultural,1997
+WHS-819,"Historic Area of Willemstad, Inner City and Harbour, Curaçao",荷屬安的列斯群島的威廉斯塔德、內城及港口古蹟區,C-NLD,12.10194,-68.90222,cultural,1997
+WHS-820,Cocos Island National Park,科科斯島國家公園,C-CRI,5.53333,-87.06667,natural,1997
+WHS-821,Historic Centre of São Luís,聖路易斯歷史中心,C-BRA,-2.53005,-44.30337,cultural,1997
+WHS-822,Historic Centre (Old Town) of Tallinn,塔林歷史中心（老城）,C-EST,59.437,24.74,cultural,1997
+WHS-823,Residences of the Royal House of Savoy,薩沃王宮,C-ITA,45.07253,7.68572,cultural,1997
+WHS-824,"Botanical Garden (Orto Botanico), Padua",帕多瓦植物園,C-ITA,45.39911,11.88067,cultural,1997
+WHS-825,Archaeological Area and the Patriarchal Basilica of Aquileia,阿奎拉古蹟區及長方形主教教堂,C-ITA,45.76833,13.3675,cultural,1998
+WHS-826,"Portovenere, Cinque Terre, and the Islands (Palmaria, Tino and Tinetto)",韋內雷港、五村鎮以及沿海群島,C-ITA,44.10694,9.72917,cultural,1997
+WHS-827,"Cathedral, Torre Civica and Piazza Grande, Modena",摩德納的大教堂、市民塔和大廣場,C-ITA,44.64624,10.92568,cultural,1997
+WHS-828,Historic Centre of Urbino,烏爾比諾歷史中心,C-ITA,43.725,12.63333,cultural,1998
+WHS-829,"Archaeological Areas of Pompei, Herculaneum and Torre Annunziata",龐培、赫庫蘭尼姆和託雷安農齊亞塔考古區,C-ITA,40.75,14.48333,cultural,1997
+WHS-830,Costiera Amalfitana,阿瑪菲海岸,C-ITA,40.63333,14.60278,cultural,1997
+WHS-831,Archaeological Area of Agrigento,阿克里真託考古區,C-ITA,37.28972,13.59333,cultural,1997
+WHS-832,Villa Romana del Casale,卡薩爾的羅馬別墅,C-ITA,37.36611,14.33417,cultural,1997
+WHS-833,Su Nuraxi di Barumini,巴魯米尼的努拉格,C-ITA,39.70583,8.99139,cultural,1997
+WHS-835,Medieval Town of Toruń,中世紀古鎮託倫,C-POL,53.01056,18.60417,cultural,1997
+WHS-836,Archaeological Site of Volubilis,瓦盧比利斯考古遺址,C-MAR,34.07389,-5.55694,cultural,1997
+WHS-837,Medina of Tétouan (formerly known as Titawin),締頭萬城,C-MAR,35.57083,-5.36667,cultural,1997
+WHS-839,Alejandro de Humboldt National Park,阿里傑羅德胡波爾德國家公園,C-CUB,20.45,-75.0,natural,2001
+WHS-840,Viñales Valley,比尼亞萊斯山谷,C-CUB,22.61667,-83.71667,cultural,1999
+WHS-841,"San Pedro de la Roca Castle, Santiago de Cuba",古巴聖地亞哥的聖佩德羅德拉羅卡堡,C-CUB,19.96845,-75.87044,cultural,1997
+WHS-842,"Cilento and Vallo di Diano National Park with the Archeological Sites of Paestum and Velia, and the Certosa di Padula",帕埃斯圖姆,C-ITA,40.28333,15.26667,cultural,1998
+WHS-846,Classical Weimar,古典魏瑪,C-DEU,50.9775,11.32861,cultural,1998
+WHS-847,Castle of the Teutonic Order in Malbork,馬爾堡的條頓騎士團城堡,C-POL,54.041,19.02972,cultural,1997
+WHS-848,Choirokoitia,喬伊魯科蒂亞,C-CYP,34.79674,33.34394,cultural,1998
+WHS-849,Archaeological Site of Troy,特洛伊考古遺址,C-TUR,39.95644,26.239,cultural,1998
+WHS-850,Ouadi Qadisha (the Holy Valley) and the Forest of the Cedars of God (Horsh Arz el-Rab),誇底•誇底沙(聖谷)和神杉林,C-LBN,34.25389,36.95111,cultural,1998
+WHS-852,Historic Centre of Riga,里加歷史中心,C-LVA,56.95417,24.11667,cultural,1997
+WHS-853,Early Christian Necropolis of Pécs (Sopianae),佩奇的早期基督教陵墓,C-HUN,46.07444,18.22778,cultural,2000
+WHS-854,East Rennell,東倫內爾島,C-SLB,-11.68333,160.33333,natural,1998
+WHS-855,Flemish Béguinages,佛蘭德的比津社群,C-BEL,51.03097,4.47375,cultural,1998
+WHS-856,"The Four Lifts on the Canal du Centre and their Environs, La Louvière and Le Roeulx (Hainaut)",拉盧維耶爾和勒羅爾克斯中央運河上的四座船舶吊車（艾諾）,C-BEL,50.48111,4.13722,cultural,1998
+WHS-857,"La Grand-Place, Brussels",布魯塞爾大廣場,C-BEL,50.84668,4.35242,cultural,1998
+WHS-859,Holy Trinity Column in Olomouc,奧洛穆茨三位一體聖柱,C-CZE,49.59394,17.25046,cultural,2000
+WHS-860,Gardens and Castle at Kroměříž,克羅麥里茲花園和城堡,C-CZE,49.3,17.37722,cultural,1998
+WHS-861,Holašovice Historic Village,霍拉舍維采,C-CZE,48.96964,14.27261,cultural,1998
+WHS-862,Historic Monuments Zone of Tlacotalpan,塔拉科塔潘,C-MEX,18.61346,-95.65868,cultural,1998
+WHS-863,Historic Centre of Santa Ana de los Ríos de Cuenca,昆卡的洛斯－里奧斯的聖安娜歷史中心,C-ECU,-2.89745,-79.00438,cultural,1999
+WHS-865,L'viv – the Ensemble of the Historic Centre,裡沃夫歷史中心,C-UKR,49.84163,24.03198,cultural,1998
+WHS-866,Prehistoric Rock Art Sites in the Côa Valley and Siega Verde,席爾加·維德岩石藝術考古區,C-ESP;C-PRT,40.6975,-6.66111,cultural,1998
+WHS-867,Ir.D.F. Woudagemaal (D.F. Wouda Steam Pumping Station),沃達蒸汽泵站,C-NLD,52.84583,5.67889,cultural,1998
+WHS-868,Routes of Santiago de Compostela in France,法國聖地亞哥——德孔波斯特拉朝聖之路,C-FRA,48.85797,2.34892,cultural,1998
+WHS-870,Historic Monuments of Ancient Nara,古都奈良的文化財,C-JPN,34.67556,135.83944,cultural,1998
+WHS-871,Naval Port of Karlskrona,卡爾斯克魯納軍港,C-SWE,56.16667,15.58333,cultural,1998
+WHS-872,Historic Site of Lyon,里昂歷史遺蹟,C-FRA,45.76722,4.83333,cultural,1998
+WHS-873,"Provins, Town of Medieval Fairs",普羅萬城,C-FRA,48.55972,3.29889,cultural,2001
+WHS-874,Rock Art of the Mediterranean Basin on the Iberian Peninsula,伊比利亞地中海盆地的巖畫藝術,C-ESP,39.78995,-1.03331,cultural,1998
+WHS-875,Archaeological Ensemble of Tarraco,塔拉科考古遺址,C-ESP,41.11472,1.25931,cultural,2000
+WHS-876,University and Historic Precinct of Alcalá de Henares,埃納雷斯堡大學城及歷史區,C-ESP,40.48139,-3.36806,cultural,1998
+WHS-877,New Zealand Sub-Antarctic Islands,紐西蘭次南極區群島,C-NZL,-50.75,166.10444,natural,1998
+WHS-880,"Summer Palace, an Imperial Garden in Beijing",頤和園,C-CHN,39.91056,116.14111,cultural,1998
+WHS-881,Temple of Heaven: an Imperial Sacrificial Altar in Beijing,天壇,C-CHN,39.84556,116.44472,cultural,1998
+WHS-883,Fuerte de Samaipata,薩邁帕塔考古遺址,C-BOL,-18.17832,-63.82048,cultural,1998
+WHS-884,"Three Castles, Defensive Wall and Ramparts of the Market-Town of Bellinzona",貝林佐納三座要塞及防衛牆和集鎮,C-CHE,46.19314,9.02242,cultural,2000
+WHS-885,Historic Centre of Shakhrisyabz,沙赫里薩布茲,C-UZB,39.05,66.83333,cultural,2000
+WHS-886,State Historical and Cultural Park “Ancient Merv”,梅爾夫,C-TKM,37.70083,62.1775,cultural,1999
+WHS-887,Kuk Early Agricultural Site,庫克早期農業遺址,C-PNG,-5.78371,144.33172,cultural,2008
+WHS-889,Desembarco del Granma National Park,德桑巴爾科國家公園,C-CUB,19.88333,-77.63333,natural,1999
+WHS-890,Historic Centre of the Town of Diamantina,蒂阿曼蒂那城歷史中心,C-BRA,-18.24478,-43.59768,cultural,1999
+WHS-892,Discovery Coast Atlantic Forest Reserves,大西洋沿岸熱帶雨林保護區,C-BRA,-16.5,-39.25,natural,1999
+WHS-893,Atlantic Forest South-East Reserves,大西洋東南熱帶雨林保護區,C-BRA,-24.16667,-48.0,natural,1999
+WHS-895,Historic Fortified Town of Campeche,坎佩切歷史要塞城,C-MEX,19.84639,-90.53722,cultural,1999
+WHS-896,"Museumsinsel (Museum Island), Berlin",博物館島,C-DEU,52.51972,13.39861,cultural,1999
+WHS-897,Wartburg Castle,瓦爾特堡,C-DEU,50.96678,10.307,cultural,1999
+WHS-898,High Coast / Kvarken Archipelago,高海岸∕瓦爾肯群島,C-SWE;C-FIN,63.3,21.3,natural,2000
+WHS-899,Droogmakerij de Beemster (Beemster Polder),比姆斯特迂田,C-NLD,52.54889,4.91111,cultural,1999
+WHS-900,Western Caucasus,西高加索山,C-RUS,44.0,40.0,natural,1999
+WHS-901,Litomyšl Castle,利托米什爾城堡,C-CZE,49.87361,16.31444,cultural,1999
+WHS-902,Historic Centre of Sighişoara,錫吉什瓦拉歷史中心,C-ROU,46.21778,24.79222,cultural,1999
+WHS-904,Wooden Churches of Maramureş,馬拉暮萊斯的木結構教堂,C-ROU,47.82083,24.05583,cultural,1999
+WHS-905,Kalwaria Zebrzydowska: the Mannerist Architectural and Park Landscape Complex and Pilgrimage Park,卡瓦利澤布日多夫斯津：自成一家的建築景觀朝聖園,C-POL,49.86668,19.67636,cultural,1999
+WHS-906,Dacian Fortresses of the Orastie Mountains,奧拉斯迪山的達亞恩城堡,C-ROU,45.62306,23.31194,cultural,1999
+WHS-907,Villa Adriana (Tivoli),哈德良別墅,C-ITA,41.94417,12.77197,cultural,1999
+WHS-908,Isole Eolie (Aeolian Islands),埃奧利群島,C-ITA,38.48786,14.94558,natural,2000
+WHS-910,Brimstone Hill Fortress National Park,硫磺石山要塞國家公園,C-KNA,17.34694,-62.83722,cultural,1999
+WHS-911,Mount Wuyi,武夷山,C-CHN,27.72639,117.72528,mixed,1999
+WHS-912,Dazu Rock Carvings,大足石刻,C-CHN,29.70111,105.705,cultural,1999
+WHS-913,Shrines and Temples of Nikko,日光的神社與寺院,C-JPN,36.7475,139.61056,cultural,1999
+WHS-914,iSimangaliso Wetland Park – Maputo National Park,,C-MOZ;C-ZAF,-27.83889,32.55,natural,1999
+WHS-915,Fossil Hominid Sites of South Africa,斯泰克方丹、斯瓦特科蘭斯、科羅姆德拉伊和維羅恩斯的化石遺址,C-ZAF,-24.15861,29.17694,cultural,1999
+WHS-916,Robben Island,羅本島,C-ZAF,-33.8,18.36667,cultural,1999
+WHS-917,Greater Blue Mountains Area,大藍山山脈地區,C-AUS,-33.7,150.0,natural,2000
+WHS-922,"Rani-ki-Vav (the Queen’s Stepwell) at Patan, Gujarat",,C-IND,23.85889,72.10167,cultural,2014
+WHS-925,Rock Shelters of Bhimbetka,溫迪亞山脈的比莫貝卡特石窟,C-IND,22.92778,77.58333,cultural,2003
+WHS-927,Ancient Buddhist Site of Sarnath,鹿野苑,C-IND,25.38111,83.02139,cultural,2026
+WHS-928,Area de Conservación Guanacaste,瓜納卡斯特自然保護區,C-CRI,10.85,-85.61667,natural,1999
+WHS-929,San Cristóbal de La Laguna,聖克里斯托巴-德拉拉古納,C-ESP,28.47789,-16.31178,cultural,1999
+WHS-930,Palmeral of Elche,帕梅拉爾,C-ESP,38.26667,-0.71667,cultural,2000
+WHS-931,City of Graz – Historic Centre and Schloss Eggenberg,格拉茨城歷史中心與埃根博格城堡,C-AUT,47.07332,15.40792,cultural,1999
+WHS-932,Jurisdiction of Saint-Emilion,聖艾米倫區,C-FRA,44.89472,-0.15528,cultural,1999
+WHS-933,The Loire Valley between Sully-sur-Loire and Chalonnes,盧瓦爾河畔敘利與沙洛納間的盧瓦爾河谷,C-FRA,47.39889,0.70278,cultural,2000
+WHS-934,Laurisilva of Madeira,馬德拉的月桂林,C-PRT,32.76667,-17.0,natural,1999
+WHS-936,"Cueva de las Manos, Río Pinturas",手洞,C-ARG,-47.15,-70.66667,cultural,1999
+WHS-937,Península Valdés,瓦爾德斯半島,C-ARG,-42.5,-64.0,natural,1999
+WHS-938,Sukur Cultural Landscape,宿庫盧文化景觀,C-NGA,10.74056,13.57194,cultural,1999
+WHS-939,Archaeological Monuments Zone of Xochicalco,霍齊卡爾科的歷史紀念區,C-MEX,18.80397,-99.29639,cultural,1999
+WHS-940,Historic Inner City of Paramaribo,帕拉馬裡博的古內城,C-SUR,5.82611,-55.15,cultural,2002
+WHS-941,Archaeological Sites of Mycenae and Tiryns,邁錫尼和提那雅恩斯的考古遺址,C-GRC,37.73333,22.75,cultural,1999
+WHS-942,The Historic Centre (Chorá) with the Monastery of Saint-John the Theologian and the Cave of the Apocalypse on the Island of Pátmos,神學家聖若望修道院,C-GRC,37.3,26.55,cultural,1999
+WHS-943,Belfries of Belgium and France,比利時和法國的鐘樓,C-FRA;C-BEL,50.17444,3.23139,cultural,1999
+WHS-944,Mountain Railways of India,,C-IND,11.51028,76.93583,cultural,1999
+WHS-945,Chhatrapati Shivaji Terminus (formerly Victoria Terminus),賈特拉帕蒂·希瓦吉·摩訶羅阇終點站,C-IND,18.94012,72.8362,cultural,2004
+WHS-946,Old Bridge Area of the Old City of Mostar,莫斯塔爾舊城和舊橋地區,C-BIH,43.33731,17.815,cultural,2005
+WHS-948,Hoi An Ancient Town,會安古鎮,C-VNM,15.88333,108.33333,cultural,1999
+WHS-949,My Son Sanctuary,美山聖地,C-VNM,15.77384,108.10917,cultural,1999
+WHS-950,Royal Hill of Ambohimanga,安布希曼加的皇家藍山行宮,C-MDG,-18.75917,47.56278,cultural,2001
+WHS-951,Phong Nha-Ke Bang National Park and Hin Nam No National Park,石林國家保護區,C-VNM;C-LAO,17.42756,105.90528,natural,2003
+WHS-954,Saint Catherine Area,聖卡特琳娜地區,C-EGY,28.55623,33.97543,cultural,2002
+WHS-955,Lorentz National Park,洛倫茨國家公園,C-IDN,-4.75,137.83333,natural,1999
+WHS-956,Island of Saint-Louis,聖路易島,C-SEN,16.02778,-16.50444,cultural,2000
+WHS-958,Walled City of Baku with the Shirvanshah's Palace and Maiden Tower,城牆圍繞的巴庫城及其希爾凡王宮和少女塔,C-AZE,40.36667,49.83333,cultural,2000
+WHS-959,Historic Quarter of the Seaport City of Valparaíso,瓦爾帕萊索港口城市歷史區,C-CHL,-33.04064,-71.628,cultural,2003
+WHS-960,Monastery of Geghard and the Upper Azat Valley,格加爾德修道院和上阿扎特山谷,C-ARM,40.14044,44.81853,cultural,2000
+WHS-963,The Cathedral of St James in Šibenik,聖雅各伯主教座堂,C-HRV,43.73629,15.89038,cultural,2000
+WHS-965,Rietveld Schröderhuis (Rietveld Schröder House),里特費爾德的施洛德住宅,C-NLD,52.08533,5.14756,cultural,2000
+WHS-966,Ischigualasto / Talampaya Natural Parks,伊沙瓜拉斯托－塔拉姆佩雅自然公園,C-ARG,-30.0,-68.0,natural,2000
+WHS-967,Noel Kempff Mercado National Park,挪爾•肯普夫墨卡多國家公園,C-BOL,-14.26667,-60.86667,natural,2000
+WHS-968,Agricultural Landscape of Southern Öland,南厄蘭島的農業風景區,C-SWE,56.325,16.48333,cultural,2000
+WHS-970,Wachau Cultural Landscape,瓦豪,C-AUT,48.36444,15.43417,cultural,2000
+WHS-971,Churches of Chiloé,奇洛埃教堂,C-CHL,-42.5,-73.76667,cultural,2000
+WHS-972,Gusuku Sites and Related Properties of the Kingdom of Ryukyu,琉球王國的城堡以及相關遺產群,C-JPN,26.20861,127.68278,cultural,2000
+WHS-973,Bardejov Town Conservation Reserve,巴爾代約夫鎮保護區,C-SVK,49.29278,21.27556,cultural,2000
+WHS-974,Monastic Island of Reichenau,賴興瑙島,C-DEU,47.69872,9.06131,cultural,2000
+WHS-975,Zollverein Coal Mine Industrial Complex in Essen,埃森的關稅同盟煤礦工業區,C-DEU,51.49139,7.04611,cultural,2001
+WHS-976,Gyeongju Historic Areas,慶州歷史遺迹地區,C-KOR,35.78889,129.22667,cultural,2000
+WHS-977,"Gochang, Hwasun and Ganghwa Dolmen Sites",高敞、和順、江華支石墓遺址,C-KOR,34.96667,126.92917,cultural,2000
+WHS-978,Old Town of Corfu,克基拉,C-GRC,39.62394,19.9275,cultural,2007
+WHS-980,Historic and Architectural Complex of the Kazan Kremlin,喀山克里姆林宮,C-RUS,55.79945,49.10646,cultural,2000
+WHS-981,Bolgar Historical and Archaeological Complex,,C-RUS,54.97889,49.05639,cultural,2014
+WHS-982,Ensemble of the Ferapontov Monastery,費拉邦多夫修道院遺址群,C-RUS,59.95,38.56667,cultural,2000
+WHS-983,"Historic Town of St George and Related Fortifications, Bermuda",百慕大群島上的聖喬治鎮及相關的要塞,C-GBR,32.37944,-64.67778,cultural,2000
+WHS-984,Blaenavon Industrial Landscape,卡萊納馮工業區景觀,C-GBR,51.77639,-3.08806,cultural,2000
+WHS-985,Maloti-Drakensberg Park,,C-LSO;C-ZAF,-29.76528,29.12306,mixed,2000
+WHS-986,Ciudad Universitaria de Caracas,加拉加斯大學城,C-VEN,10.49073,-66.89068,cultural,2000
+WHS-987,Roman Walls of Lugo,盧戈的羅馬城牆,C-ESP,43.01064,-7.55307,cultural,2000
+WHS-988,Catalan Romanesque Churches of the Vall de Boí,博伊谷地的羅馬式教堂建築,C-ESP,42.50472,0.80361,cultural,2000
+WHS-989,Archaeological Site of Atapuerca,阿塔普埃爾卡山,C-ESP,42.34972,-3.51528,cultural,2000
+WHS-990,"Assisi, the Basilica of San Francesco and Other Franciscan Sites",阿西西古鎮的方濟各會修道院與大教堂,C-ITA,43.06617,12.62244,cultural,2000
+WHS-993,Historic Centre of the Town of Goiás,戈亞斯城歷史中心,C-BRA,-15.93423,-50.14016,cultural,2001
+WHS-994,Curonian Spit,庫爾斯沙嘴,C-LTU;C-RUS,55.27458,20.96239,cultural,2000
+WHS-995,Jesuit Block and Estancias of Córdoba,科爾多巴耶穌會牧場和街區,C-ARG,-31.42056,-64.19111,cultural,2000
+WHS-996,Historic Centre of Brugge,布魯日歷史中心,C-BEL,51.20891,3.22527,cultural,2000
+WHS-998,Central Amazon Conservation Complex,亞馬遜河中心綜合保護區,C-BRA,-2.33333,-62.00833,natural,2000
+WHS-999,Pantanal Conservation Area,潘特納爾濕地,C-BRA,-17.656,-57.359,natural,2000
+WHS-1000,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,巴西大西洋群島：費爾南多－迪諾羅尼亞群島和羅卡斯島保護區,C-BRA,-3.85794,-32.42511,natural,2001
+WHS-1001,Mount Qingcheng and the Dujiangyan Irrigation System,青城山—都江堰,C-CHN,31.00167,103.60528,cultural,2000
+WHS-1002,Ancient Villages in Southern Anhui – Xidi and Hongcun,皖南古村落－西遞、宏村（2000年）,C-CHN,29.90444,117.9875,cultural,2000
+WHS-1003,Longmen Grottoes,龍門石窟,C-CHN,34.46667,112.46667,cultural,2000
+WHS-1004,Imperial Tombs of the Ming and Qing Dynasties,明清皇家陵寢,C-CHN,41.70722,124.79389,cultural,2000
+WHS-1005,Major Town Houses of the Architect Victor Horta (Brussels),索爾維公館,C-BEL,50.82806,4.36223,cultural,2000
+WHS-1006,Neolithic Flint Mines at Spiennes (Mons),斯皮耶納新石器時代的燧石礦,C-BEL,50.42011,3.98227,cultural,2000
+WHS-1007,Cape Floral Region Protected Areas,開普植物區,C-ZAF,-34.35581,18.47503,natural,2004
+WHS-1008,Archaeological Landscape of the First Coffee Plantations in the South-East of Cuba,古巴東南第一個咖啡種植園考古風景區,C-CUB,20.03,-75.39139,cultural,2000
+WHS-1009,Notre-Dame Cathedral in Tournai,聖母主教座堂,C-BEL,50.60603,3.38926,cultural,2000
+WHS-1010,Land of Frankincense,乳香之路,C-OMN,18.25333,53.64759,cultural,2000
+WHS-1011,Cathedral and Churches of Echmiatsin and the Archaeological Site of Zvartnots,埃奇米河津教堂與茲瓦爾特諾茨考古遺址,C-ARM,40.15931,44.29514,cultural,2000
+WHS-1012,Kinabalu Park,京那巴魯國家公園,C-MYS,6.25,116.5,natural,2000
+WHS-1013,Gunung Mulu National Park,穆魯山國家公園,C-MYS,4.13333,114.91667,natural,2000
+WHS-1014,The Archaeological Heritage of Niah National Park’s Caves Complex,尼亞國家公園洞穴考古遺產,C-MYS,3.80429,113.78077,cultural,2024
+WHS-1016,Historical Centre of the City of Arequipa,阿雷基帕城歷史中心,C-PER,-16.39835,-71.53678,cultural,2000
+WHS-1017,Central Suriname Nature Reserve,蘇利南中心自然保護區,C-SUR,4.0,-56.5,natural,2000
+WHS-1018,Ephesus,以弗所,C-TUR,37.92917,27.35944,cultural,2015
+WHS-1021,Tsodilo,措迪洛山,C-BWA,-18.75,21.73333,cultural,2001
+WHS-1022,Tombs of Buganda Kings at Kasubi,卡蘇比王陵,C-UGA,0.34861,32.55139,cultural,2001
+WHS-1023,Natural System of Wrangel Island Reserve,弗蘭格爾島,C-RUS,71.18889,-179.71528,natural,2004
+WHS-1024,Late Baroque Towns of the Val di Noto (South-Eastern Sicily),晚期的巴洛克城鎮瓦拉迪那託（西西里東南部）,C-ITA,36.89319,15.06892,cultural,2002
+WHS-1025,"Villa d'Este, Tivoli",提沃利城的伊斯特別墅,C-ITA,41.96392,12.79625,cultural,2001
+WHS-1026,Val d'Orcia,奧爾恰谷,C-ITA,43.06667,11.55,cultural,2004
+WHS-1027,Mining Area of the Great Copper Mountain in Falun,法倫的大銅山採礦區,C-SWE,60.60472,15.63083,cultural,2001
+WHS-1028,Saltaire,索爾泰爾,C-GBR,53.83917,-1.78833,cultural,2001
+WHS-1029,Dorset and East Devon Coast,侏羅紀海岸,C-GBR,50.70556,-2.98989,natural,2001
+WHS-1030,Derwent Valley Mills,德文特河谷工業區,C-GBR,53.02889,-1.48806,cultural,2001
+WHS-1031,Historic Centre of Guimarães and Couros Zone,吉馬良斯歷史中心與庫魯斯區,C-PRT,41.443,-8.29278,cultural,2001
+WHS-1033,Historic Centre of Vienna,維也納歷史中心,C-AUT,48.2094,16.3699,cultural,2001
+WHS-1035,Cerrado Protected Areas: Chapada dos Veadeiros and Emas National Parks,塞拉多保護區：查帕達－多斯－維阿迪羅斯和艾瑪斯國家公園,C-BRA,-14.00569,-47.68461,natural,2001
+WHS-1037,Swiss Alps Jungfrau-Aletsch,少女峰–阿雷奇冰河–畢奇霍恩峰,C-CHE,46.5,8.03333,natural,2001
+WHS-1039,Yungang Grottoes,雲岡石窟,C-CHN,40.10972,113.12222,cultural,2001
+WHS-1040,Masada,馬薩達,C-ISR,31.31556,35.35361,cultural,2001
+WHS-1042,Old City of Acre,阿科,C-ISR,32.92167,35.06889,cultural,2001
+WHS-1044,Aranjuez Cultural Landscape,阿蘭胡埃斯文化景觀,C-ESP,40.03645,-3.60934,cultural,2001
+WHS-1046,Alto Douro Wine Region,葡萄酒產區上杜羅,C-PRT,41.10167,-7.79889,cultural,2001
+WHS-1052,Tugendhat Villa in Brno,布林諾的圖根哈特別墅,C-CZE,49.20718,16.61606,cultural,2001
+WHS-1053,Wooden Churches of Southern Małopolska,南部小波蘭木製教堂,C-POL,49.75,21.23333,cultural,2003
+WHS-1054,Churches of Peace in Jawor and Świdnica,扎沃爾和思維得尼加的和平教堂,C-POL,51.05428,16.19594,cultural,2001
+WHS-1055,Lamu Old Town,拉穆鎮,C-KEN,-2.28444,40.8525,cultural,2001
+WHS-1056,Mahabodhi Temple Complex at Bodh Gaya,菩提伽耶的摩訶菩提寺,C-IND,24.69528,84.99389,cultural,2002
+WHS-1058,Portuguese City of Mazagan (El Jadida),馬紮甘葡萄牙城,C-MAR,33.25667,-8.50194,cultural,2004
+WHS-1060,Kenya Lake System in the Great Rift Valley,,C-KEN,-0.4425,36.24,natural,2011
+WHS-1061,"Ancient Maya City and Protected Tropical Forests of Calakmul, Campeche",,C-MEX,18.05303,-89.73728,mixed,2002
+WHS-1063,Tokaj Wine Region Historic Cultural Landscape,託卡伊葡萄酒產地歷史文化景觀,C-HUN,48.15,21.35,cultural,2002
+WHS-1066,Upper Middle Rhine Valley,萊茵河中上游河谷,C-DEU,50.17361,7.69417,cultural,2002
+WHS-1067,Historic Centres of Stralsund and Wismar,施特拉爾松德與維斯馬歷史中心,C-DEU,54.3025,13.08528,cultural,2002
+WHS-1068,Sacri Monti of Piedmont and Lombardy,皮埃蒙特及倫巴第聖山,C-ITA,45.97456,9.16956,cultural,2003
+WHS-1070,"Citadel, Ancient City and Fortress Buildings of Derbent",傑爾賓特燈塔,C-RUS,42.05583,48.28278,cultural,2003
+WHS-1073,Gebel Barkal and the Sites of the Napatan Region,博爾戈爾山和納巴塔地區,C-SDN,18.537,31.82803,cultural,2003
+WHS-1076,Gobustan Rock Art Cultural Landscape,戈布斯坦岩石藝術文化景觀,C-AZE,40.125,49.375,cultural,2007
+WHS-1077,Takht-e Soleyman,塔赫特蘇萊曼,C-IRN,36.60389,47.235,cultural,2003
+WHS-1078,Jewish Quarter and St Procopius' Basilica in Třebíč,特熱比奇猶太社群及聖普羅科皮烏斯大教堂,C-CZE,49.21722,15.87889,cultural,2003
+WHS-1079,Franciscan Missions in the Sierra Gorda of Querétaro,克雷塔羅州的謝拉戈達的方濟會傳教區,C-MEX,21.20439,-99.46411,cultural,2003
+WHS-1081,Orkhon Valley Cultural Landscape,鄂爾渾河谷,C-MNG,47.47921,102.67848,cultural,2004
+WHS-1083,Three Parallel Rivers of Yunnan Protected Areas,雲南三江並流保護區,C-CHN,27.895,98.40639,natural,2003
+WHS-1084,"Royal Botanic Gardens, Kew",邱園,C-GBR,51.48194,-0.29403,cultural,2003
+WHS-1087,Town Hall and Roland on the Marketplace of Bremen,不来梅市政厅,C-DEU,53.07597,8.80747,cultural,2004
+WHS-1090,Monte San Giorgio,聖喬治山,C-ITA;C-CHE,45.88889,8.91389,natural,2003
+WHS-1091,Complex of Koguryo Tombs,高句麗墓葬群,C-PRK,38.86306,125.415,cultural,2004
+WHS-1093,Um er-Rasas (Kastrom Mefa'a),烏姆賴薩斯,C-JOR,31.50167,35.92056,cultural,2004
+WHS-1094,Purnululu National Park,波奴魯魯國家公園,C-AUS,-17.5,128.5,natural,2003
+WHS-1096,White City of Tel-Aviv – the Modern Movement,特拉維夫白城,C-ISR,32.07778,34.77417,cultural,2003
+WHS-1097,Ensemble of the Novodevichy Convent,新聖女修道院,C-RUS,55.72611,37.55508,cultural,2004
+WHS-1099,Mapungubwe Cultural Landscape,馬蓬古布韋,C-ZAF,-22.1925,29.23889,cultural,2003
+WHS-1100,Rio de Janeiro: Carioca Landscapes between the Mountain and the Sea,,C-BRA,-22.94778,-43.29139,cultural,2012
+WHS-1101,Champaner-Pavagadh Archaeological Park,尚龐–巴瓦加德考古公園,C-IND,22.48333,73.53333,cultural,2004
+WHS-1102,Saryarka – Steppe and Lakes of Northern Kazakhstan,,C-KAZ,50.43333,69.18889,natural,2008
+WHS-1103,Mausoleum of Khoja Ahmed Yasawi,霍賈·艾哈邁德·亞薩維陵墓,C-KAZ,43.29769,68.27106,cultural,2003
+WHS-1106,Pasargadae,帕薩爾加德,C-IRN,30.19383,53.16729,cultural,2004
+WHS-1107,Incense Route - Desert Cities in the Negev,薰香之路——內蓋夫的沙漠城鎮,C-ISR,30.57389,35.00917,cultural,2005
+WHS-1108,"Biblical Tels - Megiddo, Hazor, Beer Sheba",米吉多、夏瑣和基色聖地,C-ISR,32.59722,35.18222,cultural,2005
+WHS-1110,Historic Centre of Macao,媽閣廟,C-CHN,22.19129,113.53646,cultural,2005
+WHS-1111,Cultural Landscape of Honghe Hani Rice Terraces,,C-CHN,23.09328,102.77998,cultural,2013
+WHS-1112,Kaiping Diaolou and Villages,開平碉樓文化旅遊區,C-CHN,22.28552,112.56586,cultural,2007
+WHS-1113,Fujian Tulou,福建土樓,C-CHN,25.02306,117.68583,cultural,2008
+WHS-1114,Yin Xu,殷墟,C-CHN,36.12667,114.31389,cultural,2006
+WHS-1115,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,新喀里多尼亞潟湖：礁石多樣性和相關生態系統,C-FRA,-20.41194,164.56639,natural,2008
+WHS-1116,Quebrada de Humahuaca,塔夫拉達•德烏瑪瓦卡,C-ARG,-23.19986,-65.34886,cultural,2003
+WHS-1117,Landscape of the Pico Island Vineyard Culture,皮庫島葡萄園文化的景觀,C-PRT,38.51344,-28.54117,cultural,2004
+WHS-1118,Osun-Osogbo Sacred Grove,奧孫-奧索博神樹林,C-NGA,7.75556,4.55222,cultural,2005
+WHS-1121,Coffee Cultural Landscape of Colombia,哥倫比亞咖啡文化景觀,C-COL,4.88948,-75.77308,cultural,2011
+WHS-1127,Muskauer Park / Park Mużakowski,穆斯考爾公園,C-POL;C-DEU,51.54765,14.72939,cultural,2004
+WHS-1130,Ashur (Qal'at Sherqat),亞述古城,C-IRQ,35.45667,43.26111,cultural,2003
+WHS-1131,Royal Exhibition Building and Carlton Gardens,皇家展覽館和卡爾頓園林,C-AUS,-37.80611,144.97028,cultural,2004
+WHS-1133,Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe,喀爾巴阡山脈及歐洲其它地區的原始山毛櫸林,C-MKD;C-ESP;C-ITA;C-FRA;C-POL;C-ALB;C-AUT;C-BEL;C-HRV;C-ROU;C-UKR;C-BGR;C-SVN;C-SVK;C-CHE;C-BIH;C-DEU;C-CZE,48.9,22.18333,natural,2007
+WHS-1134,"Grimeton Radio Station, Varberg",瓦爾貝里廣播電台,C-SWE,57.1,12.38333,cultural,2004
+WHS-1135,Capital Cities and Tombs of the Ancient Koguryo Kingdom,高句麗王城、王陵及貴族墓葬,C-CHN,41.15694,126.18722,cultural,2004
+WHS-1136,Luis Barragán House and Studio,路易斯•巴拉幹故居和工作室,C-MEX,19.4112,-99.19235,cultural,2004
+WHS-1137,Kernavė Archaeological Site (Cultural Reserve of Kernavė),克拿維考古遺址（克拿維文化保護區）,C-LTU,54.879,24.853,cultural,2004
+WHS-1138,Coiba National Park and its Special Zone of Marine Protection,柯義巴島國家公園及其海洋特別保護區,C-PAN,7.433,-81.766,natural,2005
+WHS-1139,Tomb of Askia,阿斯基亞陵,C-MLI,16.2898,-0.04456,cultural,2004
+WHS-1140,"Koutammakou, the Land of the Batammariba",古帕瑪庫，巴塔馬利巴人之地,C-TGO;C-BEN,10.14808,1.10022,cultural,2004
+WHS-1141,Proto-urban Site of Sarazm,薩拉子目,C-TJK,39.50789,67.45872,cultural,2010
+WHS-1142,Sacred Sites and Pilgrimage Routes in the Kii Mountain Range,紀伊山地的聖地與參拜道,C-JPN,33.83694,135.77639,cultural,2004
+WHS-1143,Vegaøyan – The Vega Archipelago,維加群島,C-NOR,65.61667,11.75,cultural,2004
+WHS-1145,Petroglyphs of the Archaeological Landscape of Tanbaly,泰姆格里考古景觀巖刻,C-KAZ,43.80333,75.535,cultural,2004
+WHS-1147,Ecosystem and Relict Cultural Landscape of Lopé-Okanda,洛佩──奧坎德生態系統與文化遺蹟景觀,C-GAB,-0.5,11.5,mixed,2007
+WHS-1149,Ilulissat Icefjord,伊路利薩特冰灣,C-DNK,69.13333,-49.5,natural,2004
+WHS-1152,Þingvellir National Park,辛格韋德利,C-ISL,64.25381,-21.03725,cultural,2004
+WHS-1153,"The Causses and the Cévennes, Mediterranean agro-pastoral Cultural Landscape",喀斯和塞文，地中海農牧文化景觀,C-FRA,44.22028,3.47306,cultural,2011
+WHS-1155,Old town of Regensburg with Stadtamhof,德國多瑙河畔“雷根斯堡舊城”,C-DEU,49.02056,12.09917,cultural,2006
+WHS-1158,Etruscan Necropolises of Cerveteri and Tarquinia,塞爾維托里和塔爾奎尼亞的伊特魯立亞人公墓,C-ITA,42.00683,12.10189,cultural,2004
+WHS-1160,Madriu-Perafita-Claror Valley,馬德留-佩拉菲塔-克拉羅爾谷,C-AND,42.49472,1.59556,cultural,2004
+WHS-1161,Pitons Management Area,皮通山保護區,C-LCA,13.80708,-61.07036,natural,2004
+WHS-1162,Vredefort Dome,弗里德堡隕石坑,C-ZAF,-26.86,27.26,natural,2005
+WHS-1165,Centennial Hall in Wrocław,百年廳,C-POL,51.10695,17.07701,cultural,2006
+WHS-1167,Tropical Rainforest Heritage of Sumatra,蘇門答臘熱帶雨林,C-IDN,-2.5,101.5,natural,2004
+WHS-1170,Historical Centre of the City of Yaroslavl,雅羅斯拉夫爾城的歷史中心,C-RUS,57.65278,39.87611,cultural,2005
+WHS-1174,Chiribiquete National Park – “The Maloca of the Jaguar”,奇裡比克特國家公園，“美洲豹的居所”,C-COL,0.52528,-72.79722,mixed,2018
+WHS-1178,Humberstone and Santa Laura Saltpeter Works,亨伯斯通和聖勞拉硝石採石場,C-CHL,-20.20582,-69.79406,cultural,2005
+WHS-1179,Swiss Tectonic Arena Sardona,薩多納地質結構區,C-CHE,46.91667,9.25,natural,2008
+WHS-1181,"Le Havre, the City Rebuilt by Auguste Perret",勒阿弗爾，奧古斯特•佩雷重建之城,C-FRA,49.49278,0.1075,cultural,2005
+WHS-1182,Islands and Protected Areas of the Gulf of California,加利福尼亞灣群島及保護區,C-MEX,27.62667,-112.54583,natural,2005
+WHS-1183,Kondoa Rock-Art Sites,孔多阿巖畫遺址,C-TZA,-4.72444,35.83389,cultural,2006
+WHS-1185,Plantin-Moretus House-Workshops-Museum Complex,帕拉丁莫瑞圖斯工場－博物館建築群,C-BEL,51.21833,4.39778,cultural,2005
+WHS-1186,Wadi Al-Hitan (Whale Valley),鯨魚谷,C-EGY,29.33333,30.18333,natural,2005
+WHS-1187,Struve Geodetic Arc,斯特魯維測地弧,C-LVA;C-NOR;C-SWE;C-BLR;C-EST;C-FIN;C-UKR;C-LTU;C-MDA;C-RUS,59.05778,26.33778,cultural,2005
+WHS-1188,Soltaniyeh,蘇丹尼葉城,C-IRN,36.43528,48.79667,cultural,2005
+WHS-1189,"Harar Jugol, the Fortified Historic Town",歷史要塞城市哈勒爾,C-ETH,9.30889,42.13778,cultural,2006
+WHS-1192,Qal’at al-Bahrain – Ancient Harbour and Capital of Dilmun,巴林貿易港考古遺址,C-BHR,26.23306,50.52722,cultural,2005
+WHS-1193,Shiretoko,知床半島,C-JPN,43.94944,144.96583,natural,2005
+WHS-1194,Cultural Landscape of Bali Province: the Subak System as a Manifestation of the Tri Hita Karana Philosophy,,C-IDN,-8.25917,115.40278,cultural,2012
+WHS-1195,West Norwegian Fjords – Geirangerfjord and Nærøyfjord,挪威西峽灣-蓋朗厄爾峽灣和納柔依峽灣,C-NOR,62.11667,7.16667,natural,2005
+WHS-1196,"Architectural, Residential and Cultural Complex of the Radziwill Family at Nesvizh",涅斯維日城堡,C-BLR,53.22278,26.69139,cultural,2005
+WHS-1199,Kunya-Urgench,庫尼亞－烏爾根奇,C-TKM,42.18318,59.08494,cultural,2005
+WHS-1200,Syracuse and the Rocky Necropolis of Pantalica,錫拉庫扎和潘塔立克石墓群,C-ITA,37.05944,15.29306,cultural,2005
+WHS-1201,Mount Mulanje Cultural Landscape,姆蘭傑山文化景觀,C-MWI,-15.91167,35.65806,cultural,2025
+WHS-1202,Urban Historic Centre of Cienfuegos,西恩富戈斯古城,C-CUB,22.14589,-80.45218,cultural,2005
+WHS-1203,Central Highlands of Sri Lanka,斯里蘭卡中部高地,C-LKA,7.45245,80.8021,natural,2010
+WHS-1207,Aflaj Irrigation Systems of Oman,阿曼的阿夫拉賈灌溉體系,C-OMN,22.99889,57.53606,cultural,2006
+WHS-1208,Bam and its Cultural Landscape,巴姆城及其文化景觀,C-IRN,29.11683,58.36667,cultural,2004
+WHS-1209,Agave Landscape and Ancient Industrial Facilities of Tequila,龍舌蘭景觀和特基拉的古代工業設施,C-MEX,20.86306,-103.77861,cultural,2006
+WHS-1211,Genoa: Le Strade Nuove and the system of the Palazzi dei Rolli,熱那亞的新街和羅利宮殿體系,C-ITA,44.412,8.93,cultural,2006
+WHS-1213,"Sichuan Giant Panda Sanctuaries - Wolong, Mt Siguniang and Jiajin Mountains",四川大熊貓棲息地,C-CHN,30.83333,103.0,natural,2006
+WHS-1214,Sewell Mining Town,蘇埃爾,C-CHL,-34.08444,-70.38278,cultural,2006
+WHS-1215,Cornwall and West Devon Mining Landscape,康沃爾和西德文礦區景觀,C-GBR,50.13611,-5.38361,cultural,2006
+WHS-1216,Malpelo Fauna and Flora Sanctuary,馬爾佩洛島動植物保護區,C-COL,4.00334,-81.60757,natural,2006
+WHS-1217,Vizcaya Bridge,比斯開橋,C-ESP,43.32317,-3.01683,cultural,2006
+WHS-1220,Bahá’i Holy Places in Haifa and the Western Galilee,海法和西加利利的巴海聖地,C-ISR,32.8294,34.97165,cultural,2008
+WHS-1221,Rideau Canal,麗都運河,C-CAN,44.99439,-75.76512,cultural,2007
+WHS-1222,Bisotun,貝希斯敦銘文,C-IRN,34.38833,47.43667,cultural,2006
+WHS-1223,"Melaka and George Town, Historic Cities of the Straits of Malacca",馬六甲海峽歷史城市,C-MYS,5.42139,100.34583,cultural,2008
+WHS-1224,Temple of Preah Vihear,,C-KHM,14.39084,104.68032,cultural,2008
+WHS-1225,Ruins of Loropéni,,C-BFA,10.25002,-3.58334,cultural,2009
+WHS-1226,Stone Circles of Senegambia,塞內甘比亞石圈,C-GMB;C-SEN,13.69111,-15.5225,cultural,2006
+WHS-1227,Aapravasi Ghat,阿普拉瓦西•加特地區,C-MUS,-20.15864,57.50317,cultural,2006
+WHS-1229,Crac des Chevaliers and Qal’at Salah El-Din,武士堡和薩拉丁堡,C-SYR,34.75667,36.29444,cultural,2006
+WHS-1230,Sulaiman-Too Sacred Mountain,蘇萊曼山,C-KGZ,40.53111,72.78278,cultural,2009
+WHS-1231,Sacred Mijikenda Kaya Forests,,C-KEN,-3.93194,39.59611,cultural,2008
+WHS-1234,Putorana Plateau,普托拉納高原,C-RUS,69.04694,94.15806,natural,2010
+WHS-1236,León Cathedral,萊昂大教堂,C-NIC,12.435,-86.87806,cultural,2011
+WHS-1237,The Dolomites,,C-ITA,46.61306,12.16306,natural,2009
+WHS-1239,Berlin Modernism Housing Estates,柏林現代主義住宅區,C-DEU,52.44833,13.45,cultural,2008
+WHS-1240,Stari Grad Plain,,C-HRV,43.18167,16.63861,cultural,2008
+WHS-1242,Parthian Fortresses of Nisa,尼薩,C-TKM,37.99972,58.19861,cultural,2007
+WHS-1243,"Lavaux, Vineyard Terraces",拉沃葡萄園梯田,C-CHE,46.49194,6.74611,cultural,2007
+WHS-1245,San Marino Historic Centre and Mount Titano,,C-SMR,43.93278,12.45194,cultural,2008
+WHS-1246,Iwami Ginzan Silver Mine and its Cultural Landscape,石見銀山遺蹟及其文化景觀,C-JPN,35.11278,132.435,cultural,2007
+WHS-1248,South China Karst,中國南方喀斯特,C-CHN,24.92333,110.35444,natural,2007
+WHS-1250,Central University City Campus of the Universidad Nacional Autónoma de México (UNAM),大學城中心校園,C-MEX,19.33222,-99.18806,cultural,2007
+WHS-1252,Tajik National Park (Mountains of the Pamirs),,C-TJK,38.765,72.30528,natural,2013
+WHS-1253,"Gamzigrad-Romuliana, Palace of Galerius",賈姆濟格勒－羅慕利亞納的加萊裡烏斯宮,C-SRB,43.89931,22.18611,cultural,2007
+WHS-1255,Twyfelfontein or /Ui-//aes,推菲爾泉,C-NAM,-20.597,14.376,cultural,2007
+WHS-1256,"Bordeaux, Port of the Moon",月亮港,C-FRA,44.83889,-0.57222,cultural,2007
+WHS-1257,Rainforests of the Atsinanana,阿欽安阿納雨林,C-MDG,-14.45972,49.7025,natural,2007
+WHS-1258,Teide National Park,泰德國家公園,C-ESP,28.27139,-16.64361,natural,2007
+WHS-1259,Le Morne Cultural Landscape,莫納山,C-MUS,-20.45194,57.32833,cultural,2008
+WHS-1260,Mehmed Paša Sokolović Bridge in Višegrad,穆罕默德·帕夏·索科洛維奇橋,C-BIH,43.78144,19.28803,cultural,2007
+WHS-1262,Armenian Monastic Ensembles of Iran,伊朗的亞美尼亞隱修院集合體,C-IRN,38.97889,45.47333,cultural,2008
+WHS-1263,Socotra Archipelago,,C-YEM,12.5,53.83333,natural,2008
+WHS-1264,Jeju Volcanic Island and Lava Tubes,濟州火山島和熔巖洞,C-KOR,33.46889,126.72028,natural,2007
+WHS-1265,Richtersveld Cultural and Botanical Landscape,理查德斯維德文化植物景觀,C-ZAF,-28.6,17.20389,cultural,2007
+WHS-1267,Surtsey,敘爾特塞島,C-ISL,63.30306,-20.60222,natural,2008
+WHS-1268,Historic Centre of Agadez,,C-NER,16.97361,7.99139,cultural,2013
+WHS-1269,Sacred City of Caral-Supe,,C-PER,-10.89167,-77.52139,cultural,2009
+WHS-1270,Historic Centre of Camagüey,,C-CUB,21.37861,-77.91861,cultural,2008
+WHS-1272,São Francisco Square in the Town of São Cristóvão,聖克里斯托旺的聖弗朗西斯科廣場,C-BRA,-11.01366,-37.20537,cultural,2010
+WHS-1273,Wooden Churches of the Slovak part of the Carpathian Mountain Area,,C-SVK,49.33611,19.55833,cultural,2008
+WHS-1274,Protective town of San Miguel and the Sanctuary of Jesús Nazareno de Atotonilco,,C-MEX,20.91444,-100.74639,cultural,2008
+WHS-1276,Rhaetian Railway in the Albula / Bernina Landscapes,,C-ITA;C-CHE,46.49833,9.84639,cultural,2008
+WHS-1277,"Hiraizumi – Temples, Gardens and Archaeological Sites Representing the Buddhist Pure Land",平泉——象徵著佛教淨土的廟宇、園林與考古遺址,C-JPN,39.00111,141.10778,cultural,2011
+WHS-1278,Historic Monuments and Sites in Kaesong,,C-PRK,37.98167,126.50806,cultural,2013
+WHS-1279,Mount Wutai,五臺山,C-CHN,39.03056,113.56333,cultural,2009
+WHS-1280,Chief Roi Mata’s Domain,洛伊·瑪塔酋長的領地,C-VUT,-17.62807,168.17772,cultural,2008
+WHS-1282,Decorated Farmhouses of Hälsingland,,C-SWE,61.70722,16.19583,cultural,2012
+WHS-1283,Fortifications of Vauban,,C-FRA,47.23611,6.02694,cultural,2008
+WHS-1285,Joggins Fossil Cliffs,,C-CAN,45.70972,-64.43583,natural,2008
+WHS-1287,Mantua and Sabbioneta,,C-ITA,45.15944,10.79444,cultural,2008
+WHS-1290,Monarch Butterfly Biosphere Reserve,莫那其蝴蝶生物圈保護區,C-MEX,19.60639,-100.24167,natural,2008
+WHS-1292,Mount Sanqingshan National Park,三清山,C-CHN,28.91583,118.06444,natural,2008
+WHS-1293,Hegra Archaeological Site (al-Hijr / Madā ͐ in Ṣāliḥ),,C-SAU,26.78361,37.955,cultural,2008
+WHS-1295,"Fort Jesus, Mombasa",蒙巴薩的耶穌堡,C-KEN,-4.06278,39.67944,cultural,2011
+WHS-1298,Stoclet House,,C-BEL,50.835,4.41611,cultural,2009
+WHS-1299,Lena Pillars Nature Park,勒那河柱狀巖自然公園,C-RUS,60.66667,127.0,natural,2012
+WHS-1302,"La Chaux-de-Fonds / Le Locle, Watchmaking Town Planning",,C-CHE,47.10389,6.83278,cultural,2009
+WHS-1303,Pontcysyllte Aqueduct and Canal,,C-GBR,52.97028,-3.08778,cultural,2009
+WHS-1305,Historic Monuments of Dengfeng in “The Centre of Heaven and Earth”,登封「天地之中」歷史建築群,C-CHN,34.45875,113.06772,cultural,2010
+WHS-1306,Australian Convict Sites,澳大利亞監獄遺址,C-AUS,-33.37833,150.99444,cultural,2010
+WHS-1308,Paraty and Ilha Grande – Culture and Biodiversity,帕拉蒂和格蘭德島-文化與生物多樣性,C-BRA,-23.01861,-44.68537,mixed,2019
+WHS-1310,"Cidade Velha, Historic Centre of Ribeira Grande",韋利亞城,C-CPV,14.91514,-23.60519,cultural,2009
+WHS-1312,Tower of Hercules,埃庫萊斯塔,C-ESP,43.38583,-8.40639,cultural,2009
+WHS-1313,Heritage of Mercury. Almadén and Idrija,,C-ESP;C-SVN,38.77528,-4.83889,cultural,2012
+WHS-1314,Wadden Sea,,C-DNK;C-NLD;C-DEU,53.52861,8.55611,natural,2009
+WHS-1315,Shushtar Historical Hydraulic System,,C-IRN,32.01861,48.83583,cultural,2009
+WHS-1317,"Pitons, cirques and remparts of Reunion Island",留尼汪的皮通斯、環谷和環壁,C-FRA,-21.09944,55.48,natural,2010
+WHS-1318,Longobards in Italy. Places of the Power (568-774 A.D.),意大利倫巴底：權力之地,C-ITA,46.09417,13.43306,cultural,2011
+WHS-1319,Royal Tombs of the Joseon Dynasty,朝鮮王陵,C-KOR,37.19722,128.45278,cultural,2009
+WHS-1321,"The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement",,C-IND;C-JPN;C-FRA;C-BEL;C-CHE;C-ARG;C-DEU,46.46841,6.82934,cultural,2016
+WHS-1322,Historic Town of Grand-Bassam,,C-CIV,5.19583,-3.73639,cultural,2012
+WHS-1324,Historic Villages of Korea: Hahoe and Yangdong,韓國曆史村落：河回村和良洞村,C-KOR,36.53917,128.51667,cultural,2010
+WHS-1325,Phoenix Islands Protected Area,菲尼克斯群島保護區域,C-KIR,-3.86445,-172.6502,natural,2010
+WHS-1326,Papahānaumokuākea,帕帕哈瑙莫誇基亞國家海洋保護區,C-USA,25.34907,-170.14582,mixed,2010
+WHS-1328,Central Sector of the Imperial Citadel of Thang Long - Hanoi,昇龍皇城,C-VNM,21.03752,105.83862,cultural,2010
+WHS-1329,At-Turaif District in ad-Dir'iyah,德拉伊耶遺址的阿圖賴夫區,C-SAU,24.73413,46.57247,cultural,2010
+WHS-1330,Residence of Bukovinian and Dalmatian Metropolitans,布科維納與達爾馬提亞的城市民居,C-UKR,48.29667,25.92472,cultural,2011
+WHS-1333,Konso Cultural Landscape,孔索文化景觀,C-ETH,5.3,37.4,cultural,2011
+WHS-1334,West Lake Cultural Landscape of Hangzhou,杭州西湖文化景觀,C-CHN,30.2375,120.14083,cultural,2011
+WHS-1335,China Danxia,中國丹霞,C-CHN,28.42194,106.0425,natural,2010
+WHS-1336,Archaeological Sites of the Island of Meroe,麥羅埃島考古遺址,C-SDN,16.93333,33.71667,cultural,2011
+WHS-1337,Episcopal City of Albi,阿爾比市的主教舊城,C-FRA,43.92917,2.14417,cultural,2010
+WHS-1338,"The Jantar Mantar, Jaipur",簡塔•曼塔天文臺,C-IND,26.92472,75.825,cultural,2010
+WHS-1339,Bikini Atoll Nuclear Test Site,比基尼環礁,C-MHL,11.6,165.38056,cultural,2010
+WHS-1342,Western Ghats,,C-IND,8.52972,77.24972,natural,2012
+WHS-1343,"Cultural Sites of Al Ain (Hafit, Hili, Bidaa Bint Saud and Oases Areas)",艾恩文化遺址：哈菲特、西里、比達-賓特-沙特以及綠洲,C-ARE,24.06778,55.80639,cultural,2011
+WHS-1344,Major Mining Sites of Wallonia,,C-BEL,50.43528,3.83833,cultural,2012
+WHS-1345,Sheikh Safi al-din Khānegāh and Shrine Ensemble in Ardabil,謝赫·薩菲·丁汗那卡和聖地集合體,C-IRN,38.24861,48.29139,cultural,2010
+WHS-1346,Tabriz Historic Bazaar Complex,大不里士的集市區,C-IRN,38.08139,46.29306,cultural,2010
+WHS-1348,Ancient Villages of Northern Syria,敘利亞北部古村落群,C-SYR,36.33417,36.84417,cultural,2011
+WHS-1349,Seventeenth-Century Canal Ring Area of Amsterdam inside the Singelgracht,辛格爾運河以內的阿姆斯特丹17世紀同心圓型運河區,C-NLD,52.365,4.88778,cultural,2010
+WHS-1351,Camino Real de Tierra Adentro,皇家內陸大幹線,C-MEX,22.60806,-102.37917,cultural,2010
+WHS-1352,Prehistoric Caves of Yagul and Mitla in the Central Valley of Oaxaca,瓦哈卡州中央谷地的亞古爾與米特拉史前洞穴,C-MEX,16.95083,-96.42111,cultural,2010
+WHS-1356,Blue and John Crow Mountains,藍山和約翰·克羅山,C-JAM,18.0775,-76.57111,mixed,2015
+WHS-1358,Citadel of the Ho Dynasty,西都城,C-VNM,20.07806,105.60472,cultural,2011
+WHS-1359,Saloum Delta,,C-SEN,13.83528,-16.49861,cultural,2011
+WHS-1360,Nord-Pas de Calais Mining Basin,北部-加來海峽的採礦盆地,C-FRA,50.4625,3.54611,cultural,2012
+WHS-1361,"Historic Jeddah, the Gate to Makkah",歷史悠久的吉達，通往麥加之門,C-SAU,21.48389,39.1875,cultural,2014
+WHS-1362,Ogasawara Islands,小笠原群島,C-JPN,27.71833,142.09972,natural,2011
+WHS-1363,Prehistoric Pile Dwellings around the Alps,阿爾卑斯地區史前湖岸木樁建築,C-ITA;C-FRA;C-AUT;C-SVN;C-CHE;C-DEU,47.27833,8.2075,cultural,2011
+WHS-1364,"Pearling, Testimony of an Island Economy",,C-BHR,26.24128,50.61351,cultural,2012
+WHS-1366,Selimiye Mosque and its Social Complex,塞利米耶清真寺,C-TUR,41.67778,26.55944,cultural,2011
+WHS-1367,Garrison Border Town of Elvas and its Fortifications,,C-PRT,38.88062,-7.16332,cultural,2012
+WHS-1368,Fagus Factory in Alfeld,法古斯工廠,C-DEU,51.98389,9.81222,cultural,2011
+WHS-1369,Ningaloo Coast,甯格羅海岸,C-AUS,-22.5625,113.81028,natural,2011
+WHS-1370,Caves of Maresha and Bet-Guvrin in the Judean Lowlands as a Microcosm of the Land of the Caves,貝特古夫林國家公園,C-ISR,31.60111,34.9,cultural,2014
+WHS-1371,Cultural Landscape of the Serra de Tramuntana,特拉蒙塔那山區文化景觀,C-ESP,39.73083,2.69472,cultural,2011
+WHS-1372,The Persian Garden,波斯園林,C-IRN,30.16667,53.16667,cultural,2011
+WHS-1375,Santiniketan,桑蒂尼蓋登,C-IND,23.68028,87.68497,cultural,2023
+WHS-1376,Historic Bridgetown and its Garrison,布里奇敦及其軍事要塞,C-BRB,13.09667,-59.61389,cultural,2011
+WHS-1377,Wadi Rum Protected Area,拉姆乾谷,C-JOR,29.63972,35.43389,mixed,2011
+WHS-1379,Margravial Opera House Bayreuth,,C-DEU,49.94439,11.5785,cultural,2012
+WHS-1380,Sangha Trinational,,C-COG;C-CMR;C-CAF,2.60944,16.55417,natural,2012
+WHS-1382,Petroglyphic Complexes of the Mongolian Altai,阿爾泰山脈岩畫群,C-MNG,49.33389,88.39528,cultural,2011
+WHS-1386,Rock Islands Southern Lagoon,,C-PLW,7.24693,134.3525,mixed,2012
+WHS-1387,University of Coimbra – Alta and Sofia,,C-PRT,40.20781,-8.42577,cultural,2013
+WHS-1388,Chengjiang Fossil Site,澄江化石遺址,C-CHN,24.66889,102.97722,natural,2012
+WHS-1389,Site of Xanadu,元上都,C-CHN,42.358,116.18513,cultural,2012
+WHS-1390,Vineyard Landscape of Piedmont: Langhe-Roero and Monferrato,朗格—洛埃洛和蒙菲拉托的皮埃蒙特葡萄園景觀,C-ITA,44.60861,7.96361,cultural,2014
+WHS-1393,Sites of Human Evolution at Mount Carmel: The Nahal Me’arot / Wadi el-Mughara Caves,梅爾瓦特河原始保留區,C-ISR,32.66861,34.96806,cultural,2012
+WHS-1396,Archaeological Heritage of the Lenggong Valley,,C-MYS,5.06791,100.97233,cultural,2012
+WHS-1397,Masjed-e Jāmé of Isfahan,,C-IRN,32.66972,51.68528,cultural,2012
+WHS-1398,Gonbad-e Qābus,,C-IRN,37.25803,55.169,cultural,2012
+WHS-1399,Levuka Historical Port Town,,C-FJI,-17.68338,178.83453,cultural,2013
+WHS-1400,Lakes of Ounianga,,C-TCD,19.055,20.50556,natural,2012
+WHS-1401,"Rabat, Modern Capital and Historic City: a Shared Heritage",拉巴特,C-MAR,34.02417,-6.82278,cultural,2012
+WHS-1402,Al Zubarah Archaeological Site,,C-QAT,25.97806,51.02972,cultural,2013
+WHS-1403,Mount Hamiguitan Range Wildlife Sanctuary,,C-PHL,6.71717,126.17343,natural,2014
+WHS-1404,Landscape of Grand Pré,,C-CAN,45.11833,-64.30722,cultural,2012
+WHS-1405,Neolithic Site of Çatalhöyük,,C-TUR,37.66667,32.82806,cultural,2012
+WHS-1406,Great Himalayan National Park Conservation Area,,C-IND,31.83333,77.58333,natural,2014
+WHS-1407,"Bassari Country: Bassari, Fula and Bedik Cultural Landscapes",,C-SEN,12.59333,-12.84583,cultural,2012
+WHS-1410,El Pinacate and Gran Desierto de Altar Biosphere Reserve,,C-MEX,32.0,-113.91667,natural,2013
+WHS-1411,Ancient City of Tauric Chersonese and its Chora,,C-UKR,44.61083,33.49139,cultural,2013
+WHS-1412,Red Bay Basque Whaling Station,,C-CAN,51.72693,-56.42952,cultural,2013
+WHS-1413,Bergpark Wilhelmshöhe,,C-DEU,51.31583,9.39306,cultural,2013
+WHS-1414,Xinjiang Tianshan,,C-CHN,41.96833,80.35417,natural,2013
+WHS-1415,Pimachiowin Aki,皮瑪希旺·阿奇,C-CAN,51.82642,-95.41128,mixed,2018
+WHS-1416,Stevns Klint,,C-DNK,55.26722,12.42333,natural,2014
+WHS-1418,"Fujisan, sacred place and source of artistic inspiration",富士山-信仰的物件和藝術的源泉,C-JPN,35.36083,138.7275,cultural,2013
+WHS-1422,Golestan Palace,古列斯坦宮,C-IRN,35.68037,51.42051,cultural,2013
+WHS-1423,Cultural Landscape of Maymand,梅滿德,C-IRN,30.16806,55.37556,cultural,2015
+WHS-1424,Wooden Tserkvas of the Carpathian Region in Poland and Ukraine,,C-POL;C-UKR,49.53389,21.03222,cultural,2013
+WHS-1425,"The Climats, terroirs of Burgundy",勃艮第的環境和風土,C-FRA,47.05806,4.86444,cultural,2015
+WHS-1426,"Decorated Cave of Pont d’Arc, known as Grotte Chauvet-Pont d’Arc, Ardèche",,C-FRA,44.3875,4.41611,cultural,2014
+WHS-1427,Mount Etna,,C-ITA,37.75611,14.99667,natural,2013
+WHS-1430,Namib Sand Sea,納米比沙漠,C-NAM,-24.88528,15.40778,natural,2013
+WHS-1431,Coastal and Marine Ecosystems of the Bijagós Archipelago – Omatí Minhô,比熱戈斯群島海岸與海洋生態系統——祖靈聖境,C-GNB,11.12,-15.94889,natural,2025
+WHS-1432,Okavango Delta,奧卡萬戈三角洲,C-BWA,-19.28333,22.9,natural,2014
+WHS-1433,"Birthplace of Jesus: Church of the Nativity and the Pilgrimage Route, Bethlehem",聖誕教堂,C-PSE,31.70435,35.2075,cultural,2012
+WHS-1434,Chaîne des Puys - Limagne fault tectonic arena,多姆山鏈，利馬涅斷層構造區,C-FRA,45.77939,2.96511,natural,2018
+WHS-1435,Monumental Earthworks of Poverty Point,貧點,C-USA,32.63694,-91.40639,cultural,2014
+WHS-1437,Erbil Citadel,埃爾比勒城堡,C-IRQ,36.19111,44.00917,cultural,2014
+WHS-1438,Trang An Landscape Complex,,C-VNM,20.25667,105.89639,mixed,2014
+WHS-1439,Namhansanseong,,C-KOR,37.47889,127.18111,cultural,2014
+WHS-1440,Great Burkhan Khaldun Mountain and its surrounding sacred landscape,布林罕和樂敦聖山及其周圍景觀,C-MNG,48.76198,109.00933,cultural,2015
+WHS-1441,Van Nellefabriek,,C-NLD,51.92444,4.4325,cultural,2014
+WHS-1442,Silk Roads: the Routes Network of Chang'an-Tianshan Corridor,,C-CHN;C-KGZ;C-KAZ,34.30444,108.85722,cultural,2014
+WHS-1443,The Grand Canal,大運河,C-CHN,34.69389,112.46833,cultural,2014
+WHS-1444,Pyu Ancient Cities,,C-MMR,22.47,95.81861,cultural,2014
+WHS-1446,Baptism Site “Bethany Beyond the Jordan” (Al-Maghtas),,C-JOR,31.83722,35.55278,cultural,2015
+WHS-1447,Carolingian Westwork and Civitas Corvey,,C-DEU,51.77828,9.41025,cultural,2014
+WHS-1448,Landscapes of Dauria,,C-MNG;C-RUS,49.93022,115.42544,natural,2017
+WHS-1449,Tomioka Silk Mill and Related Sites,,C-JPN,36.25528,138.88778,cultural,2014
+WHS-1450,Thimlich Ohinga Archaeological Site,西穆裡奇定居點考古遺址,C-KEN,-0.89134,34.32611,cultural,2018
+WHS-1452,Bursa and Cumalıkızık: the Birth of the Ottoman Empire,,C-TUR,40.18473,29.06234,cultural,2014
+WHS-1453,Precolumbian Chiefdom Settlements with Stone Spheres of the Diquís,,C-CRI,8.93845,-83.50254,cultural,2014
+WHS-1455,Susa,蘇薩,C-IRN,32.18944,48.25611,cultural,2015
+WHS-1456,Shahr-i Sokhta,被焚燒的城市,C-IRN,30.59389,61.32778,cultural,2014
+WHS-1457,Pergamon and its Multi-Layered Cultural Landscape,,C-TUR,39.12583,27.18,cultural,2014
+WHS-1459,"Qhapaq Ñan, Andean Road System",印加路網,C-PER;C-CHL;C-ECU;C-COL;C-ARG;C-BOL,-18.25,-69.59167,cultural,2014
+WHS-1461,Kaeng Krachan Forest Complex,崗卡章森林保護區,C-THA,12.86567,99.40017,natural,2021
+WHS-1463,Aqueduct of Padre Tembleque Hydraulic System,騰布里克神父水道橋水利設施,C-MEX,19.83528,-98.66257,cultural,2015
+WHS-1464,Fray Bentos Industrial Landscape,弗萊本託斯文化工業景區,C-URY,-33.11778,-58.33167,cultural,2015
+WHS-1465,"Champagne Hillsides, Houses and Cellars",香檳山區，房屋以及酒窖,C-FRA,49.0775,3.94611,cultural,2015
+WHS-1466,San Antonio Missions,聖安多里奧修道院,C-USA,29.32806,-98.46,cultural,2015
+WHS-1467,Speicherstadt and Kontorhaus District with Chilehaus,倉庫城，康托爾豪斯區和智利屋,C-DEU,53.54556,9.99944,cultural,2015
+WHS-1468,Moravian Church Settlements,摩拉維亞居留區,C-DNK;C-USA;C-GBR;C-DEU,55.35556,9.48139,cultural,2015
+WHS-1469,The par force hunting landscape in North Zealand,北西蘭島的帕爾佛斯狩獵地景觀,C-DNK,55.91361,12.35778,cultural,2015
+WHS-1470,Naumburg Cathedral,瑙姆堡大教堂,C-DEU,51.15481,11.804,cultural,2018
+WHS-1471,Necropolis of Bet She’arim: A Landmark of Jewish Renewal,貝特沙瑞姆大型公墓—猶太復興中心,C-ISR,32.70222,35.12694,cultural,2015
+WHS-1472,Rock Art in the Hail Region of Saudi Arabia,沙烏地阿拉伯哈伊勒地區岩畫,C-SAU,28.01056,40.91306,cultural,2015
+WHS-1473,Brâncuși Monumental Ensemble of Târgu Jiu,特爾古日烏的布朗庫西組雕,C-ROU,45.03828,23.27878,cultural,2024
+WHS-1474,Tusi Sites,土司遺址,C-CHN,28.99861,109.96694,cultural,2015
+WHS-1475,Ennedi Massif: Natural and Cultural Landscape,恩內迪高原,C-TCD,17.04167,21.86278,mixed,2016
+WHS-1477,Baekje Historic Areas,百濟遺址區,C-KOR,36.46194,127.12722,cultural,2015
+WHS-1478,Erzgebirge/Krušnohoří Mining Region,厄爾士/克魯什內山脈礦區,C-DEU;C-CZE,50.40653,12.83734,cultural,2019
+WHS-1480,Victorian Gothic and Art Deco Ensembles of Mumbai,孟買維多利亞的哥特式和藝術裝飾合奏,C-IND,18.92981,72.83008,cultural,2018
+WHS-1481,The Ahwar of Southern Iraq: Refuge of Biodiversity and the Relict Landscape of the Mesopotamian Cities,伊拉克南部Ahwar：生态多样性避难所和美索不达米亚城市遺跡景观,C-IRQ,31.56222,47.65778,mixed,2016
+WHS-1483,Singapore Botanic Gardens,新加坡植物園,C-SGP,1.31528,103.81611,cultural,2015
+WHS-1484,"Sites of Japan’s Meiji Industrial Revolution: Iron and Steel, Shipbuilding and Coal Mining",明治工業革命遺蹟：鋼鐵、造船和煤礦,C-JPN,34.43056,131.41222,cultural,2015
+WHS-1485,The Forth Bridge,福斯橋,C-GBR,56.00111,-3.38889,cultural,2015
+WHS-1486,Rjukan-Notodden Industrial Heritage Site,留坎-諾托登工業遺址,C-NOR,59.87861,8.59361,cultural,2015
+WHS-1487,Arab-Norman Palermo and the Cathedral Churches of Cefalú and Monreale,,C-ITA,38.11083,13.35306,cultural,2015
+WHS-1488,Diyarbakır Fortress and Hevsel Gardens Cultural Landscape,迪亞巴克要塞和哈烏塞爾花園文化景觀,C-TUR,37.9031,40.23931,cultural,2015
+WHS-1490,Western Tien-Shan,西部天山,C-KGZ;C-KAZ;C-UZB,43.71833,68.67889,natural,2016
+WHS-1492,"Palestine: Land of Olives and Vines – Cultural Landscape of Southern Jerusalem, Battir",,C-PSE,31.71639,35.15889,cultural,2014
+WHS-1493,Pampulha Modern Ensemble,,C-BRA,-19.85194,-43.97361,cultural,2016
+WHS-1495,Hidden Christian Sites in the Nagasaki Region,長崎教會群及基督教關聯遺產,C-JPN,32.80222,128.90389,cultural,2018
+WHS-1496,The 20th-Century Architecture of Frank Lloyd Wright,弗蘭克·勞埃德·賴特的20世紀建築作品,C-USA,39.90557,-79.46648,cultural,2019
+WHS-1497,Mistaken Point,米斯塔肯角生態保護區,C-CAN,46.635,-53.21111,natural,2016
+WHS-1498,"Seowon, Korean Neo-Confucian Academies",韓國新儒學書院,C-KOR,36.7273,128.84343,cultural,2019
+WHS-1499,Antigua Naval Dockyard and Related Archaeological Sites,,C-ATG,17.00694,-61.76167,cultural,2016
+WHS-1500,Gorham's Cave Complex,,C-GBR,36.12267,-5.34206,cultural,2016
+WHS-1501,Antequera Dolmens Site,,C-ESP,37.025,-4.54444,cultural,2016
+WHS-1502,"Archaeological Site of Nalanda Mahavihara at Nalanda, Bihar",那爛陀寺,C-IND,25.13667,85.44389,cultural,2016
+WHS-1503,Nan Madol: Ceremonial Centre of Eastern Micronesia,南馬都爾,C-FSM,6.83972,158.33083,cultural,2016
+WHS-1504,Stećci Medieval Tombstone Graveyards,,C-SRB;C-HRV;C-MNE;C-BIH,43.09221,17.92405,cultural,2016
+WHS-1505,Lut Desert,盧特沙漠,C-IRN,30.21611,58.83889,natural,2016
+WHS-1506,The Persian Qanat,波斯坎兒井,C-IRN,34.29,58.65444,cultural,2016
+WHS-1507,"Phu Phrabat, a testimony to the Sīma stone tradition of the Dvaravati period",普普拉巴特歷史公園,C-THA,17.73106,102.35627,cultural,2024
+WHS-1508,Zuojiang Huashan Rock Art Cultural Landscape,左江花山岩畫文化景觀,C-CHN,22.25556,107.02306,cultural,2016
+WHS-1509,Hubei Shennongjia,湖北神農架,C-CHN,31.46972,110.20778,natural,2016
+WHS-1510,Archipiélago de Revillagigedo,雷維利亞希赫多群島,C-MEX,18.78806,-110.97528,natural,2016
+WHS-1511,"Mbanza Kongo, Vestiges of the Capital of the former Kingdom of Kongo",姆班扎剛果,C-AGO,-6.26889,14.24972,cultural,2017
+WHS-1513,Khangchendzonga National Park,金城章嘉國家公園,C-IND,27.76472,88.37722,mixed,2016
+WHS-1517,Archaeological Site of Philippi,腓立比,C-GRC,41.01472,24.28528,cultural,2016
+WHS-1518,Archaeological Site of Ani,阿尼,C-TUR,40.5,43.56667,cultural,2016
+WHS-1519,Aphrodisias,阿弗羅戴西亞斯,C-TUR,37.70833,28.72361,cultural,2017
+WHS-1523,Churches of the Pskov School of Architecture,普斯科夫學派教堂建築,C-RUS,57.80719,28.32856,cultural,2019
+WHS-1525,Assumption Cathedral and Monastery of the town-island of Sviyazhsk,,C-RUS,55.77028,48.65278,cultural,2017
+WHS-1526,Los Alerces National Park,,C-ARG,-42.8528,-71.8728,natural,2017
+WHS-1527,Caves and Ice Age Art in the Swabian Jura,位於施瓦本侏羅山的冰河時期最古老的藝術洞穴,C-DEU,48.38778,9.76556,cultural,2017
+WHS-1528,Talayotic Menorca,梅諾卡島塔拉約提克史前遺址,C-ESP,39.9975,3.90889,cultural,2023
+WHS-1529,Taputapuātea,,C-FRA,-16.8414,-151.37238,cultural,2017
+WHS-1532,"Temple Zone of Sambor Prei Kuk, Archaeological Site of Ancient Ishanapura",三博波雷古寺,C-KHM,12.8725,105.04306,cultural,2017
+WHS-1533,Venetian Works of Defence between the 16th and 17th Centuries: Stato da Terra – Western Stato da Mar,15至17世紀威尼斯共和國防禦工事,C-ITA;C-HRV;C-MNE,45.70333,9.66361,cultural,2017
+WHS-1534,Tehuacán-Cuicatlán Valley: originary habitat of Mesoamerica,特瓦坎-奎卡特蘭山谷：中部美洲的原始棲息地,C-MEX,17.98996,-97.18715,mixed,2018
+WHS-1535,Sacred Island of Okinoshima and Associated Sites in the Munakata Region,,C-JPN,34.245,130.10556,cultural,2017
+WHS-1536,Kujataa Greenland: Norse and Inuit Farming at the Edge of the Ice Cap,,C-DNK,61.16444,-45.59806,cultural,2017
+WHS-1537,Ancient City of Qalhat,蓋勒哈特,C-OMN,22.69522,59.37811,cultural,2018
+WHS-1538,"Ivrea, industrial city of the 20th century",20世紀工業城市伊夫雷亞,C-ITA,45.4575,7.86917,cultural,2018
+WHS-1539,Tarnowskie Góry Lead-Silver-Zinc Mine and its Underground Water Management System,,C-POL,50.4427,18.85123,cultural,2017
+WHS-1540,Qinghai Hoh Xil,可可西里,C-CHN,35.38028,92.43917,natural,2017
+WHS-1541,"Kulangsu, a Historic International Settlement",鼓浪嶼,C-CHN,24.4475,118.06194,cultural,2017
+WHS-1542,Dilmun Burial Mounds,迪爾穆恩墓葬群,C-BHR,26.14972,50.51278,cultural,2019
+WHS-1544,Historic City of Yazd,,C-IRN,31.90139,54.36917,cultural,2017
+WHS-1545,ǂKhomani Cultural Landscape,,C-ZAF,-25.68761,20.37458,cultural,2017
+WHS-1548,Valongo Wharf Archaeological Site,,C-BRA,-22.89711,-43.18739,cultural,2017
+WHS-1549,Historic Centre of Sheki with the Khan’s Palace,舍基,C-AZE,41.20333,47.1875,cultural,2019
+WHS-1550,Asmara: A Modernist African City,,C-ERI,15.33528,38.93583,cultural,2017
+WHS-1551,Historic City of Ahmadabad,亞美達巴德,C-IND,23.02639,72.58806,cultural,2017
+WHS-1552,Roșia Montană Mining Landscape,羅西亞蒙大拿礦業景觀,C-ROU,46.30611,23.13056,cultural,2021
+WHS-1553,Archaeological Border complex of Hedeby and the Danevirke,海澤比和達訥維克的考古邊境,C-DEU,54.46194,9.45411,cultural,2018
+WHS-1555,Colonies of Benevolence,慈善定居點,C-BEL;C-NLD,53.04222,6.39159,cultural,2021
+WHS-1557,Aasivissuit – Nipisat. Inuit Hunting Ground between Ice and Sea,冰與海之間的因紐特人狩獵場阿斯維斯尤特–尼皮薩特,C-DNK,67.06393,-51.43321,cultural,2018
+WHS-1558,Žatec and the Landscape of Saaz Hops,扎泰茨及薩茲啤酒花景觀,C-CZE,50.32028,13.62,cultural,2023
+WHS-1559,Fanjingshan,梵淨山,C-CHN,27.89556,108.68,natural,2018
+WHS-1560,Caliphate City of Medina Azahara,哈里發的阿爾扎哈拉古城,C-ESP,37.88589,-4.86769,cultural,2018
+WHS-1561,Quanzhou: Emporium of the World in Song-Yuan China,泉州：宋元中國的世界海洋商貿中心,C-CHN,24.71028,118.44417,cultural,2021
+WHS-1562,"Sansa, Buddhist Mountain Monasteries in Korea",山寺－韓國佛教名山寺院,C-KOR,36.54194,127.83333,cultural,2018
+WHS-1563,"Al-Ahsa Oasis, an Evolving Cultural Landscape",哈薩綠洲,C-SAU,25.40217,49.63057,cultural,2018
+WHS-1564,Tr’ondëk-Klondike,特朗代克-克朗代克,C-CAN,64.05035,-139.43995,cultural,2023
+WHS-1565,Hebron/Al-Khalil Old Town,,C-PSE,31.52444,35.10833,cultural,2017
+WHS-1567,Funerary and memory sites of the First World War (Western Front),第一次世界大戰（西線）的墓葬和紀念場所,C-FRA;C-BEL,,,cultural,2023
+WHS-1568,Sassanid Archaeological Landscape of Fars Region,法爾斯地區的薩珊王朝考古景觀,C-IRN,29.77748,51.57045,cultural,2018
+WHS-1569,The Maison Carrée of Nîmes,尼姆方形神殿,C-FRA,43.83822,4.35619,cultural,2023
+WHS-1570,"Kakatiya Rudreshwara (Ramappa) Temple, Telangana",卡卡提亞王朝濕婆神廟,C-IND,18.25913,79.94321,cultural,2021
+WHS-1571,Le Colline del Prosecco di Conegliano e Valdobbiadene,科內利亞諾和瓦爾多比亞德內的普羅賽柯產地,C-ITA,45.95303,12.22611,cultural,2019
+WHS-1572,Göbekli Tepe,哥貝克力石陣,C-TUR,37.22324,38.92236,cultural,2018
+WHS-1573,"Royal Building of Mafra – Palace, Basilica, Convent, Cerco Garden and Hunting Park (Tapada)",馬伕拉皇室建築-宮殿、大教堂、修道院、塞爾科花園及塔帕達狩獵公園,C-PRT,38.93717,-9.32553,cultural,2019
+WHS-1574,"Amami-Oshima Island, Tokunoshima Island, Northern part of Okinawa Island, and Iriomote Island",奄美大島、德之島、沖繩島北部及西表島,C-JPN,28.27917,129.37833,natural,2021
+WHS-1575,Barberton Makhonjwa Mountains,巴伯頓瑪空瓦山脈,C-ZAF,-25.97389,31.01389,natural,2018
+WHS-1577,Budj Bim Cultural Landscape,布吉必姆文化景觀,C-AUS,-38.08111,141.88528,cultural,2019
+WHS-1578,Risco Caido and the Sacred Mountains of Gran Canaria Cultural Landscape,大加那利島文化景觀：里斯科卡伊多考古和聖山,C-ESP,28.04439,-15.66119,cultural,2019
+WHS-1580,Water Management System of Augsburg,奧格斯堡水利管理系統,C-DEU,48.36547,10.902,cultural,2019
+WHS-1581,"Beaches of the D-Day Landings, Normandy, 1944",1944年諾曼底登陸海灘,C-FRA,49.37085,-0.87959,cultural,2026
+WHS-1582,The Colonial Transisthmian Route of Panamá,殖民時期跨巴拿馬地峽通道,C-PAN,9.32317,-79.99977,cultural,2025
+WHS-1584,Hyrcanian Forests,希爾卡尼亞森林,C-AZE;C-IRN,37.42147,55.72428,natural,2019
+WHS-1585,Trans-Iranian Railway,縱貫伊朗鐵路,C-IRN,35.65831,51.39833,cultural,2021
+WHS-1586,"Memorial sites of the Genocide: Nyamata, Murambi, Gisozi and Bisesero",種族大屠殺紀念地：恩亞瑪塔、穆拉姆比、吉索茲和比瑟瑟羅,C-RWA,-2.45553,29.56772,cultural,2023
+WHS-1587,Megalithic Jar Sites in Xiengkhuang – Plain of Jars,川壙巨石缸遺址-石缸平原,C-LAO,19.43106,103.15222,cultural,2019
+WHS-1588,Bagan,蒲甘,C-MMR,21.14889,94.88444,cultural,2019
+WHS-1589,Landscape for Breeding and Training of Ceremonial Carriage Horses at Kladruby nad Labem,拉貝河畔克拉德魯比的儀式馬車用馬繁育與訓練景觀,C-CZE,50.05665,15.48426,cultural,2019
+WHS-1590,Sanctuary of Bom Jesus do Monte in Braga,山上仁慈耶穌朝聖所,C-PRT,41.55494,-8.37703,cultural,2019
+WHS-1591,"Getbol, Korean Tidal Flats",韓國灘塗,C-KOR,34.82882,126.10444,natural,2021
+WHS-1592,Archaeological Ruins of Liangzhu City,良渚古城遺址,C-CHN,30.39556,119.99083,cultural,2019
+WHS-1593,Mozu-Furuichi Kofun Group: Mounded Tombs of Ancient Japan,百舌鳥和古市古墳群：古日本墓葬群,C-JPN,34.56222,135.60944,cultural,2019
+WHS-1594,Jodrell Bank Observatory,卓瑞爾河岸天文台,C-GBR,53.23392,-2.30386,cultural,2019
+WHS-1595,The Archaeological Ensemble of 17th Century Port Royal,羅亞爾港,C-JAM,17.93861,-76.84338,cultural,2025
+WHS-1597,Writing-on-Stone / Áísínai’pi,阿伊斯奈皮石刻,C-CAN,49.075,-111.63333,cultural,2019
+WHS-1599,Krzemionki Prehistoric Striped Flint Mining Region,科舍米翁奇的史前條紋燧石礦區,C-POL,50.96797,21.50231,cultural,2019
+WHS-1602,Ancient Ferrous Metallurgy Sites of Burkina Faso,布吉納法索古冶鐵遺址,C-BFA,12.58776,-3.32899,cultural,2019
+WHS-1603,French Austral Lands and Seas,法屬南部領地和領海,C-FRA,-49.38036,69.35281,natural,2019
+WHS-1604,Vatnajökull National Park - Dynamic Nature of Fire and Ice,瓦特納冰川國家公園,C-ISL,64.57736,-16.88154,natural,2019
+WHS-1605,"Jaipur City, Rajasthan",齋浦爾,C-IND,26.92428,75.82186,cultural,2019
+WHS-1606,Migratory Bird Sanctuaries along the Coast of Yellow Sea-Bohai Gulf of China,中國黃（渤）海候鳥棲息地（第二期）,C-CHN,32.9319,121.0168,natural,2019
+WHS-1608,Frontiers of the Roman Empire – The Danube Limes (Western Segment),,C-AUT;C-SVK;C-DEU,48.115,16.861,cultural,2021
+WHS-1610,Ombilin Coal Mining Heritage of Sawahlunto,翁比林煤礦遺產,C-IDN,-0.76663,100.73788,cultural,2019
+WHS-1611,Lençóis Maranhenses National Park,倫索伊斯-馬拉年塞斯國家公園,C-BRA,-2.53667,-43.06361,natural,2024
+WHS-1612,The work of engineer Eladio Dieste: Church of Atlántida,工程師埃拉蒂奧·迪埃斯特的作品：阿特蘭蒂達教堂,C-URY,-34.74392,-55.76641,cultural,2021
+WHS-1613,The Great Spa Towns of Europe,歐洲溫泉療養勝地,C-ITA;C-FRA;C-AUT;C-BEL;C-GBR;C-DEU;C-CZE,50.49222,5.86694,cultural,2021
+WHS-1614,Mathildenhöhe Darmstadt,瑪蒂爾德藝術家村落,C-DEU,49.87639,8.6675,cultural,2021
+WHS-1616,Colchic Rainforests and Wetlands,科爾基斯雨林及溼地,C-GEO,41.70228,41.9512,natural,2021
+WHS-1618,"Paseo del Prado and Buen Retiro, a landscape of Arts and Sciences",普拉多大道和麗池公園，藝術與科學的景觀之地,C-ESP,40.41533,-3.68706,cultural,2021
+WHS-1619,Ḥimā Cultural Area,沙烏地阿拉伯希馬文化區,C-SAU,18.31671,44.54534,cultural,2021
+WHS-1620,Sítio Roberto Burle Marx,羅伯託·佈雷·馬克思莊園,C-BRA,-23.02238,-43.54622,cultural,2021
+WHS-1621,Deer Stone Monuments and Related Bronze Age Sites,鹿石遺蹟以及相關青銅時代遺址,C-MNG,47.74278,101.22583,cultural,2023
+WHS-1622,Arslantepe Mound,阿斯蘭特佩土丘,C-TUR,38.3822,38.36109,cultural,2021
+WHS-1623,Padua’s fourteenth-century fresco cycles,繪畫之都帕多瓦，喬託的斯克洛維尼禮拜堂及帕多瓦14世紀壁畫群,C-ITA,45.41189,11.87961,cultural,2021
+WHS-1624,Chankillo Archaeoastronomical Complex,長基羅天文古建遺址群,C-PER,-9.55686,-78.23592,cultural,2021
+WHS-1625,Cordouan Lighthouse,科爾杜昂燈塔,C-FRA,45.58631,-1.17333,cultural,2021
+WHS-1627,Cultural Heritage Sites of Ancient Khuttal,古骨咄的文化遺產地,C-TJK,37.74439,69.29871,cultural,2025
+WHS-1631,Frontiers of the Roman Empire – The Lower German Limes,羅馬帝國邊境--下日耳曼界牆,C-NLD;C-DEU,52.18033,4.433,cultural,2021
+WHS-1632,Jomon Prehistoric Sites in Northern Japan,北海道東北偏北繩文遺跡群,C-JPN,41.06556,140.55222,cultural,2021
+WHS-1633,The Slate Landscape of Northwest Wales,威爾士西北部的板岩景觀,C-GBR,53.12083,-4.115,cultural,2021
+WHS-1634,Settlement and Artificial Mummification of the Chinchorro Culture in the Arica and Parinacota Region,阿里卡和帕里納科塔地區的新克羅文化聚落及木乃伊製作,C-CHL,-18.48196,-70.32157,cultural,2021
+WHS-1635,"Nice, Winter Resort Town of the Riviera",裡維埃拉旅遊之都尼斯,C-FRA,43.70169,7.27231,cultural,2021
+WHS-1636,"ShUM Sites of Speyer, Worms and Mainz",施派爾、沃爾姆斯和美因茨的猶太社群遺址,C-DEU,49.31621,8.43954,cultural,2021
+WHS-1638,Badain Jaran Desert - Towers of Sand and Lakes,巴丹吉林沙漠,C-CHN,39.88972,102.28944,natural,2024
+WHS-1640,Djerba: Testimony to a settlement pattern in an island territory,傑爾巴島,C-TUN,33.79242,11.00396,cultural,2023
+WHS-1641,The Gedeo Cultural Landscape,蓋德奧文化景觀,C-ETH,6.24889,38.28778,cultural,2023
+WHS-1642,Mount Kumgang – Diamond Mountain from the Sea,金剛山——海上鑽石山,C-PRK,38.66028,128.1375,mixed,2025
+WHS-1643,The works of Jože Plečnik in Ljubljana – Human Centred Urban Design,盧布林雅那的約熱·普列赤涅克作品——以人為本的城市設計,C-SVN,46.04333,14.50222,cultural,2021
+WHS-1645,Dholavira: a Harappan City,多拉維拉：哈拉帕文明古城,C-IND,23.88841,70.2133,cultural,2021
+WHS-1647,Cultural Landscape of Hawraman/Uramanat,豪拉曼/烏拉瑪納特文化景觀,C-IRN,35.10736,46.47785,cultural,2021
+WHS-1648,Sudanese style mosques in northern Côte d’Ivoire,象牙海岸北部的蘇丹式清真寺,C-CIV,10.49032,-6.41017,cultural,2021
+WHS-1650,The Porticoes of Bologna,波隆納拱廊,C-ITA,44.49139,11.33278,cultural,2021
+WHS-1653,Ivindo National Park,伊溫多國家公園,C-GAB,0.113,12.648,natural,2021
+WHS-1654,Petroglyphs of Lake Onega and the White Sea,奧涅加湖和白海的巖刻,C-RUS,61.7299,36.01264,cultural,2021
+WHS-1656,Jewish-Medieval Heritage of Erfurt,埃爾福特的中世紀猶太遺產,C-DEU,50.97866,11.02923,cultural,2023
+WHS-1657,Volcanoes and Forests of Mount Pelée and the Pitons of Northern Martinique,培雷山和馬提尼克北部山峰的火山和森林,C-FRA,14.8233,-61.17586,natural,2023
+WHS-1658,Old town of Kuldīga,庫爾迪加老城,C-LVA,56.96775,21.97153,cultural,2023
+WHS-1660,Viking-Age Ring Fortresses,維京時代的環形堡壘群,C-DNK,56.99528,9.25472,cultural,2023
+WHS-1661,"Modernist Kaunas: Architecture of Optimism, 1919-1939",現代主義的考納斯：1919-1939年的樂觀主義建築,C-LTU,54.89694,23.92917,cultural,2023
+WHS-1662,The Ancient Town of Si Thep and its Associated Dvaravati Monuments,西貼古鎮及相關陀羅缽地古蹟,C-THA,15.46582,101.15111,cultural,2023
+WHS-1663,National Archaeological Park Tak’alik Ab’aj,塔卡利克·阿巴赫國家考古公園,C-GTM,14.63861,-91.7325,cultural,2023
+WHS-1665,Cultural Landscape of Old Tea Forests of the Jingmai Mountain in Pu’er,普洱景邁山古茶林文化景觀,C-CHN,22.18417,100.0075,cultural,2023
+WHS-1666,Gaya Tumuli,伽倻古墳群,C-KOR,35.23726,128.87373,cultural,2023
+WHS-1667,Koh Ker: Archaeological Site of Ancient Lingapura or Chok Gargyar,貢開：林迦之城（榮耀之城）考古遺址,C-KHM,13.78306,104.53722,cultural,2023
+WHS-1668,The Persian Caravanserai,波斯商隊驛站,C-IRN,35.05835,51.42014,cultural,2023
+WHS-1669,Gordion,戈爾迪烏姆,C-TUR,39.64333,31.98611,cultural,2023
+WHS-1670,Sacred Ensembles of the Hoysalas,曷薩拉王朝神廟群,C-IND,13.21245,75.99407,cultural,2023
+WHS-1671,The Cosmological Axis of Yogyakarta and its Historic Landmarks,日惹的宇宙中軸線及其歷史地標,C-IDN,-7.80139,110.36478,cultural,2023
+WHS-1673,"Vjetrenica Cave, Ravno",拉夫諾的岩溶風洞,C-BIH,42.845,17.98889,natural,2024
+WHS-1675,Silk Roads: Zarafshan-Karakum Corridor,絲綢之路：扎拉夫尚-卡拉庫姆廊道,C-TJK;C-UZB;C-TKM,39.44149,69.68556,cultural,2023
+WHS-1676,"Human Rights, Liberation and Reconciliation: Nelson Mandela Legacy Sites",人權、解放與和解：納爾遜·曼德拉紀念地,C-ZAF,-25.74069,28.21179,cultural,2024
+WHS-1678,Astronomical Observatories of Kazan Federal University,喀山聯邦大學天文臺,C-RUS,55.79091,49.1191,cultural,2023
+WHS-1680,Jodensavanne Archaeological Site: Jodensavanne Settlement and Cassipora Creek Cemetery,猶太薩凡納,C-SUR,5.43111,-54.98267,cultural,2023
+WHS-1681,"ESMA Museum and Site of Memory – Former Clandestine Centre of Detention, Torture and Extermination",海軍機械學院博物館和紀念地-曾經的秘密拘留、折磨與處決地,C-ARG,-34.53664,-58.46533,cultural,2023
+WHS-1683,Eisinga Planetarium in Franeker,王立艾瑟·艾辛哈天文館,C-NLD,53.18738,5.54375,cultural,2023
+WHS-1685,Tugay forests of the Tigrovaya Balka Nature Reserve,虎谷自然保護區,C-TJK,37.20472,68.34139,natural,2023
+WHS-1686,Anticosti,安蒂科斯蒂,C-CAN,49.53861,-63.24528,natural,2023
+WHS-1687,Ancient Jericho/Tell es-Sultan,耶利哥土丘,C-PSE,31.87131,35.44406,cultural,2023
+WHS-1688,Cultural Landscape of Kenozero Lake,克諾澤羅湖區歷史見證,C-RUS,61.928,38.17261,cultural,2024
+WHS-1689,Hopewell Ceremonial Earthworks,霍普維爾儀式用土築,C-USA,40.05366,-82.44606,cultural,2023
+WHS-1692,Evaporitic Karst and Caves of Northern Apennines,北亞平寧的蒸發喀斯特和洞穴,C-ITA,44.37994,10.38892,natural,2023
+WHS-1693,Cold Winter Deserts of Turan,圖蘭的冷冬沙漠,C-KAZ;C-UZB;C-TKM,44.02583,79.03417,natural,2023
+WHS-1694,Wooden Hypostyle Mosques of Medieval Anatolia,中世紀安納托利亞的木柱式清真寺,C-TUR,38.75504,30.52958,cultural,2023
+WHS-1695,Zagori Cultural Landscape,扎戈裡文化景觀,C-GRC,39.90528,20.81972,cultural,2023
+WHS-1696,Cultural Landscape of Khinalig People and “Köç Yolu” Transhumance Route,希納利格人文化景觀和移牧路線,C-AZE,40.7059,48.8854,cultural,2023
+WHS-1697,Nyungwe National Park,尼溫圭國家公園,C-RWA,-2.5553,29.24733,natural,2023
+WHS-1698,Sado Island Gold Mines,佐渡金山,C-JPN,38.04083,138.25778,cultural,2024
+WHS-1699,‘Uruq Bani Ma’arid,奧魯克·巴尼·馬阿里德,C-SAU,19.36389,45.59833,natural,2023
+WHS-1700,"Landmarks of the Ancient Kingdom of Saba, Marib",,C-YEM,15.42688,45.33523,cultural,2023
+WHS-1702,Rachid Karami International Fair-Tripoli,拉希德·卡拉米國際會展中心,C-LBN,34.43778,35.82417,cultural,2023
+WHS-1703,The Historic Centre of Odesa,,C-UKR,46.48645,30.74161,cultural,2023
+WHS-1704,Wixárika Route through Sacred Sites to Wirikuta (Tatehuarí Huajuyé),通往維裡庫塔的維哈里卡聖地之路（我們的祖火之路）,C-MEX,22.59786,-103.28015,cultural,2025
+WHS-1705,Schwerin Residence Ensemble,什未林住宅區,C-DEU,53.62417,11.41889,cultural,2024
+WHS-1707,Te Henua Enata – The Marquesas Islands,馬克薩斯群島,C-FRA,-7.96989,-140.64605,mixed,2024
+WHS-1708,Via Appia. Regina Viarum,亞壁古道,C-ITA,41.29272,13.26272,cultural,2024
+WHS-1709,Murujuga Cultural Landscape,穆魯朱加文化景觀,C-AUS,-20.56503,116.66853,cultural,2025
+WHS-1711,Moidams – the Mound-Burial System of the Ahom Dynasty,馬伊達姆,C-IND,26.94117,94.87635,cultural,2024
+WHS-1712,The Cultural Landscape of Al-Faw Archaeological Area,法烏考古區文化景觀,C-SAU,19.76492,45.16339,cultural,2024
+WHS-1713,Royal Court of Tiébélé,鐵貝萊王宮,C-BFA,11.08922,-0.96186,cultural,2024
+WHS-1714,Beijing Central Axis: A Building Ensemble Exhibiting the Ideal Order of the Chinese Capital,北京中軸綫,C-CHN,39.90722,116.39139,cultural,2024
+WHS-1715,Gdynia Modernist City Centre,,C-POL,54.51953,18.53891,cultural,2026
+WHS-1716,Hegmataneh,埃克巴坦那,C-IRN,34.80239,48.51669,cultural,2024
+WHS-1718,Frontiers of the Roman Empire – Dacia,羅馬帝國的邊疆——達契亞,C-ROU,47.18079,23.15941,cultural,2024
+WHS-1719,The wider area of Mount Olympus,奧林匹斯山及周邊區域,C-GRC,40.0783,22.3489,mixed,2026
+WHS-1720,The Historic Town and Archaeological Site of Gedi,格迪古鎮和考古遺址,C-KEN,-3.31026,40.01726,cultural,2024
+WHS-1721,Umm Al-Jimāl,烏姆吉馬爾,C-JOR,32.32694,36.37,cultural,2024
+WHS-1722,The Flow Country,弗羅濕地區,C-GBR,58.39917,-4.04611,natural,2024
+WHS-1723,The Emergence of Modern Human Behaviour: The Pleistocene Occupation Sites of South Africa,現代人的出現：南非更新世人類遺址,C-ZAF,-32.38639,18.4525,cultural,2024
+WHS-1724,Wadi Wurayah,瓦迪烏拉亞,C-ARE,25.4226,56.36346,natural,2026
+WHS-1725,Megaliths of Carnac and of the shores of Morbihan,卡奈克巨石林,C-FRA,47.61611,-3.08722,cultural,2025
+WHS-1726,"The Palaces of King Ludwig II of Bavaria: Neuschwanstein, Linderhof, Schachen and Herrenchiemsee",巴伐利亞國王路德維希二世的宮殿群：新天鵝堡、林德霍夫宮、夏亨行宮、海倫基姆湖宮——從夢想到現實,C-DEU,47.5575,10.74944,cultural,2025
+WHS-1728,Møns Klint,默恩崖,C-DNK,54.96778,12.55028,natural,2025
+WHS-1730,Funerary Tradition in the Prehistory of Sardinia – The domus de janas,撒丁島史前時期的喪葬傳統——仙女之家,C-ITA,40.08514,8.95133,cultural,2025
+WHS-1731,Sardis and the Lydian Tumuli of Bin Tepe,薩第斯及賓特佩的呂底亞陵墓群,C-TUR,38.48194,28.04528,cultural,2025
+WHS-1732,"Yen Tu-Vinh Nghiem-Con Son, Kiep Bac Complex of Monuments and Landscapes",安子、永嚴、崑山-劫泊建築和景觀群,C-VNM,21.11926,106.5354,cultural,2025
+WHS-1733,Minoan Palatial Centres,米諾斯王宮中心,C-GRC,35.24861,24.88722,cultural,2025
+WHS-1734,Forest Research Institute Malaysia Forest Park Selangor,馬來西亞森林研究院雪蘭莪森林公園,C-MYS,3.22925,101.62728,cultural,2025
+WHS-1735,Faya Palaeolandscape,法亞古地貌,C-ARE,25.08281,55.80658,cultural,2025
+WHS-1736,Xixia Imperial Tombs,西夏陵,C-CHN,38.41583,105.97111,cultural,2025
+WHS-1739,Maratha Military Landscapes of India,印度馬拉塔軍事景觀,C-IND,20.7225,73.9425,cultural,2025
+WHS-1740,Petroglyphs along the Bangucheon Stream,盤龜川巖刻畫,C-KOR,35.60845,129.174,cultural,2025
+WHS-1742,Aqaba Marine Reserve,亞喀巴海洋保護區,C-JOR,29.4307,34.97184,natural,2026
+WHS-1743,Rock Paintings of Shulgan-Tash Cave,舒利根塔什洞穴巖畫,C-RUS,53.04944,57.07203,cultural,2025
+WHS-1744,Prehistoric Sites of the Khorramabad Valley,霍拉馬巴德谷地的史前遺址,C-IRN,33.49211,48.34557,cultural,2025
+WHS-1745,Diy-Gid-Biy Cultural Landscape of the Mandara Mountains,曼達拉山脈的迪吉比文化景觀,C-CMR,10.90333,13.79556,cultural,2025
+WHS-1746,Gola-Tiwai Complex,戈拉-蒂瓦伊綜合體,C-SLE,7.54117,-11.34789,natural,2025
+WHS-1747,Peruaçu River Canyon,佩魯瓦蘇河峽谷,C-BRA,-15.075,-44.20833,natural,2025
+WHS-1748,Cambodian Memorial Sites: From centres of repression to places of peace and reflection,柬埔寨紀念地：從壓迫中心到和平與反思之所,C-KHM,11.77016,104.38481,cultural,2025
+WHS-1749,Saint Hilarion Monastery/ Tell Umm Amer,聖希拉里翁修道院 / 特爾烏姆阿邁爾,C-PSE,31.44731,34.36636,cultural,2024
+WHS-1750,The Roças of Sao Tome and Principe: Colonial Agricultural System and Forced Migration,聖多美和普林西比羅薩種植園：殖民農業體系與強迫遷徙,C-STP,0.14022,6.64622,cultural,2026
+WHS-1751,Okefenokee National Wildlife Refuge,奧科菲諾基國家野生動物保護區,C-USA,30.73812,-82.13974,natural,2026
+WHS-1752,Aalto Works,阿爾託作品,C-FIN,,,cultural,2026
+WHS-1755,Royal Capetian Fortresses of Languedoc,朗格多克的卡佩王朝皇家堡壘群,C-FRA,,,cultural,2026
+WHS-1757,Ancient Capitals of Asuka and Fujiwara,飛鳥、藤原的宮都以及其相關的資產羣,C-JPN,34.47028,135.82361,cultural,2026
+WHS-1758,The Bony Fish Fossils of the Western Limfjord – Evolution and Climate Adaptation in the Earliest Eocene,利姆水道西段硬骨魚化石——始新世最早期的演化和氣候適應,C-DNK,56.89565,8.75196,natural,2026
+WHS-1759,The Cemetery Complexes of the Xiongnu Nobility,匈奴貴族墓葬群,C-MNG,,,cultural,2026
+WHS-1760,Rock Mosques and Associated Sacred Sites of Mangystau,曼格斯套巖鑿清真寺及相關聖地,C-KAZ,,,cultural,2026
+WHS-1761,"Wat Phra Mahathat Woramahawihan, Nakhon Si Thammarat",洛坤府的瑪哈泰寺,C-THA,8.41139,99.96667,cultural,2026
+WHS-1762,The system of Italian-style condominio theatres of the 18th and 19th centuries in Central Italy,義大利式共管劇院體系,C-ITA,,,cultural,2026
+WHS-1765,Jingdezhen Handicraft Porcelain Industry Sites,景德鎮手工瓷業遺存,C-CHN,29.29722,117.20194,cultural,2026
+WHS-1766,Tashkent Modernist Architecture. Modernity and Tradition in Central Asia,塔什干現代主義建築：中亞的現代性和傳統,C-UZB,41.3086,69.2417,cultural,2026
+WHS-1768,The Medinas of the Historic Sultanates of the Comoros,葛摩歷史蘇丹國麥地那,C-COM,-12.26091,44.53176,cultural,2026
+WHS-1769,Village of Sidi Bou Saïd,西迪布賽義德,C-TUN,36.86976,10.34101,cultural,2026
+WHS-1770,Alamūt Castle and Related Fortifications,阿拉穆特城堡及相關防禦工事,C-IRN,36.44374,50.44958,cultural,2026
+WHS-1774,Amazonia Theaters,,C-BRA,-3.13028,-60.0234,cultural,2026
+WHS-1808,Boma–Badingilo Migratory Landscape,博馬—巴丁吉羅遷徙景觀,C-SSD,6.5138,32.9586,natural,2026
+WHS-1809,Sebastia,塞巴斯蒂亞,C-PSE,32.26667,35.18333,cultural,2026
+WHS-1810,Mount Amel Castles,阿米勒山區城堡群,C-LBN,33.32471,35.53215,cultural,2026

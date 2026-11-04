@@ -1,0 +1,27 @@
+{
+  "說明": "自動推定候選足跡的門檻。距離單位公里、天數單位日。",
+  "taiwan_snap_km": 2,
+  "country_snap_km": 30,
+  "city_min_population": 100000,
+  "city_radius_km": 30,
+  "city_small_radius_km": 10,
+  "trip_gap_days": 3,
+  "rules": {
+    "說明": "查核後加的推定修正，見 lifemap/infer.py 開頭",
+    "home_country": "C-TWN",
+    "review_only_max_level_home": 2,
+    "long_stay_min_visits": 3,
+    "long_stay_months": 8,
+    "low_confidence_keywords": [
+      "工程行",
+      "水電",
+      "搬家",
+      "寬頻",
+      "托嬰",
+      "清潔",
+      "Service"
+    ]
+  },
+  "whs_radius_km": 3,
+  "poi_max_radius_km": 8
+}

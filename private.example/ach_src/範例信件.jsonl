@@ -1,0 +1,6 @@
+{"message_id": "<1>", "date_utc": "2022-05-07T01:00:00", "sender_domain": "order.example.com", "subject": "Your Tickets for Sample Badminton Open"}
+{"message_id": "<2>", "date_utc": "2022-05-07T01:05:00", "sender_domain": "order.example.com", "subject": "Your Tickets for Sample Badminton Open"}
+{"message_id": "<3>", "date_utc": "2023-10-12T01:00:00", "sender_domain": "order.example.com", "subject": "Order Confirmation for Sample Research Showcase 2023"}
+{"message_id": "<4>", "date_utc": "2023-11-02T01:00:00", "sender_domain": "event.example.com", "subject": "Reminder: Sample Research Showcase starts"}
+{"message_id": "<5>", "date_utc": "2020-11-06T01:00:00", "sender_domain": "mail.example.com", "subject": "預訂確認 123 - 範例旅店 - 魚池鄉"}
+{"message_id": "<6>", "date_utc": "2020-11-07T01:00:00", "sender_domain": "mail.example.com", "subject": "您的預訂已取消 - 魚池鄉"}

@@ -1,0 +1,9 @@
+﻿visit_id,place_id,date_start,date_end,level,together,trip_id,memory,photo,source,confidence,confirmed
+1,C-TWN,,,5,false,,範例：住在台灣,,manual,高,true
+2,TW-66000090,2012,,5,false,,範例：住過豐原區,,manual,高,true
+3,TW-67000360,2023-05-01,2023-05-02,4,true,T02,範例：安平老街吃豆花,,manual,高,true
+4,CITY-1850147,2022-11-14,2022-11-19,4,true,T01,範例：第一次去東京,,manual,高,true
+5,CITY-1857910,2022-11-17,2022-11-17,3,true,T01,範例：京都一日遊,,manual,高,true
+6,CITY-2988507,2021-09,,4,false,T03,範例：一個人的巴黎,,manual,中,true
+7,CITY-1819729,2021-09,,1,false,T03,範例：香港轉機,,manual,高,true
+8,TW-10015010,2022,,3,false,,範例：未確認的候選足跡,,timeline,低,false

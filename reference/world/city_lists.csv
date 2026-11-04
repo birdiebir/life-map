@@ -1,0 +1,151 @@
+city_id,name_en,list,rank,year,source_url
+CITY-2988507,Paris,euromonitor_top100,1,2025,https://edition.cnn.com/2025/12/04/travel/euromonitor-international-top-city-destinations-2025
+CITY-3117735,Madrid,euromonitor_top100,2,2025,https://edition.cnn.com/2025/12/04/travel/euromonitor-international-top-city-destinations-2025
+CITY-1850147,Tokyo,euromonitor_top100,3,2025,https://edition.cnn.com/2025/12/04/travel/euromonitor-international-top-city-destinations-2025
+CITY-3169070,Rome,euromonitor_top100,4,2025,https://edition.cnn.com/2025/12/04/travel/euromonitor-international-top-city-destinations-2025
+CITY-3173435,Milan,euromonitor_top100,5,2025,https://edition.cnn.com/2025/12/04/travel/euromonitor-international-top-city-destinations-2025
+CITY-5128581,New York City,euromonitor_top100,6,2025,https://edition.cnn.com/2025/12/04/travel/euromonitor-international-top-city-destinations-2025
+CITY-2759794,Amsterdam,euromonitor_top100,7,2025,https://edition.cnn.com/2025/12/04/travel/euromonitor-international-top-city-destinations-2025
+CITY-3128760,Barcelona,euromonitor_top100,8,2025,https://edition.cnn.com/2025/12/04/travel/euromonitor-international-top-city-destinations-2025
+CITY-1880252,Singapore,euromonitor_top100,9,2025,https://edition.cnn.com/2025/12/04/travel/euromonitor-international-top-city-destinations-2025
+CITY-1835848,Seoul,euromonitor_top100,10,2025,https://edition.cnn.com/2025/12/04/travel/euromonitor-international-top-city-destinations-2025
+CITY-1853909,Osaka,euromonitor_top100,11,2025,https://www.bernama.com/en/press/news.php?id=2498812
+CITY-292223,Dubai,euromonitor_top100,12,2025,https://www.businesswire.com/news/home/20251204685270/en/Dubai-Ranks-12th-in-the-Worlds-Top-100-City-Destinations-for-2025-Euromonitor-International
+CITY-5368361,Los Angeles,euromonitor_top100,13,2025,https://edition.cnn.com/2025/12/04/travel/euromonitor-international-top-city-destinations-2025
+CITY-1668341,Taipei,euromonitor_top100,15,2025,https://www.bernama.com/en/press/news.php?id=2498812
+CITY-1819729,Hong Kong,euromonitor_top100,17,2025,https://edition.cnn.com/2025/12/04/travel/euromonitor-international-top-city-destinations-2025
+CITY-2643743,London,euromonitor_top100,18,2025,https://edition.cnn.com/2025/12/04/travel/euromonitor-international-top-city-destinations-2025
+CITY-1857910,Kyoto,euromonitor_top100,19,2025,https://edition.cnn.com/2025/12/04/travel/euromonitor-international-top-city-destinations-2025
+CITY-1609350,Bangkok,euromonitor_top100,20,2025,https://www.bernama.com/en/press/news.php?id=2498812
+CITY-1609350,Bangkok,euromonitor_arrivals_top10,1,2025,https://edition.cnn.com/2025/12/04/travel/euromonitor-international-top-city-destinations-2025
+CITY-1819729,Hong Kong,euromonitor_arrivals_top10,2,2025,https://edition.cnn.com/2025/12/04/travel/euromonitor-international-top-city-destinations-2025
+CITY-2643743,London,euromonitor_arrivals_top10,3,2025,https://edition.cnn.com/2025/12/04/travel/euromonitor-international-top-city-destinations-2025
+CITY-1821274,Macau,euromonitor_arrivals_top10,4,2025,https://edition.cnn.com/2025/12/04/travel/euromonitor-international-top-city-destinations-2025
+CITY-745044,Istanbul,euromonitor_arrivals_top10,5,2025,https://edition.cnn.com/2025/12/04/travel/euromonitor-international-top-city-destinations-2025
+CITY-292223,Dubai,euromonitor_arrivals_top10,6,2025,https://edition.cnn.com/2025/12/04/travel/euromonitor-international-top-city-destinations-2025
+CITY-104515,Mecca,euromonitor_arrivals_top10,7,2025,https://edition.cnn.com/2025/12/04/travel/euromonitor-international-top-city-destinations-2025
+CITY-323777,Antalya,euromonitor_arrivals_top10,8,2025,https://edition.cnn.com/2025/12/04/travel/euromonitor-international-top-city-destinations-2025
+CITY-2988507,Paris,euromonitor_arrivals_top10,9,2025,https://edition.cnn.com/2025/12/04/travel/euromonitor-international-top-city-destinations-2025
+CITY-1735161,Kuala Lumpur,euromonitor_arrivals_top10,10,2025,https://edition.cnn.com/2025/12/04/travel/euromonitor-international-top-city-destinations-2025
+CITY-2618425,Copenhagen,eiu_liveability,1,2026,https://en.wikipedia.org/wiki/Global_Liveability_Index
+CITY-2761369,Vienna,eiu_liveability,2,2026,https://en.wikipedia.org/wiki/Global_Liveability_Index
+CITY-2158177,Melbourne,eiu_liveability,3,2026,https://en.wikipedia.org/wiki/Global_Liveability_Index
+CITY-2147714,Sydney,eiu_liveability,4,2026,https://en.wikipedia.org/wiki/Global_Liveability_Index
+CITY-2657896,Zurich,eiu_liveability,5,2026,https://en.wikipedia.org/wiki/Global_Liveability_Index
+CITY-2660646,Geneva,eiu_liveability,6,2026,https://en.wikipedia.org/wiki/Global_Liveability_Index
+CITY-1853909,Osaka,eiu_liveability,7,2026,https://en.wikipedia.org/wiki/Global_Liveability_Index
+CITY-2078025,Adelaide,eiu_liveability,8,2026,https://en.wikipedia.org/wiki/Global_Liveability_Index
+CITY-6173331,Vancouver,eiu_liveability,9,2026,https://en.wikipedia.org/wiki/Global_Liveability_Index
+CITY-1850147,Tokyo,eiu_liveability,10,2026,https://en.wikipedia.org/wiki/Global_Liveability_Index
+CITY-1880252,Singapore,eiu_liveability,26,2026,https://smb.americanpress.com/article/EIU-Liveability-Index-2026-Copenhagen-Vienna-and-Melbourne-top-annual-city-ranking-with-New-York-recording-one-of-the-largest-score-gains/6a4c7a991f33de42266d664c
+CITY-1819729,Hong Kong,eiu_liveability,44,2026,https://smb.americanpress.com/article/EIU-Liveability-Index-2026-Copenhagen-Vienna-and-Melbourne-top-annual-city-ranking-with-New-York-recording-one-of-the-largest-score-gains/6a4c7a991f33de42266d664c
+CITY-2643123,Manchester,eiu_liveability,52,2026,https://smb.americanpress.com/article/EIU-Liveability-Index-2026-Copenhagen-Vienna-and-Melbourne-top-annual-city-ranking-with-New-York-recording-one-of-the-largest-score-gains/6a4c7a991f33de42266d664c
+CITY-2643743,London,eiu_liveability,54,2026,https://smb.americanpress.com/article/EIU-Liveability-Index-2026-Copenhagen-Vienna-and-Melbourne-top-annual-city-ranking-with-New-York-recording-one-of-the-largest-score-gains/6a4c7a991f33de42266d664c
+CITY-2650225,Edinburgh,eiu_liveability,64,2026,https://smb.americanpress.com/article/EIU-Liveability-Index-2026-Copenhagen-Vienna-and-Melbourne-top-annual-city-ranking-with-New-York-recording-one-of-the-largest-score-gains/6a4c7a991f33de42266d664c
+CITY-5128581,New York City,eiu_liveability,66,2026,https://smb.americanpress.com/article/EIU-Liveability-Index-2026-Copenhagen-Vienna-and-Melbourne-top-annual-city-ranking-with-New-York-recording-one-of-the-largest-score-gains/6a4c7a991f33de42266d664c
+CITY-1810821,Fuzhou,eiu_liveability,93,2026,https://smb.americanpress.com/article/EIU-Liveability-Index-2026-Copenhagen-Vienna-and-Melbourne-top-annual-city-ranking-with-New-York-recording-one-of-the-largest-score-gains/6a4c7a991f33de42266d664c
+CITY-285787,Kuwait City,eiu_liveability,105,2026,https://smb.americanpress.com/article/EIU-Liveability-Index-2026-Copenhagen-Vienna-and-Melbourne-top-annual-city-ranking-with-New-York-recording-one-of-the-largest-score-gains/6a4c7a991f33de42266d664c
+CITY-993800,Johannesburg,eiu_liveability,108,2026,https://independentonsaturday.co.za/the-star/2026-09-04-johannesburg-climbs-to-108th-in-global-liveability-rankings-but-gap-remains/
+CITY-287286,Muscat,eiu_liveability,123,2026,https://smb.americanpress.com/article/EIU-Liveability-Index-2026-Copenhagen-Vienna-and-Melbourne-top-annual-city-ranking-with-New-York-recording-one-of-the-largest-score-gains/6a4c7a991f33de42266d664c
+CITY-112931,Tehran,eiu_liveability,164,2026,https://smb.americanpress.com/article/EIU-Liveability-Index-2026-Copenhagen-Vienna-and-Melbourne-top-annual-city-ranking-with-New-York-recording-one-of-the-largest-score-gains/6a4c7a991f33de42266d664c
+CITY-703448,Kyiv,eiu_liveability,166,2026,https://smb.americanpress.com/article/EIU-Liveability-Index-2026-Copenhagen-Vienna-and-Melbourne-top-annual-city-ranking-with-New-York-recording-one-of-the-largest-score-gains/6a4c7a991f33de42266d664c
+CITY-1819729,Hong Kong,euromonitor_arrivals_2018,1,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1609350,Bangkok,euromonitor_arrivals_2018,2,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-2643743,London,euromonitor_arrivals_2018,3,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1821274,Macau,euromonitor_arrivals_2018,4,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1880252,Singapore,euromonitor_arrivals_2018,5,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-2988507,Paris,euromonitor_arrivals_2018,6,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-292223,Dubai,euromonitor_arrivals_2018,7,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-5128581,New York City,euromonitor_arrivals_2018,8,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1735161,Kuala Lumpur,euromonitor_arrivals_2018,9,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-745044,Istanbul,euromonitor_arrivals_2018,10,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1273294,Delhi,euromonitor_arrivals_2018,11,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-323777,Antalya,euromonitor_arrivals_2018,12,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1795565,Shenzhen,euromonitor_arrivals_2018,13,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1275339,Mumbai,euromonitor_arrivals_2018,14,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1151254,Phuket,euromonitor_arrivals_2018,15,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-3169070,Rome,euromonitor_arrivals_2018,16,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1850147,Tokyo,euromonitor_arrivals_2018,17,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1614295,Pattaya,euromonitor_arrivals_2018,18,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1668341,Taipei,euromonitor_arrivals_2018,19,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-104515,Mecca,euromonitor_arrivals_2018,20,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1809858,Guangzhou,euromonitor_arrivals_2018,21,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-3067696,Prague,euromonitor_arrivals_2018,22,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-109223,Medina,euromonitor_arrivals_2018,23,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1835848,Seoul,euromonitor_arrivals_2018,24,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-2759794,Amsterdam,euromonitor_arrivals_2018,25,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1279259,Agra,euromonitor_arrivals_2018,26,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-4164138,Miami,euromonitor_arrivals_2018,27,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1853909,Osaka,euromonitor_arrivals_2018,28,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-5368361,Los Angeles,euromonitor_arrivals_2018,29,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1796236,Shanghai,euromonitor_arrivals_2018,30,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1566083,Ho Chi Minh City,euromonitor_arrivals_2018,31,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1645528,Denpasar,euromonitor_arrivals_2018,32,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-3128760,Barcelona,euromonitor_arrivals_2018,33,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-5506956,Las Vegas,euromonitor_arrivals_2018,34,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-3173435,Milan,euromonitor_arrivals_2018,35,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1264527,Chennai,euromonitor_arrivals_2018,36,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-2761369,Vienna,euromonitor_arrivals_2018,37,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1732752,Johor Bahru,euromonitor_arrivals_2018,38,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1269515,Jaipur,euromonitor_arrivals_2018,39,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-3531673,Cancún,euromonitor_arrivals_2018,40,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-2950159,Berlin,euromonitor_arrivals_2018,41,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-360630,Cairo,euromonitor_arrivals_2018,42,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-264371,Athens,euromonitor_arrivals_2018,43,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-4167147,Orlando,euromonitor_arrivals_2018,44,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-524901,Moscow,euromonitor_arrivals_2018,45,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-3164603,Venice,euromonitor_arrivals_2018,46,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-3117735,Madrid,euromonitor_arrivals_2018,47,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1580410,Ha Long,euromonitor_arrivals_2018,48,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-108410,Riyadh,euromonitor_arrivals_2018,49,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-2964574,Dublin,euromonitor_arrivals_2018,50,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-3176959,Florence,euromonitor_arrivals_2018,51,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1581130,Hanoi,euromonitor_arrivals_2018,52,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-6167865,Toronto,euromonitor_arrivals_2018,53,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-993800,Johannesburg,euromonitor_arrivals_2018,54,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-2147714,Sydney,euromonitor_arrivals_2018,55,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-2867714,Munich,euromonitor_arrivals_2018,56,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1642911,Jakarta,euromonitor_arrivals_2018,57,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1816670,Beijing,euromonitor_arrivals_2018,58,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-498817,Saint Petersburg,euromonitor_arrivals_2018,59,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-2800866,Brussels,euromonitor_arrivals_2018,60,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-281184,Jerusalem,euromonitor_arrivals_2018,61,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-3054643,Budapest,euromonitor_arrivals_2018,62,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-2267057,Lisbon,euromonitor_arrivals_2018,63,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-110336,Dammam,euromonitor_arrivals_2018,64,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1735106,Penang Island,euromonitor_arrivals_2018,65,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-261745,Heraklion,euromonitor_arrivals_2018,66,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1857910,Kyoto,euromonitor_arrivals_2018,67,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1790437,Zhuhai,euromonitor_arrivals_2018,68,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-6173331,Vancouver,euromonitor_arrivals_2018,69,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1153671,Chiang Mai,euromonitor_arrivals_2018,70,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-2618425,Copenhagen,euromonitor_arrivals_2018,71,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-5391959,San Francisco,euromonitor_arrivals_2018,72,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-2158177,Melbourne,euromonitor_arrivals_2018,73,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-3094802,Krakow,euromonitor_arrivals_2018,74,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-2542997,Marrakesh,euromonitor_arrivals_2018,75,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1275004,Kolkata,euromonitor_arrivals_2018,76,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1717512,Cebu City,euromonitor_arrivals_2018,77,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-2193733,Auckland,euromonitor_arrivals_2018,78,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-293397,Tel Aviv,euromonitor_arrivals_2018,79,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1809498,Guilin,euromonitor_arrivals_2018,80,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-5856195,Honolulu,euromonitor_arrivals_2018,81,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-361291,Hurghada,euromonitor_arrivals_2018,82,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-756135,Warsaw,euromonitor_arrivals_2018,83,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-304184,Muğla,euromonitor_arrivals_2018,84,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-3435910,Buenos Aires,euromonitor_arrivals_2018,85,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-2113015,Chiba,euromonitor_arrivals_2018,86,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-2925533,Frankfurt,euromonitor_arrivals_2018,87,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-2673730,Stockholm,euromonitor_arrivals_2018,88,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-3936456,Lima,euromonitor_arrivals_2018,89,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1583992,Da Nang,euromonitor_arrivals_2018,90,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-6295587,Batam,euromonitor_arrivals_2018,91,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-2990440,Nice,euromonitor_arrivals_2018,92,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1863967,Fukuoka,euromonitor_arrivals_2018,93,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-292968,Abu Dhabi,euromonitor_arrivals_2018,94,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1846266,Jeju,euromonitor_arrivals_2018,95,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-2735943,Porto,euromonitor_arrivals_2018,96,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-400666,Rhodes,euromonitor_arrivals_2018,97,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-3451190,Rio de Janeiro,euromonitor_arrivals_2018,98,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1152633,Krabi,euromonitor_arrivals_2018,99,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors
+CITY-1277333,Bangalore,euromonitor_arrivals_2018,100,2018,https://en.wikipedia.org/wiki/List_of_cities_by_international_visitors

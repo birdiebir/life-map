@@ -1,0 +1,246 @@
+{
+  "sources": [
+    {
+      "type": "csv",
+      "name": "範例職涯里程碑表",
+      "path": "ach_src/milestones.csv",
+      "domain": "career",
+      "item": "範例公司",
+      "columns": {
+        "title": "里程碑",
+        "date": "實際日期",
+        "source": "來源"
+      },
+      "filter": {
+        "狀態": "已達成"
+      }
+    },
+    {
+      "type": "markdown",
+      "name": "範例學習筆記",
+      "root": "ach_src",
+      "glob": "ach_src/notes/*.md",
+      "exclude": [
+        "README.md"
+      ],
+      "domain": "learning",
+      "item": "範例"
+    },
+    {
+      "type": "training_log",
+      "name": "範例訓練筆記",
+      "root": "ach_src",
+      "files": [
+        "ach_src/範例訓練筆記.md"
+      ],
+      "domain": "sports",
+      "week_start": "2026-01-05",
+      "date_col": "日期",
+      "category_col": "類別",
+      "item_map": {
+        "羽球": "羽球",
+        "重量": "重訓"
+      },
+      "min_coverage": 0.5
+    },
+    {
+      "type": "records_json",
+      "name": "範例健身紀錄JSON",
+      "root": "ach_src",
+      "files": [
+        "ach_src/範例健身紀錄.json"
+      ],
+      "domain": "sports",
+      "item_map": {
+        "羽球": "羽球",
+        "重量": "重訓"
+      },
+      "infer_by_load": false,
+      "min_coverage": 0.5
+    },
+    {
+      "type": "md_table",
+      "name": "範例家族時間軸",
+      "root": "ach_src",
+      "files": [
+        "ach_src/範例家族時間軸.md"
+      ],
+      "domain": "family",
+      "item": "家人大事",
+      "date_col": "日期",
+      "title_cols": [
+        "事件"
+      ],
+      "filter": {
+        "類型": [
+          "家族大事",
+          "生日"
+        ]
+      },
+      "exclude": {
+        "類型": [
+          "財務"
+        ]
+      },
+      "include_any": [
+        {
+          "事件": [
+            "協助",
+            "教家人",
+            "陪同"
+          ]
+        }
+      ],
+      "item_col": "類型",
+      "item_rules": [
+        {
+          "col": "事件",
+          "contains": [
+            "協助",
+            "教家人",
+            "陪同"
+          ],
+          "item": "幫助家人"
+        }
+      ],
+      "item_map": {
+        "生日": "生日送禮",
+        "家族大事": "家人大事"
+      }
+    },
+    {
+      "type": "trips",
+      "name": "範例家族旅遊",
+      "path": "trips.csv",
+      "domain": "family",
+      "item": "家族旅遊",
+      "filter": {
+        "kind": [
+          "家族旅遊"
+        ]
+      },
+      "absorb_items": [
+        "家人大事"
+      ]
+    },
+    {
+      "type": "file_index",
+      "name": "範例檔案索引",
+      "index": "ach_src/範例INDEX.md",
+      "section_contains": [
+        "作品集"
+      ],
+      "domain": "learning",
+      "item": "作品集",
+      "drop_any": [
+        "價目表",
+        "環境安裝"
+      ],
+      "drop_unmatched": true,
+      "domain_rules": [
+        {
+          "match": "證書|認證",
+          "domain": "learning",
+          "item": "專業證照"
+        },
+        {
+          "match": "學士|研究報告",
+          "domain": "learning",
+          "item": "學士"
+        }
+      ]
+    },
+    {
+      "type": "photo_albums",
+      "name": "範例相簿事件",
+      "catalog": "ach_src/範例照片目錄.csv",
+      "group_by": "line_album",
+      "min_photos": 5,
+      "domain": "social",
+      "item": "活動",
+      "rules": [
+        {
+          "match": "畢業典禮",
+          "domain": "learning",
+          "item": "高中",
+          "title": "範例高中畢業典禮"
+        }
+      ]
+    },
+    {
+      "type": "jsonl_events",
+      "name": "範例信件活動",
+      "origin": "mail_event",
+      "files": [
+        "ach_src/範例信件.jsonl"
+      ],
+      "date_field": "date_utc",
+      "text_field": "subject",
+      "include": [
+        "^(Order Confirmation for|Your Tickets for)\\s"
+      ],
+      "title_regex": "(?:Order Confirmation for|Your Tickets for)\\s+(.+)",
+      "domain": "social",
+      "item": "活動參與",
+      "domain_rules": [
+        {
+          "match": "Badminton",
+          "domain": "sports",
+          "item": "羽球"
+        },
+        {
+          "match": "Showcase",
+          "domain": "learning",
+          "item": "學術活動"
+        }
+      ]
+    },
+    {
+      "type": "jsonl_events",
+      "name": "範例社團創立(社群來源)",
+      "origin": "fb_group_admin",
+      "files": [
+        "ach_src/範例社團紀錄.jsonl"
+      ],
+      "date_field": "timestamp",
+      "text_field": "header",
+      "include": [
+        "建立了"
+      ],
+      "title_regex": "建立了\\s*(.+?)\\s*社團。?$",
+      "title_prefix": "創立臉書社團：",
+      "domain": "social",
+      "item": "社群經營"
+    },
+    {
+      "type": "md_table",
+      "name": "範例人生趣事(無日期欄)",
+      "root": "ach_src",
+      "files": [
+        "ach_src/範例人生趣事.md"
+      ],
+      "title_cols": [
+        "事件"
+      ],
+      "allow_undated": true,
+      "origin": "kb_story",
+      "domain": "adventure",
+      "item": "趣事經歷",
+      "drop_any": [
+        "只有標題"
+      ],
+      "domain_rules": [
+        {
+          "match": "社團|團長",
+          "domain": "social",
+          "item": "社群經營"
+        },
+        {
+          "match": "模範生",
+          "domain": "learning",
+          "item": "競賽榮譽"
+        }
+      ]
+    }
+  ]
+}
